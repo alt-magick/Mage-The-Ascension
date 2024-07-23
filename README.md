@@ -1,7 +1,6 @@
-Overview 
+#Overview 
 <br><BR>
 This is an alternate system of sphere magic for the World of Darkness. It replaces the spheres for Mage: The Ascension.<br><br>
-<br>
 There are 12 Spheres in this system that are divided into coincidental & vulgar magic. The first three levels of each sphere are limited to coincidental effects, and the highest levels of the sphere are divided into two levels of vulgar magic.<br><Br>
 The Twelve Spheres in alphabetical order are:<br><br> 
 Control, Destruction, Feeling, Influence, Penetration, Production, Revelation, Restoration, Transformation, Travel, Understanding, and Vanishing.
@@ -15,14 +14,14 @@ These are the degrees of power for the Spheres:<br><br>
 •••••	Miraculous
 </pre>
 <br>
-Awarenes<br><br> Allows the Mage to sense things with their magic.<br><br>
-Sympathetic<br><br> The Mage can effect things they're personally connected to.<br><br>
-Coincidental<br><br>The Mage can work magic as long as it doesn't defy physics.<br><br>
-Manipulative<br><br>The Mage can manipulate and bend the laws of physics.<br><br>
-Miraculous<br><br>The Mage can now create impossible miracles.<br>
+• Awarenes<br><br> Allows the Mage to sense things with their magic.<br><br>
+• Sympathetic<br><br> The Mage can effect things they're personally connected to.<br><br>
+• Coincidental<br><br>The Mage can work magic as long as it doesn't defy physics.<br><br>
+• Manipulative<br><br>The Mage can manipulate and bend the laws of physics.<br><br>
+• Miraculous<br><br>The Mage can now create impossible miracles.<br>
 <br>
 
-==Mechanics==
+# Mechanics
 <br>
 These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 * Arete<br><br> Arete is the Mage's level of enlightenment. In game terms it is the number of dice a Mage rolls when casting their spells. No Sphere can be higher than your level of Arete. You can also only spend up to your level of Arete in quintessence on a single spell. A mage can optionally roll less dice than their Arete to avoid a potential botch.<br><br>
@@ -34,7 +33,7 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 * Botches<br><br>If a Mage rolls a failure when casting a spell & they also roll a 1 on any of their dice then they botch. This is a dangerous situation.<br><br>
 <br>
 
-===Spheres===
+# Spheres
 <br>
 * Understanding<br><br>
  Power:  Wisdom / ESP
@@ -186,7 +185,7 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 •••••	Spirit Travel
 </pre><br>
 
-==Paradox & Quiet==
+# Paradox & Quiet
 <br>
 The official rules say Paradox is caused by Vulgar magic. In these alternative rules Paradox happens when a Mage fails at casting their spells.<br><br>
 
@@ -203,7 +202,7 @@ Quintessence can be spent to reduce Paradox, but it has to be done before the In
 
 <br><br>
 
-===Occult===
+# Occult
 <br>
 This system of magic can connect to occult themes, for interesting role playing.
 <br><br>
