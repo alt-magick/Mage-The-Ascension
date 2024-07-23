@@ -180,13 +180,13 @@ The official rules say Paradox is caused by Vulgar magic. In these alternative r
 
 When a Mage fails a magic roll they gain a Paradox point. A botched roll will then releases that Paradox in the form of a Quiet (Insanity).<br><br>
 If a Mage has a Paradox level of 1-3, the Quiet happens in one of three ways:<br><br>
-Hallucinations, Fixations, or Attraction to Death<br><br>
+Hallucinations, Fixations, or Depression<br><br>
 If they have a Paradox level of 4-6, the Quiet happens in three more ways:<br><br>
-Delusions & Mood Swings, Reoccurring Behavior Patterns, or Morbidity<br><br>
+Delusions & Mood Swings, Reoccurring Behavior Patterns, or Suicidal Thoughts<br><br>
 If they have a Paradox level of 7-10, the Quiet happens as:<br><br>
-Wild Hallucinations, Obsession, and Anti-Social Behavior<br><br>
+Wild Hallucinations, Compulsions, and Anti-Social Behavior<br><br>
 If they have a Paradox level of 11+, the Quiet happens in more severe ways:<br><br>
-Complete Madness, Living a Repetitive Loop, or Becoming a Serial Killer<br><br>
+Complete Madness, Obsession, or Violence<br><br>
 Quintessence can be spent to reduce Paradox, but it has to be done before the Insanity of Quiet occurs. If Paradox reaches a level greater than 10 it is released automatically.
 
 <br><br>
