@@ -35,7 +35,7 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 ••••	Seeing the Future
 •••••	Stopping Time
 </pre>
-
+<br><br>
 
 • Feeling<br><br>
  &nbsp; &nbsp; Power: Empathy / Telepathy<br>
@@ -48,7 +48,7 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 •••	Mental Shield
 ••••	Reading Thoughts
 •••••	Mental Link
-</pre><br>
+</pre><br><br>
 
 • Production<br><br>
  &nbsp; &nbsp; Power: Attraction / Creation<br>
@@ -61,7 +61,7 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 •••	Attracting Wealth	
 ••••	Produce Small Objects
 •••••	Win Lotteries & Elections
-</pre><br>
+</pre><br><br>
 
 • Influence<br><br>
  &nbsp; &nbsp; Power: Charisma / Hypnotism<br>
@@ -74,7 +74,7 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 •••	Hypnotic Suggestion
 ••••	Mind Control	
 •••••	Altering Identities
-</pre><br>
+</pre><br><br>
 
 • Penetration<br><br>
  &nbsp; &nbsp; Power: Escape / Intangibility<br>
@@ -87,7 +87,7 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 •••	Escape From Restraints
 ••••	Escape From Prisons
 •••••	Becoming Intangible
-</pre><br>
+</pre><br><br>
 
 • Control<br><br>
  &nbsp; &nbsp; Power: Energy / Telekinesis<br>
@@ -100,7 +100,7 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 •••	Influencing Physical Outcomes
 ••••	Moving Objects
 •••••	Controlling Natural Forces
-</pre><br>
+</pre><br><br>
 
 • Restoration<br><br> 
  &nbsp; &nbsp; Power: Renewal / Healing<br>
@@ -112,7 +112,7 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 •••	Protection from Disease
 ••••	Heal Sickness / Damage
 •••••	Resurrection
-</pre><br>
+</pre><br><br>
 
 • Vanishing<br><br>
  &nbsp; &nbsp; Power: Stealth / Invisibility<br>
