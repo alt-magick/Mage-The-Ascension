@@ -1,5 +1,5 @@
 # Mage 
-<br><BR>
+<BR>
 This is an alternate system of sphere magic for the World of Darkness. It replaces the spheres for Mage: The Ascension.<br><br>
 There are 12 Spheres in this system that are divided into coincidental & vulgar magic. The first three levels of each sphere are limited to coincidental effects, and the highest levels of the sphere are divided into two levels of vulgar magic.<br><Br>
 The Twelve Spheres in alphabetical order are:<br><br> 
