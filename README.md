@@ -37,8 +37,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 # Spheres
 <br>
 • Understanding<br><br>
- Power:  Wisdom / ESP
- Knowledge: Realization - Unveiling the inner knowledge within.
+ Power:  Wisdom / ESP<br>
+ Knowledge: Realization - Unveiling the inner knowledge within.<br>
  Description: The Power of Understanding manifests as inspiration and insight, granting effortless access to answers and discoveries beyond conventional understanding. It endows the practitioner with the gift of foreknowledge. The key to unlocking this power lies in the realization that all knowledge already resides within oneself.<br>
 <pre>
 •	Elevated Mental Functions	
@@ -50,8 +50,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 
 
 • Feeling<br><br>
- Power: Empathy / Telepathy
- Knowledge: Association - Recognizing the interconnectedness of all things.
+ Power: Empathy / Telepathy<br>
+ Knowledge: Association - Recognizing the interconnectedness of all things.<br>
  Description: The Power of Feeling enables one to empathize and understand others deeply, perceiving their thoughts and emotions without the need for words. It stems from the profound insight into Association, the intrinsic link that binds all living beings together.
 <br>
 <pre>
@@ -63,8 +63,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Production<br><br>
- Power: Attraction / Creation
- Knowledge: Synchronicity - Uniting the threads of existence.
+ Power: Attraction / Creation<br>
+ Knowledge: Synchronicity - Uniting the threads of existence.<br>
  Description: The Power of Production empowers a wizard to draw situations and desires into their reality. This ability stems from a profound understanding of Synchronicity, the cosmic principle that everything is interconnected and influences each other. It acknowledges that the power to attract lies within, awaiting manifestation.
 <br>
 <pre>
@@ -76,8 +76,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Influence<br><br>
- Power: Charisma / Hypnotism
- Knowledge: Possession - Will shaping the realm of the mind.
+ Power: Charisma / Hypnotism<br>
+ Knowledge: Possession - Will shaping the realm of the mind.<br>
  Description: The Power of Influence grants a wizard the power to captivate others. Known as Possession, it allows one to enchant and charm, eliciting positive perceptions or even gaining control over another's thoughts and actions. The essence of this mastery lies in the understanding that one's will can wield dominion over the minds of others.
 <br>
 <pre>
@@ -89,8 +89,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Penetration<br><br>
- Power: Escape / Intangibility
- Knowledge: Spiritualism - Perceiving the world as a realm of spirit.
+ Power: Escape / Intangibility<br>
+ Knowledge: Spiritualism - Perceiving the world as a realm of spirit.<br>
  Description: The Power of Penetration delves into the realm of Spiritualism. It unveils the truth that the world is fundamentally composed of spirit, allowing a wizard to transcend physical boundaries and become intangible. Chains and locks lose their hold, dissolving effortlessly under the wizard's touch.
 <br>
 <pre>
@@ -102,8 +102,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Control<br><br>
- Power: Energy / Telekinesis
- Knowledge: Evocation - Harnessing the forces of the spiritual realm.
+ Power: Energy / Telekinesis<br>
+ Knowledge: Evocation - Harnessing the forces of the spiritual realm.<br>
  Description: The Power of Control enables a wizard to command powerful forces. Through evocation, the practitioner can manipulate energy and bend it to their will. This understanding arises from recognizing that spiritual entities are themselves embodiments of force and possess the capacity to shape and impact the physical world.
 <br>
 <pre>
@@ -115,8 +115,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Restoration<br><br> 
- Power: Renewal / Healing
- Knowledge: Forgiveness - Liberating from suffering caused by transgressions.
+ Power: Renewal / Healing<br>
+ Knowledge: Forgiveness - Liberating from suffering caused by transgressions.<br>
  Description: The Power of Restoration holds the gift of healing. It grants the ability to alleviate pain, cure diseases, and bring renewal to the afflicted. This power emerges from the understanding of Forgiveness, recognizing that suffering often stems from transgressions. By embracing forgiveness, a wizard becomes a conduit for healing and restoration.
 <br><pre>
 •	Sense illness
@@ -127,8 +127,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Vanishing<br><br>
- Power: Stealth / Invisibility
- Knowledge: Misdirection - Manipulating attention and perception.
+ Power: Stealth / Invisibility<br>
+ Knowledge: Misdirection - Manipulating attention and perception.<br>
  Description: The Power of Vanishing encompasses the art of Misdirection. It allows a wizard to control focus and attention, rendering themselves unseen and secrets concealed. Meticulous study and practice grant the ability to achieve complete invisibility as the wizard manipulates perception and directs attention elsewhere.
 <br><pre>
 •	Detect Lies
@@ -139,8 +139,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Travel<br><br> 
- Power: Direction / Teleportation
- Knowledge: Unity - Dissolving the illusion of separation.
+ Power: Direction / Teleportation<br>
+ Knowledge: Unity - Dissolving the illusion of separation.<br>
  Description: The Power of Travel operates on the understanding that all separation is illusory. By harnessing this power, a wizard can navigate without traditional directions and locate objects or places that are lost or hidden. A skilled practitioner can transcend distance, stepping from one location to any desired destination.
 <br><pre>
 •	Locate Lost Objects
@@ -151,8 +151,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Transformation<br><br>
- Power: Developing / Shapeshifting
- Knowledge: Personification - Authoring one's own identity.
+ Power: Developing / Shapeshifting<br>
+ Knowledge: Personification - Authoring one's own identity.<br>
  Description: The Power of Transformation allows a wizard to assume the form and essence of another being, whether it be an abstract concept, an animal, or even a deity. The essence of this mastery lies in the understanding that one has the power to create and define their own identity, refusing to be shaped by external forces. The power of transformation can also be used to improve who you already are.
 <br><pre>
 •	Sense Physical Attributes 
@@ -163,8 +163,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre><br>
 
 • Destruction<br><br>
- Power: Curses / Annihilation
- Knowledge: Pragmatism - Dissolving the constructs of right and wrong.
+ Power: Curses / Annihilation<br>
+ Knowledge: Pragmatism - Dissolving the constructs of right and wrong.<br>
  Description: The Power of Destruction holds immense power that should be wielded with caution. It encompasses the ability to curse, annihilate, and disrupt the natural order. However, the utilization of this power draws one away from their true path and blurs the distinction between right and wrong.
 <br><pre>
 •	Sense Black Magic
@@ -175,8 +175,8 @@ These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
 </pre></br>
 
 • Revelation<br><br>
- Power: Visions / Rapture
- Knowledge: Above as Below - The symbiotic connection between gods, angels, and humanity.
+ Power: Visions / Rapture<br>
+ Knowledge: Above as Below - The symbiotic connection between gods, angels, and humanity.<br>
  Description: The Power of Revelation unveils profound visions and grants enlightenment to the practitioner. It is rooted in the understanding of the symbiotic connection between gods, angels, and humanity. By tapping into this power, a wizard gains access to celestial knowledge, perceiving the intricate tapestry that binds all realms and entities together.
 <br><pre>
 •	Sense Spirits
