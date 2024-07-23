@@ -1,19 +1,17 @@
 Overview 
-<br>
+<br><BR>
 This is an alternate system of sphere magic for the World of Darkness. It replaces the spheres for Mage: The Ascension.<br><br>
-<br><br>
+<br>
 There are 12 Spheres in this system that are divided into coincidental & vulgar magic. The first three levels of each sphere are limited to coincidental effects, and the highest levels of the sphere are divided into two levels of vulgar magic.<br><Br>
 The Twelve Spheres in alphabetical order are:<br><br> 
 Control, Destruction, Feeling, Influence, Penetration, Production, Revelation, Restoration, Transformation, Travel, Understanding, and Vanishing.
 <br><br>
 These are the degrees of power for the Spheres:<br><br>
-<pre>
 •	Awareness
 ••	Sympathetic
 •••	Coincidental
 ••••	Manipulative
 •••••	Miraculous
-</pre>
 <br>
 * '''Awarenes'''<br><br> Allows the Mage to sense things with their magic.<br><br>
 * '''Sympathetic'''<br><br> The Mage can effect things they're personally connected to.<br><br>
