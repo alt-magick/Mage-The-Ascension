@@ -22,18 +22,6 @@ These are the degrees of power for the Spheres:<br><br>
 • Miraculous<br><br>The Mage can now create impossible miracles.<br>
 <br>
 
-# Mechanics
-<br>
-These rules are just a few notes from the Mage: The Ascension rule book.<br><br>
-• Arete<br><br> Arete is the Mage's level of enlightenment. In game terms it is the number of dice a Mage rolls when casting their spells. No Sphere can be higher than your level of Arete. You can also only spend up to your level of Arete in quintessence on a single spell. A mage can optionally roll less dice than their Arete to avoid a potential botch.<br><br>
-• Avatar<br><br> A Mage's Avatar is the maximum  Quintessence they can store.<br><br>
-• Quintessence<br><br>Quintessence is the power source for Magic. Spending Quintessence reduces the difficulty of a spell, up to a modifier of -3. Meditation is required to regain Quintessence for at least an hour at a place of power. Quintessence can also be stored in things that are carried by a Mage.<br><br>
-• Willpower<br><br>By spending a point of willpower Mages gets an automatic success on their spells. Willpower is tough to regenerate and can be useful for more than Magic.<br><br>
-• Difficulty<br><br>The difficulty of a spell is the level of the Sphere you are using. You then add +3 for coincidental magic, and +4 for Vulgar magic if there are no witnesses. Add +5 for Vulgar magic witnessed by Sleepers.<br><br>
-• Successes<br><br>Simple magic requires only one success, two successes are required for more powerful magic, and larger effects can take even more. If your level of Arete is at least one point higher than the Sphere you are using, you can succeed without a dice roll.<br><br>
-• Botches<br><br>If a Mage rolls a failure when casting a spell & they also roll a 1 on any of their dice then they botch. This is a dangerous situation.<br><br>
-<br>
-
 # Spheres
 <br>
 • Understanding<br><br>
