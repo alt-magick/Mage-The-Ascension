@@ -15,11 +15,11 @@ These are the degrees of power for the Spheres:<br><br>
 •••••	Miraculous
 </pre>
 <br>
-• Awarenes<br><br> Allows the Mage to sense things with their magic.<br><br>
-• Sympathetic<br><br> The Mage can effect things they're personally connected to.<br><br>
-• Coincidental<br><br>The Mage can work magic as long as it doesn't defy physics.<br><br>
-• Manipulative<br><br>The Mage can manipulate and bend the laws of physics.<br><br>
-• Miraculous<br><br>The Mage can now create impossible miracles.<br>
+• Awarenes<br><br> &nbsp; &nbsp; Allows the Mage to sense things with their magic.<br><br>
+• Sympathetic<br><br> &nbsp; &nbsp; The Mage can effect things they're personally connected to.<br><br>
+• Coincidental<br><br> &nbsp; &nbsp; The Mage can work magic as long as it doesn't defy physics.<br><br>
+• Manipulative<br><br> &nbsp; &nbsp; The Mage can manipulate and bend the laws of physics.<br><br>
+• Miraculous<br><br> &nbsp; &nbsp; The Mage can now create impossible miracles.<br 
 <br>
 
 # Spheres
