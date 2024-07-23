@@ -197,90 +197,78 @@ This system of magic can connect to occult themes, for interesting role playing.
 <br><br>
 There are 12 Spheres in this system. Each Sphere connects to one of the 12 signs of the Zodiac. And each Zodiac sign connects to one of 10 planets in Astrology. The 10 planets and 12 signs connect with the 22 Major Arcana of the Tarot.<br><br>
 
-Everything in the universe of Mage exists as Body Mind and Spirit. Events in this universe follow patterns of Dynamism, Stasis, and Entropy. Each Sphere of magic follows into these categories. Outlined here:<br><br>
+Each Sphere of magic follows into these categories. Outlined here:<br><br>
 
 <pre>
-Body
+Control: 
 
-	Control: 
+	Energy / Telekinesis	
+	(Aries / Emperor) + (Mars / Tower)
 
-		Energy / Telekinesis	
-		(Aries / Emperor) + (Mars / Tower)
+Transformation:
 
-	Transformation:
-
-		Developing / Shapeshifting 
-		(Taurus / Hierophant) + (Venus / Empress)
+	Developing / Shapeshifting 
+	(Taurus / Hierophant) + (Venus / Empress)
 </pre><br>
 
 <pre>
-Spirit
+Understanding:
 
-	Understanding:
+	Wisdom / ESP	
+	(Libra / Justice) + (Venus / Empress)
 
-		Wisdom / ESP	
-		(Libra / Justice) + (Venus / Empress)
+Revelation:
 
-	Revelation:
-
-		Visions / Rapture	
-		(Pisces / High Priestess) + (Neptune / Hanged Man)
+	Visions / Rapture	
+	(Pisces / High Priestess) + (Neptune / Hanged Man)
 </pre><br>
 
 <pre>
-Mind
+Feeling: 
 
-	Feeling: 
+	Empathy / Telepathy	
+	(Virgo / Hermit) + (Mercury / Magician)
 
-		Empathy / Telepathy	
-		(Virgo / Hermit) + (Mercury / Magician)
+Influence: 
 
-	Influence: 
-
-		Charisma / Hypnotism		
-		(Leo / Strength) + (Sun / Sun)
+	Charisma / Hypnotism		
+	(Leo / Strength) + (Sun / Sun)
 </pre><br>
 
 <pre>
-Dynamism
+Penetration: 
 
-	Penetration: 
+	Escape / Intangibility	
+	(Gemini / Lovers) + (Mercury / Magician)
 
-		Escape / Intangibility	
-		(Gemini / Lovers) + (Mercury / Magician)
+Travel:
 
-	Travel:
-
-		Direction / Teleportation	
-		(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
+	Direction / Teleportation	
+	(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
 </pre><br>
 
 <pre>
-Stasis
+Production: 
 
-	Production: 
+	Attraction / Creation	
+	(Capricorn / Devil) + (Saturn / World)
 
-		Attraction / Creation	
-		(Capricorn / Devil) + (Saturn / World)
+Restoration: 
 
-	Restoration: 
-
-		Renewal / Healing	
-		(Aquarius / Star) + (Uranus / Fool)
+	Renewal / Healing	
+	(Aquarius / Star) + (Uranus / Fool)
 </pre><br>
 
 <pre>
-Entropy
+Vanishing: 
 
-	Vanishing: 
+	Stealth / Invisibility	
+	(Cancer / Chariot) + (Moon / Moon)
 
-		Stealth / Invisibility	
-		(Cancer / Chariot) + (Moon / Moon)
+Destruction: 
 
-	Destruction: 
-
-		Curses / Annihilation	
-		(Scorpio / Death) + (Pluto / Judgement)
+	Curses / Annihilation	
+	(Scorpio / Death) + (Pluto / Judgement)
 </pre><br>
 <br>
 
