@@ -182,7 +182,7 @@ When a Mage fails a magic roll they gain a Paradox point. A botched roll will th
 If a Mage has a Paradox level of 1-3, the Quiet happens in one of three ways:<br><br>
 Hallucinations, Fixations, or Depression<br><br>
 If they have a Paradox level of 4-6, the Quiet happens in three more ways:<br><br>
-Delusions & Mood Swings, Repetitive Behavior, or Suicidal Thoughts<br><br>
+Delusions & Mood Swings, Repetitive Behaviors, or Suicidal Thoughts<br><br>
 If they have a Paradox level of 7-10, the Quiet happens as:<br><br>
 Wild Hallucinations, Compulsions, and Anti-Social Behavior<br><br>
 If they have a Paradox level of 11+, the Quiet happens in more severe ways:<br><br>
