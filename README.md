@@ -24,9 +24,9 @@ These are the degrees of power for the Spheres:<br><br>
 
 # Spheres
 <br>
-• Understanding<br><br>
- Power:  Wisdom / ESP<br>
- Knowledge: Realization - Unveiling the inner knowledge within.<br>
+• Understanding<br><br><br>
+ Power:  Wisdom / ESP<br><br>
+ Knowledge: Realization - Unveiling the inner knowledge within.<br><br>
  Description: The Power of Understanding manifests as inspiration and insight, granting effortless access to answers and discoveries beyond conventional understanding. It endows the practitioner with the gift of foreknowledge. The key to unlocking this power lies in the realization that all knowledge already resides within oneself.<br>
 <pre>
 •	Elevated Mental Functions	
