@@ -202,73 +202,73 @@ Each Sphere of magic follows into these categories. Outlined here:<br><br>
 <pre>
 Control: 
 
-	Energy / Telekinesis	
-	(Aries / Emperor) + (Mars / Tower)
+Energy / Telekinesis	
+(Aries / Emperor) + (Mars / Tower)
 
 Transformation:
 
-	Developing / Shapeshifting 
-	(Taurus / Hierophant) + (Venus / Empress)
+Developing / Shapeshifting 
+(Taurus / Hierophant) + (Venus / Empress)
 </pre><br>
 
 <pre>
 Understanding:
 
-	Wisdom / ESP	
-	(Libra / Justice) + (Venus / Empress)
+Wisdom / ESP	
+(Libra / Justice) + (Venus / Empress)
 
 Revelation:
 
-	Visions / Rapture	
-	(Pisces / High Priestess) + (Neptune / Hanged Man)
+Visions / Rapture	
+(Pisces / High Priestess) + (Neptune / Hanged Man)
 </pre><br>
 
 <pre>
 Feeling: 
 
-	Empathy / Telepathy	
-	(Virgo / Hermit) + (Mercury / Magician)
+Empathy / Telepathy	
+(Virgo / Hermit) + (Mercury / Magician)
 
 Influence: 
 
-	Charisma / Hypnotism		
-	(Leo / Strength) + (Sun / Sun)
+Charisma / Hypnotism		
+(Leo / Strength) + (Sun / Sun)
 </pre><br>
 
 <pre>
 Penetration: 
 
-	Escape / Intangibility	
-	(Gemini / Lovers) + (Mercury / Magician)
+Escape / Intangibility	
+(Gemini / Lovers) + (Mercury / Magician)
 
 Travel:
 
-	Direction / Teleportation	
-	(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
+Direction / Teleportation	
+(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
 </pre><br>
 
 <pre>
 Production: 
 
-	Attraction / Creation	
-	(Capricorn / Devil) + (Saturn / World)
+Attraction / Creation	
+(Capricorn / Devil) + (Saturn / World)
 
 Restoration: 
 
-	Renewal / Healing	
-	(Aquarius / Star) + (Uranus / Fool)
+Renewal / Healing	
+(Aquarius / Star) + (Uranus / Fool)
 </pre><br>
 
 <pre>
 Vanishing: 
 
-	Stealth / Invisibility	
-	(Cancer / Chariot) + (Moon / Moon)
+Stealth / Invisibility	
+(Cancer / Chariot) + (Moon / Moon)
 
 Destruction: 
 
-	Curses / Annihilation	
-	(Scorpio / Death) + (Pluto / Judgement)
+Curses / Annihilation	
+(Scorpio / Death) + (Pluto / Judgement)
 </pre><br>
 <br>
 
