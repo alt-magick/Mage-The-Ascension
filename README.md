@@ -3,7 +3,7 @@
 This is an alternate system of sphere magic for the World of Darkness. It replaces the spheres for Mage: The Ascension.<br><br>
 You can download the free PDF for the system at:<br> https://www.storytellersvault.com/product/484905/Alternate-Mage-The-Ascension-Spheres?affiliate_id=4210968<br><br>
 You can also read my full rules for Mage at:<br>
-https://www.coreywhitemagic.com/mage.html
+https://www.v5homebrew.com/wiki/Alternate_Mage_System#
 <br><br>
 There are 12 Spheres in this system that are divided into coincidental & vulgar magic. The first three levels of each sphere are limited to coincidental effects, and the highest levels of the sphere are divided into two levels of vulgar magic.<br><Br>
 The Twelve Spheres in alphabetical order are:<br><br> 
