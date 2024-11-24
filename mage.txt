@@ -1,3 +1,5 @@
+Mage: The Ascension (Alternative)
+
 Like most role playing games played around a table, This game uses dice to determine the whims of chance. Anytime a character performs an action under adverse conditions or when the outcome is unclear, his player rolls dice to see whether the task succeeds or fails.
 
 You just need two six sided dice to play. I have changed this from the original game, Mage: The Ascension from rolling a ten sided dice. I did a little math and it just made since.
@@ -898,6 +900,9 @@ Hollow Ones - Goths
 If you have your own Coven you can also list it as your Cabal.
 
 
+Concept
+
+
 All characters need to have a concept which can be anything you want to make up. However here are some example concepts that you might like to use:
 
 
@@ -928,6 +933,9 @@ Socialite
 Soldier
 
 Worker
+
+
+Nature and Demeanor
 
 
 There are two more important categories at the top of the character sheet, called Nature & Demeanor. Nature is your inner character. and Demeanor is what you project into the outside world. Below you can pick one of these for each:
@@ -1083,6 +1091,9 @@ Visionary - Imagination / Pride
 You want to remake the future.
 
 
+Essence
+
+
 Your character's Avatar Essence is also on the character sheet. An Avatar represents a Mage's soul, and the essence represents the drive a mage has at their core. There are four essences you can pick from:
 
 
@@ -1095,6 +1106,9 @@ Primordial - Stability
 Questing - Purpose
 
 
+Resonance
+
+
 All Mages also have a Resonance. As a Mage uses magic their Resonance changes. Other Awakened can read a Mage's Resonance as well. You start with one dot in one Resonance trait, and add dots as you continue working magic.
 
 There are three types of Resonance: Dynamic, Entropic, and Static
@@ -1102,11 +1116,17 @@ There are three types of Resonance: Dynamic, Entropic, and Static
 Dynamic represents change. Entropic represents destruction. And Static represents protection.
 
 
+Purpose
+
+
 In these alternate rules we also have another trait called Purpose. You can fill in the dots anyway you like into these 3 categories:
 
 Self, Others, and World.
 
 Representing your primary motivation.
+
+
+Foci
 
 
 Mages tend to have certain tools for using magic. When a Mage has access to these tools, The difficulty for casting magic is reduced. You can pick at least one at the start of the game. Here is a list of suggestions for you to choose from:
@@ -1189,6 +1209,9 @@ Toys
 Wands
 
 Weapons
+
+
+Examples
 
 
 Also, here are some examples of how to attempt other actions using the abilities and attributes already mentioned:
