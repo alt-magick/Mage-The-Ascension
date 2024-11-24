@@ -1,7 +1,6 @@
 Mage: The Ascension
 
-
-Like most roleplaying games played
+Like most role playing games played
 around a table, This game uses dice to
 determine the whims of chance. Anytime
 a character performs an action under
@@ -172,7 +171,7 @@ using a Glock 9mm pistol. You therefore
 get to roll the dice five times. The
 thug is about 30 yards away which is a
 -1 penalty. So, you are reduced to 4
-dice rolls. But that's not all. Its
+dice rolls. But thats not all. Its
 raining cats and dogs. The Storyteller
 decides that there's an additional -1
 penalty for poor visibility. That
@@ -181,8 +180,8 @@ yields a 7 or 11 that is one success.
 If the thug is hit. He suffers 1 points
 of lethal damage to his Health for
 every success. Lets say you make 2
-successes. It hurts, but it might not be
-enough to stop him. and he staggers
+successes. It hurts, but it might not
+be enough to stop him. and he staggers
 away. Your character needs to decide
 whether to give chase and close the
 distance, or try to fire again.
@@ -205,23 +204,22 @@ a rating from 1 to five:
 5) World Class
 
 
-That dice pool is then subtracted by a
-difficulty level from 0 to 6.
+That dice pool is then modified by one
+of these levels:
 
++1) Easy
 
-0) Easy
++0) Routine
 
-1) Routine
+-1) Moderate
 
-2) Moderate
+-2) Difficult
 
-3) Difficult
+-3) Challenging
 
-4) Challenging
+-4) Hard
 
-5) Hard
-
-6) Exceptional
+-5) Exceptional
 
 
 The number of successes you have is
@@ -299,7 +297,7 @@ Intimidation - Flexing Your Muscles
 
 Leadership - You Are Respected
 
-Streetwise - You're a Part Of The
+Streetwise - Youre a Part Of The
 Underworld
 
 Subterfuge - You Can Hide Your
@@ -561,7 +559,7 @@ is either Bashing or Lethal.
 
 If a weapon is being used the
 storyteller can increase the modifier
-for an attack by up to +3. Some guns
+for an attack by up to +5. Some guns
 allow you to shoot multiple times in a
 turn.
 
@@ -604,7 +602,7 @@ damage. If you acquire 7 bashing damage
 you are unconscious, further bashing
 damage can become lethal damage. Either
 way, you apply a penalty to everything
-you roll as the damage goes up. If you
+you roll as the damage goes up.If you
 acquire more than 7 in lethal damage,
 you can die.
 
