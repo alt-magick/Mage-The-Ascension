@@ -24,9 +24,12 @@ A success in Mage is made by rolling a
 has the odds of 3/10 which is 0.3.
 
 So, with a few other modifications the
-game mechanics are basically the same.
+game mechanics are basically the
+same.
+
 
 Traits
+
 
 Characters possess a variety of traits,
 describing their innate capabilities,
@@ -51,7 +54,9 @@ gun, you add his Dexterity to his
 Firearms for a total number of dice
 rolls.
 
+
 Modifiers
+
 
 Various conditions and circumstances
 can greatly improve or hinder your
@@ -75,7 +80,9 @@ not any circumstance imposes dice-roll
 modifiers and how great those modifiers
 are.
 
+
 Dice Rolls
+
 
 So, we can say that that the number of
 times you get to roll the dice is
@@ -84,7 +91,9 @@ modifiers (if any) In general, bonuses
 are always added before penalties are
 applied.
 
+
 Rolling the Dice
+
 
 Now that you know what to roll, lets
 see how to read the results. Each roll
@@ -101,14 +110,18 @@ the better your characters chances of
 success, and the greater your odds of
 gaining multiple successes.
 
+
 Snake Eyes
+
 
 If one of your rolls turn up snake
 eyes, it cancels out one success. If
 you roll snake eyes, and none of you
 other rolls succeed it is a botch.
 
+
 Second Tries
+
 
 When a roll fails, you can try again
 with a +1 difficulty modifier.
@@ -137,12 +150,14 @@ knives and bullets; these wounds heal
 slowly). There are a number of
 complications involved in combat, such
 as a targets Defense Rolls. (which are
-subtracted from any attack successs
+subtracted from any attack successes
 targeted against him), Roll to hit and
 apply successes as damage minus any
 successful defense rolls.
 
+
 Example
+
 
 Lets see how it looks in action. Your
 character tries to shoot at a thug who
@@ -152,25 +167,27 @@ using a Glock 9mm pistol. You therefore
 get to roll the dice five times. The
 thug is about 30 yards away which is a
 -1 penalty. So, you are reduced to 4
-dice rolls. But thats not all. Its
+dice rolls. But that's not all. Its
 raining cats and dogs. The Storyteller
-decides that theres an additional -1
+decides that there's an additional -1
 penalty for poor visibility. That
 leaves you just 3 dice rolls. If a roll
 yields a 7 or 11 that is one success.
 If the thug is hit. He suffers 1 points
 of lethal damage to his Health for
 every success. Lets say you make 2
-successs. It hurts, but it might not be
+successes. It hurts, but it might not be
 enough to stop him. and he staggers
 away. Your character needs to decide
 whether to give chase and close the
 distance, or try to fire again.
 
+
 The number of times you roll for an
 action is made up of an attribute added
-to an abillity. Each of these are given
+to an ability. Each of these are given
 a rating from 1 to five:
+
 
 1) Poor
 
@@ -182,8 +199,10 @@ a rating from 1 to five:
 
 5) World Class
 
+
 That dice pool is then subtracted by a
 difficulty level from 0 to 6.
+
 
 0) Easy
 
@@ -199,8 +218,10 @@ difficulty level from 0 to 6.
 
 6) Exceptional
 
+
 The number of successes you have is
 also given a rating from one to five:
+
 
 1) Marginal
 
@@ -220,6 +241,7 @@ categories:
 
 Physical:
 
+
 Strength - Physical Power
 
 Dexterity - Athleticism
@@ -229,6 +251,7 @@ Stamina - Toughness
 
 Social:
 
+
 Charisma - Charm
 
 Manipulation - Persuasion
@@ -237,6 +260,7 @@ Appearance - Attractiveness
 
 
 Mental:
+
 
 Perception - Insight To Surroundings
 
@@ -250,6 +274,7 @@ categories:
 
 
 Talents:
+
 
 Alertness - Attention to Your
 Surroundings
@@ -269,7 +294,7 @@ Intimidation - Flexing Your Muscles
 
 Leadership - You Are Respected
 
-Streetwise - Youre a Part Of The
+Streetwise - You're a Part Of The
 Underworld
 
 Subterfuge - You Can Hide Your
@@ -277,6 +302,7 @@ Motives
 
 
 Skills:
+
 
 Crafts - Working With Your Hands
 
@@ -303,6 +329,7 @@ Machines
 
 
 Knowledges:
+
 
 Academics - Higher Education In A
 Field
@@ -333,6 +360,7 @@ Physics
 There are also some other very
 important traits:
 
+
 Avatar - Your ability to store
 quintessence
 
@@ -352,6 +380,7 @@ take
 
 Getting Started
 
+
 Now that you know the basics of the
 Storytelling System, you can proceed to
 create your own characters. You’ll be
@@ -364,6 +393,7 @@ when accomplishing tasks with it.
 
 Here is a quick overview of how to
 begin the character creation process:
+
 
 The 3 categories of attributes are
 divided into 3 levels of points: 7/5/3
@@ -386,6 +416,7 @@ higher than 3.
 
 Willpower starts at 5 and can’t begin
 higher than 7.
+
 
 You also get 15 Freebie Points:
 
@@ -413,6 +444,7 @@ of points.
 
 Select Attributes (7/5/3)
 
+
 Physical: Strength, Dexterity, Stamina
 
 Social: Charisma, Manipulation,
@@ -424,19 +456,21 @@ Wits
 
 Select Abilities (13/9/5)
 
+
 Talents: Alertness, Athletics,
 Awareness, Brawl, Dodge, Expression,
-Intimidation Leadership, Streetwise,
+Intimidation, Leadership, Streetwise,
 Subterfuge
 
 Skills: Crafts, Drive, Etiquette,
-Firearms Meditation, Melee,
-Performance, Stealth Survival,
+Firearms, Meditation, Melee,
+Performance, Stealth, Survival,
 Technology
 
 Knowledges: Academics, Computer,
-Cosmology Enigmas, Investigation, Law,
-Linguistics Medicine, Occult, Science
+Cosmology, Enigmas, Investigation, Law,
+Linguistics, Medicine, Occult,
+Science
 
 
 Additionally, characters also have a
@@ -445,6 +479,7 @@ Backgrounds.
 
 
 Backgrounds (7):
+
 
 Allies - Friends who help you
 
@@ -476,6 +511,10 @@ It is very simple.
 Combat is broken down into three steps,
 Initiative, Attack, and Resolution.
 
+
+Stage one - Initiative
+
+
 During initiative, both players roll
 Dexterity + Wits. Whoever has more
 successes gets to go first.
@@ -487,7 +526,9 @@ It is also possible to ambush someone
 with: Dexterity + Stealth vs Perception
 + Alertness
 
+
 Stage two - Attack
+
 
 The attacker rolls one of these:
 
@@ -519,7 +560,9 @@ for an attack by up to +3. Some guns
 allow you to shoot multiple times in a
 turn.
 
+
 Stage three - Resolution
+
 
 Roll as many times as your Stamina
 points to eliminate a point of bashing
@@ -531,7 +574,9 @@ again for initiative.
 Keep track of the damage to your health
 with this chart:
 
+
 Health
+
 
 1) Bruised -0
 
@@ -547,13 +592,14 @@ Health
 
 7) Unconscious
 
+
 Each point of damage is marked with a /
 for bashing damage and an X for lethal
 damage. If you acquire 7 bashing damage
 you are unconscious, further bashing
 damage can become lethal damage. Either
 way, you apply a penalty to everything
-you roll as the damage goes up.If you
+you roll as the damage goes up. If you
 acquire more than 7 in lethal damage,
 you can die.
 
@@ -561,7 +607,9 @@ you can die.
 Finally, your character needs to learn
 magic!
 
+
 Overview
+
 
 There are 12 Spheres in this system
 that are divided into coincidental &
@@ -574,14 +622,17 @@ more advanced magic.
 The Twelve Spheres in alphabetical
 order are:
 
+
 Control, Destruction, Feeling,
 Influence, Penetration, Production,
 Revelation, Restoration,
 Transformation, Travel, Understanding,
 and Vanishing
 
+
 These are the degrees of power for the
 Spheres:
+
 
 1) Awareness
 
@@ -601,29 +652,39 @@ Spheres:
 Allows the Mage to sense things with
 their magic.
 
+
 2) Sympathetic
+
 
 The Mage can effect things they’re
 personally connected to.
 
+
 3) Coincidental
+
 
 The Mage can work magic as long as it
 doesn’t defy physics.
 
+
 4) Manipulative
+
 
 The Mage can manipulate and bend the
 laws of physics.
+
 
 5) Miraculous
 
 The Mage can now create impossible
 miracles.
 
+
 Mechanics
 
+
 Casting Magic
+
 
 You can only cast magic up to the level
 of your sphere. Arete is the number of
@@ -638,11 +699,13 @@ botch.
 
 Avatar
 
+
 A Mage’s Avatar is the maximum
 Quintessence they can store.
 
 
 Quintessence
+
 
 Quintessence is the power source for
 Magic. Spending Quintessence reduces
@@ -656,12 +719,13 @@ carried by a Mage.
 
 Willpower
 
+
 One point of willpower generates 1
 success
 
 Willpower can resist mind magic
 
-WIllpower can fight Quiet
+Willpower can fight Quiet
 
 Willpower can ignore penalties from
 fear & damage
@@ -672,15 +736,17 @@ play
 
 Difficulty
 
+
 The difficulty is the level of the
 sphere you are using. Add +3 difficulty
 for coincidental magic, and +4 for
 Vulgar magic, if there are no
 witnesses. +1 if a Sleeper witnesses
-it. 
+it.
 
 
 Successes
+
 
 Simple magic requires only one success,
 two successes are required for more
@@ -693,6 +759,7 @@ can succeed without a dice roll.
 
 Botches
 
+
 If a Mage rolls a failure when casting
 a spell & they also roll snake eyes on
 any of their dice then they botch. This
@@ -700,6 +767,7 @@ is a dangerous situation.
 
 
 Spheres
+
 
 Understanding
 
@@ -718,6 +786,7 @@ foreknowledge. The key to unlocking
 this power lies in the realization that
 all knowledge already resides within
 oneself.
+
 
 1) Elevated Mental Attributes
 
@@ -745,6 +814,7 @@ for words. It stems from the profound
 insight into Association, the intrinsic
 link that binds all living beings
 together.
+
 
 1) Reading Mindstates
 
@@ -775,6 +845,7 @@ other. It acknowledges that the power
 to attract lies within, awaiting
 manifestation.
 
+
 1) Sensing Opportunity
 
 2) Arranging situations
@@ -804,6 +875,7 @@ lies in the understanding that ones
 will can wield dominion over the minds
 of others.
 
+
 1) Sensing Willpower
 
 2) Social Influence
@@ -831,6 +903,7 @@ boundaries and become intangible.
 Chains and locks lose their hold,
 dissolving effortlessly under the
 wizards touch.
+
 
 1) Find Exits
 
@@ -860,6 +933,7 @@ that spiritual entities are themselves
 embodiments of force and possess the
 capacity to shape and impact the
 physical world.
+
 
 1) Quick Reactions
 
@@ -891,6 +965,7 @@ from transgressions. By embracing
 forgiveness, a wizard becomes a conduit
 for healing and restoration.
 
+
 1) Sense illness
 
 2) Relieve Pain
@@ -919,6 +994,7 @@ achieve complete invisibility as the
 wizard manipulates perception and
 directs attention elsewhere.
 
+
 1) Safeguard Secrets
 
 2) See in The Dark
@@ -946,6 +1022,7 @@ locate objects or places that are lost
 or hidden. A skilled practitioner can
 transcend distance, stepping from one
 location to any desired destination.
+
 
 1) Locate Lost Objects
 
@@ -978,6 +1055,7 @@ forces. The power of transformation can
 also be used to improve who you already
 are.
 
+
 1) Sense Others Attributes
 
 2) Bonus to Attributes
@@ -1004,6 +1082,7 @@ disrupt the natural order. However, the
 utilization of this power draws one
 away from their true path and blurs the
 distinction between right and wrong.
+
 
 1) Sense Black Magic
 
@@ -1035,6 +1114,7 @@ celestial knowledge, perceiving the
 intricate tapestry that binds all
 realms and entities together.
 
+
 1) Sense Spirits
 
 2) Speak with Spirits
@@ -1047,6 +1127,7 @@ realms and entities together.
 
 
 Paradox & Quiet
+
 
 The official rules say Paradox is
 caused by Vulgar magic. In these
@@ -1092,6 +1173,7 @@ it is released automatically.
 
 Occult
 
+
 This system of magic can connect to
 occult themes, for interesting role
 playing.
@@ -1104,90 +1186,96 @@ Astrology. The 10 planets and 12 signs
 connect with the 22 Major Arcana of the
 Tarot.
 
+
 Control:
 
 Energy / Telekinesis
 
-(Aries/Emperor) + (Mars/Tower)
+(Aries / Emperor) + (Mars / Tower)
 
 
 Transformation:
 
 Developing / Shapeshifting
 
-(Taurus/Hierophant) + (Venus/Empress)
+(Taurus / Hierophant) + (Venus /
+Empress)
 
 
 Understanding:
 
 Wisdom / ESP
 
-(Libra/Justice) + (Venus/Empress)
+(Libra / Justice) + (Venus / Empress)
 
 
 Revelation:
 
 Visions / Rapture
 
-(Pisces/High Priestess) +
-(Neptune/Hanged Man)
+(Pisces / High Priestess) + (Neptune /
+Hanged Man)
 
 
 Feeling:
 
 Empathy / Telepathy
 
-(Virgo/Hermit) + (Mercury/Magician)
+(Virgo / Hermit) + (Mercury /
+Magician)
 
 
 Influence:
 
 Charisma / Hypnotism
 
-(Leo/Strength) + (Sun/Sun)
+(Leo / Strength) + (Sun / Sun)
 
 
 Penetration:
 
 Escape / Intangibility
 
-(Gemini/Lovers) + (Mercury/Magician)
+(Gemini / Lovers) + (Mercury /
+Magician)
 
 
 Travel:
 
 Direction / Teleportation
 
-(Sagittarius/Temperance) +
-(Jupiter/Wheel of Fortune)
+(Sagittarius / Temperance) + (Jupiter /
+Wheel of Fortune)
 
 
 Production:
 
 Attraction / Creation
 
-(Capricorn/Devil) + (Saturn/World)
+(Capricorn / Devil) + (Saturn /
+World)
 
 
 Restoration:
 
 Renewal / Healing
 
-(Aquarius/Star) + (Uranus/Fool)
+(Aquarius / Star) + (Uranus / Fool)
 
 
 Vanishing:
 
 Stealth / Invisibility
 
-(Cancer/Chariot) + (Moon/Moon)
+(Cancer / Chariot) + (Moon / Moon)
 
 
 Destruction:
 
 Curses / Annihilation
 
-(Scorpio/Death) + (Pluto/Judgement)
+(Scorpio / Death) + (Pluto /
+Judgement)
 
 
 Finishing Touches
@@ -1195,13 +1283,16 @@ Finishing Touches
 Here are some finishing touches to add
 to your character sheet.
 
+
 Traditions
+
 
 There are 9 Traditions representing the
 different kinds of Mages and their
 world views. You can pick whichever one
 you feel resonates with your
 character:
+
 
 Akashic Brotherhood - Buddhist
 Warriors
@@ -1225,6 +1316,7 @@ Virtual Adepts - Reality Hackers
 
 Hollow Ones - Goths
 
+
 If you have your own Coven you can also
 list it as your Cabal.
 
@@ -1233,6 +1325,7 @@ All characters need to have a concept
 which can be anything you want to make
 up. However here are some example
 concepts that you might like to use:
+
 
 Criminal
 
@@ -1444,6 +1537,7 @@ essence represents the drive a mage has
 at their core. There are four essences
 you can pick from:
 
+
 Dynamic - Change
 
 Pattern - Improvement
@@ -1487,6 +1581,7 @@ one at the start of the game. Here is a
 list of suggestions for you to choose
 from:
 
+
 Art
 
 Blood
@@ -1495,7 +1590,11 @@ Books
 
 Bones
 
-Cauldrons / Chalices
+Cauldrons
+
+Chalices
+
+Chanting
 
 Circles
 
@@ -1566,6 +1665,7 @@ Also, here are some examples of how to
 attempt other actions using the
 abilities and attributes already
 mentioned:
+
 
 Climbing - Dexterity + Athletics
 
@@ -1649,5 +1749,4 @@ Research - Intelligence + Investigation
 Surveillance - Perception + Alertness,
 Dexterity + Stealth
 
-Tracking - Perception + Survival
-
+Tracking - Perception + Survival 
