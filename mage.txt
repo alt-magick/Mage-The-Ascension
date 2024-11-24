@@ -52,6 +52,10 @@ Second Tries
 
 When a roll fails, you can try again with a +1 difficulty modifier.
 
+
+Combat
+
+
 Combat Fighting is a series of die rolls, until someone surrenders or is rendered unable to fight. The rolls determines whether or not your character hits and how much damage he inflicts on his target. The number of dice rolls is determined as above, but a knife is more deadly than a fist, and a gun is more deadly than all. Each success gained on your attack roll represents a point of damage inflicted against the targets Health trait. If the target has no more Health left, he is unconscious or dead (depending on the type of damage done).
 
 There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls. (which are subtracted from any attack successs targeted against him), Roll to hit and apply successes as damage minus any successful defense rolls.
