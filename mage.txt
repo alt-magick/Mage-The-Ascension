@@ -426,7 +426,7 @@ Willpower can be regained after role play
 
 Difficulty
 
-Add +3 difficulty for coincidental magic, and +4 for Vulgar magic, if there are no witnesses. +1 if a Sleeper witnesses it.
+The difficulty is the level of the sphere you are using. Add +3 difficulty for coincidental magic, and +4 for Vulgar magic, if there are no witnesses. +1 if a Sleeper witnesses it. 
 
 
 Successes
