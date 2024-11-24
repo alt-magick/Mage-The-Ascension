@@ -1,7 +1,4 @@
-Mage: The Ascension
-
-
-Like most roleplaying games played around a table, This game uses dice to determine the whims of chance. Anytime a character performs an action under adverse conditions or when the outcome is unclear, his player rolls dice to see whether the task succeeds or fails.
+Like most role playing games played around a table, This game uses dice to determine the whims of chance. Anytime a character performs an action under adverse conditions or when the outcome is unclear, his player rolls dice to see whether the task succeeds or fails.
 
 You just need two six sided dice to play. I have changed this from the original game, Mage: The Ascension from rolling a ten sided dice. I did a little math and it just made since.
 
@@ -59,13 +56,13 @@ Combat
 
 Combat Fighting is a series of die rolls, until someone surrenders or is rendered unable to fight. The rolls determines whether or not your character hits and how much damage he inflicts on his target. The number of dice rolls is determined as above, but a knife is more deadly than a fist, and a gun is more deadly than all. Each success gained on your attack roll represents a point of damage inflicted against the targets Health trait. If the target has no more Health left, he is unconscious or dead (depending on the type of damage done).
 
-There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls. (which are subtracted from any attack successs targeted against him), Roll to hit and apply successes as damage minus any successful defense rolls.
+There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls. (which are subtracted from any attack successes targeted against him), Roll to hit and apply successes as damage minus any successful defense rolls.
 
 
 Example
 
 
-Lets see how it looks in action. Your character tries to shoot at a thug who just killed his friend. Your characters Dexterity is 3, his Firearms 2, and hes using a Glock 9mm pistol. You therefore get to roll the dice five times. The thug is about 30 yards away which is a -1 penalty. So, you are reduced to 4 dice rolls. But that's not all. Its raining cats and dogs. The Storyteller decides that there's an additional -1 penalty for poor visibility. That leaves you just 3 dice rolls. If a roll yields a 7 or 11 that is one success. If the thug is hit. He suffers 1 points of lethal damage to his Health for every success. Lets say you make 2 successes. It hurts, but it might not be enough to stop him. and he staggers away. Your character needs to decide whether to give chase and close the distance, or try to fire again.
+Lets see how it looks in action. Your character tries to shoot at a thug who just killed his friend. Your characters Dexterity is 3, his Firearms 2, and hes using a Glock 9mm pistol. You therefore get to roll the dice five times. The thug is about 30 yards away which is a -1 penalty. So, you are reduced to 4 dice rolls. But thats not all. Its raining cats and dogs. The Storyteller decides that there's an additional -1 penalty for poor visibility. That leaves you just 3 dice rolls. If a roll yields a 7 or 11 that is one success. If the thug is hit. He suffers 1 points of lethal damage to his Health for every success. Lets say you make 2 successes. It hurts, but it might not be enough to stop him. and he staggers away. Your character needs to decide whether to give chase and close the distance, or try to fire again.
 
 
 The number of times you roll for an action is made up of an attribute added to an ability. Each of these are given a rating from 1 to five:
@@ -82,22 +79,21 @@ The number of times you roll for an action is made up of an attribute added to a
 5) World Class
 
 
-That dice pool is then subtracted by a difficulty level from 0 to 6.
+That dice pool is then modified by one of these levels:
 
++1) Easy
 
-0) Easy
++0) Routine
 
-1) Routine
+-1) Moderate
 
-2) Moderate
+-2) Difficult
 
-3) Difficult
+-3) Challenging
 
-4) Challenging
+-4) Hard
 
-5) Hard
-
-6) Exceptional
+-5) Exceptional
 
 
 The number of successes you have is also given a rating from one to five:
@@ -169,7 +165,7 @@ Intimidation - Flexing Your Muscles
 
 Leadership - You Are Respected
 
-Streetwise - You're a Part Of The Underworld
+Streetwise - Youre a Part Of The Underworld
 
 Subterfuge - You Can Hide Your Motives
 
@@ -363,7 +359,7 @@ Parry: Dexterity + Melee
 
 The successes of the attack roll minus the defense roll equals damage, which is either Bashing or Lethal.
 
-If a weapon is being used the storyteller can increase the modifier for an attack by up to +3. Some guns allow you to shoot multiple times in a turn.
+If a weapon is being used the storyteller can increase the modifier for an attack by up to +5. Some guns allow you to shoot multiple times in a turn.
 
 
 Stage three - Resolution
@@ -483,7 +479,7 @@ One point of willpower generates 1 success
 
 Willpower can resist mind magic
 
-WIllpower can fight Quiet
+Willpower can fight Quiet
 
 Willpower can ignore penalties from fear & damage
 
