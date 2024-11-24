@@ -397,7 +397,8 @@ Mechanics
 
 Casting Magic
 
-You can only cast magic up to the level of your sphere. Arete is added to the Sphere you are using to get the number of dice to roll when casting a spell. No Sphere can be higher than your level of Arete. You can also only spend up to your level of Arete in quintessence on a single spell. A mage can optionally roll fewer dice to avoid a potential botch.
+
+You can only cast magic up to the level of your sphere. Arete is the number of dice to roll when casting a spell. No Sphere can be higher than your level of Arete. You can also only spend up to your level of Arete in quintessence on a single spell. A mage can optionally roll fewer dice to avoid a potential botch.    
 
 
 Avatar
@@ -425,7 +426,7 @@ Willpower can be regained after role play
 
 Difficulty
 
-Add +4 difficulty for coincidental magic, and +5 for Vulgar magic, if there are no witnesses. +1 if a Sleeper witnesses it.
+Add +3 difficulty for coincidental magic, and +4 for Vulgar magic, if there are no witnesses. +1 if a Sleeper witnesses it.
 
 
 Successes
