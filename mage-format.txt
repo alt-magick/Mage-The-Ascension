@@ -1,4 +1,4 @@
-Mage: The Ascension
+Mage: The Ascension (Alternative)
 
 Like most role playing games played
 around a table, This game uses dice to
@@ -1324,6 +1324,9 @@ If you have your own Coven you can also
 list it as your Cabal.
 
 
+Concept
+
+
 All characters need to have a concept
 which can be anything you want to make
 up. However here are some example
@@ -1357,6 +1360,9 @@ Socialite
 Soldier
 
 Worker
+
+
+Nature and Demeanor
 
 
 There are two more important categories
@@ -1533,6 +1539,9 @@ Visionary - Imagination / Pride
 You want to remake the future.
 
 
+Essence
+
+
 Your character's Avatar Essence is also
 on the character sheet. An Avatar
 represents a Mage's soul, and the
@@ -1548,6 +1557,9 @@ Pattern - Improvement
 Primordial - Stability
 
 Questing - Purpose
+
+
+Resonance
 
 
 All Mages also have a Resonance. As a
@@ -1566,6 +1578,9 @@ represents destruction. And Static
 represents protection.
 
 
+Purpose
+
+
 In these alternate rules we also have
 another trait called Purpose. You can
 fill in the dots anyway you like into
@@ -1574,6 +1589,9 @@ these 3 categories:
 Self, Others, and World.
 
 Representing your primary motivation.
+
+
+Foci
 
 
 Mages tend to have certain tools for
@@ -1662,6 +1680,9 @@ Toys
 Wands
 
 Weapons
+
+
+Examples
 
 
 Also, here are some examples of how to
