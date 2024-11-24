@@ -126,6 +126,10 @@ Second Tries
 When a roll fails, you can try again
 with a +1 difficulty modifier.
 
+
+Combat
+
+
 Combat Fighting is a series of die
 rolls, until someone surrenders or is
 rendered unable to fight. The rolls
