@@ -364,7 +364,7 @@ Parry: Dexterity + Melee
 
 The successes of the attack roll minus the defense roll equals damage, which is either Bashing or Lethal.
 
-If a weapon is being used the storyteller can increase the modifier for an attack by up to +5. Some guns allow you to shoot multiple times in a turn.
+If a weapon is being used the storyteller can increase the modifier for an attack by up to +4. Some guns allow you to shoot multiple times in a turn.
 
 
 Stage three - Resolution
