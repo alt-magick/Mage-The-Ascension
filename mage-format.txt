@@ -155,36 +155,11 @@ slowly). There are a number of
 complications involved in combat, such
 as a targets Defense Rolls. (which are
 subtracted from any attack successes
-targeted against him), Roll to hit and
-apply successes as damage minus any
+targeted against him). Apply successes as damage minus any
 successful defense rolls.
 
 
-Example
-
-
-Lets see how it looks in action. Your
-character tries to shoot at a thug who
-just killed his friend. Your characters
-Dexterity is 3, his Firearms 2, and hes
-using a Glock 9mm pistol. You therefore
-get to roll the dice five times. The
-thug is about 30 yards away which is a
--1 penalty. So, you are reduced to 4
-dice rolls. But thats not all. Its
-raining cats and dogs. The Storyteller
-decides that there's an additional -1
-penalty for poor visibility. That
-leaves you just 3 dice rolls. If a roll
-yields a 7 or 11 that is one success.
-If the thug is hit. He suffers 1 points
-of lethal damage to his Health for
-every success. Lets say you make 2
-successes. It hurts, but it might not
-be enough to stop him. and he staggers
-away. Your character needs to decide
-whether to give chase and close the
-distance, or try to fire again.
+Actions
 
 
 The number of times you roll for an
