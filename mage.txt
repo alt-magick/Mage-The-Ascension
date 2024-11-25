@@ -292,6 +292,7 @@ Difficulty
 The difficulty is the level of the sphere you are using. Add +1 for Vulgar magic, if there are no witnesses. Add another +1 if a Sleeper witnesses it.
 
 Bonuses
+
 If you have time to do a ritual, Intelligence + Occult can be rolled. Successes are added to your Arete roll up to a +3. If there isn't time for a full ritual, magical tools can add a +1 bonus.
 
 Successes
