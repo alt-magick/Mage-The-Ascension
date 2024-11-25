@@ -58,10 +58,10 @@ Combat
 
 Combat Fighting is a series of die rolls, until someone surrenders or is rendered unable to fight. The rolls determines whether or not your character hits and how much damage he inflicts on his target. The number of dice rolls is determined as above, but a knife is more deadly than a fist, and a gun is more deadly than all. Each success gained on your attack roll represents a point of damage inflicted against the targets Health trait. If the target has no more Health left, he is unconscious or dead (depending on the type of damage done).
 
-There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls. (which are subtracted from any attack successes targeted against him). Apply successes as damage minus any successful defense rolls.
+There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls, which are subtracted from any attack successes targeted against him.
 
 
-Actions 
+Actions
 
 
 The number of times you roll for an action is made up of an attribute added to an ability. Each of these are given a rating from 1 to five:
@@ -79,6 +79,7 @@ The number of times you roll for an action is made up of an attribute added to a
 
 
 That dice pool is then modified by one of these levels:
+
 
 +1) Easy
 
@@ -491,13 +492,13 @@ Willpower can be regained after role play
 Difficulty
 
 
-The difficulty is the level of the sphere you are using. Add +3 difficulty for coincidental magic, and +4 for Vulgar magic, if there are no witnesses. +1 if a Sleeper witnesses it.
+The difficulty is the level of the sphere you are using. Add +1 for Vulgar magic, if there are no witnesses. Add another +1 if a Sleeper witnesses it.
 
 
 Successes
 
 
-Simple magic requires only one success, two successes are required for more powerful magic, and larger effects can take even more. If your level of Arete is at least one point higher than the level of the Sphere you are using, you can succeed without a dice roll.
+Simple magic requires only one success, two successes are required for more powerful magic, and larger effects can take even more. A mage can use a ritual to cast magic over time.
 
 
 Botches
@@ -658,7 +659,7 @@ Knowledge: Misdirection - Manipulating attention and perception.
 Description: The Power of Vanishing encompasses the art of Misdirection. It allows a wizard to control focus and attention, rendering themselves unseen and secrets concealed. Meticulous study and practice grant the ability to achieve complete invisibility as the wizard manipulates perception and directs attention elsewhere.
 
 
-1) Safeguard Secrets
+1) Detect Lies
 
 2) See in The Dark
 
@@ -768,7 +769,7 @@ Wild Hallucinations, Obsession, or Self Harm
 
 If they have a Paradox level of 11+, the Quiet happens in more severe ways:
 
-Complete Madness, Living Repetitive Loops, or Becoming a Serial Killer
+Complete Madness, Living Repetitive Loops, or Murder
 
 Quintessence can be spent to reduce Paradox, but it has to be done before the Insanity of Quiet occurs. If Paradox reaches a level greater than 10 it is released automatically.
 
