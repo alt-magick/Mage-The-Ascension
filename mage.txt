@@ -761,15 +761,15 @@ Hallucinations, Fixations, or Depression
 
 If they have a Paradox level of 4-6, the Quiet happens in three more ways:
 
-Delusions & Mood Swings, Reoccurring Behavior Patterns, or Anti-Social Behavior
+Delusions & Mood Swings, Repetitive Behaviors, or Suicidal Thoughts
 
 If they have a Paradox level of 7-10, the Quiet happens as:
 
-Wild Hallucinations, Obsession, or Self Harm
+Wild Hallucinations, Compulsions, and Anti-Social Behavior
 
 If they have a Paradox level of 11+, the Quiet happens in more severe ways:
 
-Complete Madness, Living Repetitive Loops, or Murder
+Complete Madness, Obsession, or Violence
 
 Quintessence can be spent to reduce Paradox, but it has to be done before the Insanity of Quiet occurs. If Paradox reaches a level greater than 10 it is released automatically.
 
