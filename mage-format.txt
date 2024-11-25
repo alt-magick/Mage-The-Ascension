@@ -153,10 +153,9 @@ lethal (caused by sharp weapons such as
 knives and bullets; these wounds heal
 slowly). There are a number of
 complications involved in combat, such
-as a targets Defense Rolls. (which are
+as a targets Defense Rolls, which are
 subtracted from any attack successes
-targeted against him). Apply successes as damage minus any
-successful defense rolls.
+targeted against him.
 
 
 Actions
@@ -181,6 +180,7 @@ a rating from 1 to five:
 
 That dice pool is then modified by one
 of these levels:
+
 
 +1) Easy
 
@@ -719,11 +719,9 @@ Difficulty
 
 
 The difficulty is the level of the
-sphere you are using. Add +3 difficulty
-for coincidental magic, and +4 for
-Vulgar magic, if there are no
-witnesses. +1 if a Sleeper witnesses
-it.
+sphere you are using. Add +1 for Vulgar
+magic, if there are no witnesses. Add
+another +1 if a Sleeper witnesses it.
 
 
 Successes
@@ -732,10 +730,8 @@ Successes
 Simple magic requires only one success,
 two successes are required for more
 powerful magic, and larger effects can
-take even more. If your level of Arete
-is at least one point higher than the
-level of the Sphere you are using, you
-can succeed without a dice roll.
+take even more. A mage can use a ritual
+to cast magic over time.
 
 
 Botches
@@ -976,7 +972,7 @@ wizard manipulates perception and
 directs attention elsewhere.
 
 
-1) Safeguard Secrets
+1) Detect Lies
 
 2) See in The Dark
 
@@ -1143,7 +1139,7 @@ If they have a Paradox level of 11+,
 the Quiet happens in more severe ways:
 
 Complete Madness, Living Repetitive
-Loops, or Becoming a Serial Killer
+Loops, or Murder
 
 Quintessence can be spent to reduce
 Paradox, but it has to be done before
