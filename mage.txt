@@ -527,6 +527,9 @@ If a Mage rolls a failure when casting a spell & they also roll snake eyes on an
 Spheres
 
 
+Spheres in Mage: The Ascension are the ways a mage affects reality, representing different kinds of magick that allow them to perceive and reshape the world beyond ordinary limitations.
+
+
 Understanding
 
 Power: Wisdom / ESP
