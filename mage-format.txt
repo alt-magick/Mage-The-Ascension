@@ -1612,11 +1612,9 @@ Dynamic, Entropic, and Static
 
 Dynamic represents change. 
 
-Entropic represents
-destruction. 
+Entropic represents destruction. 
 
-And Static represents
-protection.
+And Static represents protection.
 
 
 Purpose
