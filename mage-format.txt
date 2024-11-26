@@ -524,6 +524,9 @@ Resources - Extra Money
 Wonder - A Magical talisman or device
 
 
+Combat 
+
+
 We will now go over the combat system.
 It is very simple.
 
