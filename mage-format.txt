@@ -798,9 +798,10 @@ Spheres
 
 
 Spheres in Mage: The Ascension are the
-way that Mages effect reality, representing
-different kinds of magic which allow
-them to perceive and reshape the world.
+way that Mages effect reality,
+representing different kinds of magic
+which allow them to perceive and
+reshape the world.
 
 
 Understanding
