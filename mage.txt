@@ -21,7 +21,7 @@ A typical success in Mage is made by rolling a 8, 9, or 10 on one 10 sided die, 
 So, with a few other modifications the game mechanics are basically the same. 
 
 
-Traits
+Attributes and Skills
 
 
 Characters possess a variety of traits, describing their innate capabilities, trained skills, and even how many wounds they can suffer before dying. Two types of trait are especially important: Attributes and Skills. Each of these traits is rated in dots (●), ranging from 1 to 5, much like the five-star system many critics use to rate movies. For example, a character might have a Dexterity Attribute of ●●● (3 dots) and a Firearms Skill of ●● (2 dots).
@@ -63,7 +63,7 @@ Second Tries
 When a roll fails, you can try again with a +1 difficulty modifier.
 
 
-Combat
+Fighting
 
 
 Combat Fighting is a series of die rolls, until someone surrenders or is rendered unable to fight. The rolls determines whether or not your character hits and how much damage he inflicts on his target. The number of dice rolls is determined as above, but a knife is more deadly than a fist, and a gun is more deadly than all. Each success gained on your attack roll represents a point of damage inflicted against the targets Health trait. If the target has no more Health left, he is unconscious or dead (depending on the type of damage done).
