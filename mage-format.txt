@@ -630,7 +630,7 @@ Finally, your character needs to learn
 magic!
 
 
-Overview
+Magic
 
 
 There are 12 Spheres in this system
