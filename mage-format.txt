@@ -69,7 +69,7 @@ So, with a few other modifications the
 game mechanics are basically the same. 
 
 
-Traits
+Attributes and Skills
 
 
 Characters possess a variety of traits,
@@ -168,7 +168,7 @@ When a roll fails, you can try again
 with a +1 difficulty modifier.
 
 
-Combat
+Fighting
 
 
 Combat Fighting is a series of die
