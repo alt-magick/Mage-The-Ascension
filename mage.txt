@@ -24,7 +24,7 @@ You just need two six sided dice to play. I have changed this from the original 
 
 For a success in this game, rolling a 7 or 11 with two 6 sided dice has the odds of 2/9 which is 0.2222.
 
-A success in Mage is made by rolling a 8, 9, or 10 on one 10 sided die, which has the odds of 3/10 which is 0.3.
+A typical success in Mage is made by rolling a 8, 9, or 10 on one 10 sided die, which has the odds of 3/10 which is 0.3.
 
 So, with a few other modifications the game mechanics are basically the same.
 
