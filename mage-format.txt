@@ -1610,9 +1610,13 @@ magic.
 There are three types of Resonance:
 Dynamic, Entropic, and Static
 
-Dynamic represents change. Entropic
-represents destruction. And Static
-represents protection.
+Dynamic represents change. 
+
+Entropic represents
+destruction. 
+
+And Static represents
+protection.
 
 
 Purpose
