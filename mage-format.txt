@@ -5,12 +5,10 @@ game set in the World of Darkness, a
 dark, gothic-punk alternative version
 of our own reality. In this setting,
 magic is real but hidden from most
-people's perception.
-
-The game revolves around mages -
-individuals who can reshape reality
-through the power of will, belief, and
-understanding.
+people's perception. The game revolves
+around mages - individuals who can
+reshape reality through the power of
+will, belief, and understanding.
 
 The Technocracy stands as a powerful
 organization seeking to control reality
@@ -27,23 +25,13 @@ fundamentally believe that reality is
 malleable and can be shaped by human
 will and belief.
 
-Roleplaying is distilled into single
-scenes. The entire game exists in a
-scene. It is not a fragment of the
-game, but the game itself.
-
-Unlike a predetermined script, a scene
-thrives on the dynamic interplay of
-individual character motivations,
-player choices, and unexpected
-developments.
-
-The most powerful scenes are those that
-surprise both the Storyteller and the
-participants, revealing stories none
-could have anticipated.
-
-The beauty of a roleplaying scene lies
+Roleplaying happens inside of scenes.
+In fact, the entire game exists in
+scenes. The most powerful scenes are
+those that surprise both the
+Storyteller and the players, revealing
+stories none could have anticipated.
+The beauty of roleplaying a scene lies
 in its uncertainty. Neither the
 players, or the Storyteller know
 exactly how the scene will unfold.
@@ -54,7 +42,7 @@ where individual creativity merges into
 a collective experience.
 
 Like most role playing games played
-around a table, This game uses dice to
+around a table, we use dice to
 determine the whims of chance. Anytime
 a character performs an action under
 adverse conditions or when the outcome
@@ -78,8 +66,7 @@ die, which has the odds of 3/10 which
 is 0.3.
 
 So, with a few other modifications the
-game mechanics are basically the
-same.
+game mechanics are basically the same. 
 
 
 Traits
