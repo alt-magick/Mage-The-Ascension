@@ -21,7 +21,7 @@ A typical success in Mage is made by rolling a 8, 9, or 10 on one 10 sided die, 
 
 So, with a few other modifications the game mechanics are basically the same.
 
-Attributes and Skills
+### Attributes and Skills
 
 
 Characters possess a variety of traits, describing their innate capabilities, trained skills, and even how many wounds they can suffer before dying. Two types of trait are especially important: Attributes and Skills. Each of these traits is rated in dots (●), ranging from 1 to 5, much like the five-star system many critics use to rate movies. For example, a character might have a Dexterity Attribute of ●●● (3 dots) and a Firearms Skill of ●● (2 dots).
