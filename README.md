@@ -946,152 +946,123 @@ There are two more important categories at the top of the character sheet, calle
 
 
 * Architect - Purpose / Obsession<br>
-&nbsp; &nbsp; You desire to leave a mark on the world.
+&nbsp; &nbsp;You desire to leave a mark on the world.
 
 
-Autocrat - Leadership / Dictatorship
+* Autocrat - Leadership / Dictatorship<br>
+&nbsp; &nbsp;You want control.
 
-You want control.
 
+* Bon Vivant - Love of Life / Hedonism<br>
+&nbsp; &nbsp;You want to live Life.
 
-Bon Vivant - Love of Life / Hedonism
 
-You want to live Life.
+* Bravo - Strength / Anger<br>
+&nbsp; &nbsp;You want power.
 
 
-Bravo - Strength / Anger
+* Caregiver - Compassion / Smothering<br>
+&nbsp; &nbsp;You look out for others.
 
-You want power.
 
+* Celebrant - Passion / Intemperance<br>
+&nbsp; &nbsp;You have a calling
 
-Caregiver - Compassion / Smothering
 
-You look out for others.
+* Child - Innocence / Immaturity<br>
+&nbsp; &nbsp;You never grew up.
 
 
-Celebrant - Passion / Intemperance
+* Competitor - Striving / Competitiveness<br>
+&nbsp; &nbsp;Life is a challenge to be won.
 
-You have a calling
 
+* Conformist - Cooperation / Low-Self Esteem<br>
+&nbsp; &nbsp;You are a follower.
 
-Child - Innocence / Immaturity
 
-You never grew up.
+* Conniver - Clever / Envy<br>
+&nbsp; &nbsp;You are a manipulator
 
 
-Competitor - Striving / Competitiveness
+* Curmudgeon - Critical Eye / Lack of Imagination<br>
+&nbsp; &nbsp;You find the faults in others.
 
-Life is a challenge to be won.
 
+* Deviant - Shatter Boundaries / Perversion<br>
+&nbsp; &nbsp;You are an outcast.
 
-Conformist - Cooperation / Low-Self Esteem
 
-You are a follower.
+* Director - Organization / Lack of Tolerance<br>
+&nbsp; &nbsp;You want things under control.
 
 
-Conniver - Clever / Envy
+* Fanatic - Dedication / Stubbornness<br>
+&nbsp; &nbsp;You live for a cause.
 
-You are a manipulator
 
+* Gallant - Artistry / Flamboyance<br>
+&nbsp; &nbsp;You want to be the center of attention.
 
-Curmudgeon - Critical Eye / Lack of Imagination
 
-You find the faults in others.
+* Judge - Justice / Lack of Vision<br>
+&nbsp; &nbsp;You want to resolve problems.
 
 
-Deviant - Shatter Boundaries / Perversion
+* Loner - Self-Reliance / Lack of Empathy<br>
+&nbsp; &nbsp;You work best by yourself.
 
-You are an outcast.
 
+* Martyr - Sacrifice / Self-Deprecation<br>
+&nbsp; &nbsp;You devote yourself to helping others.
 
-Director - Organization / Lack of Tolerance
 
-You want things under control.
+* Masochist - Devotion / Self-Destructiveness<br>
+&nbsp; &nbsp;You want to suffer.
 
 
-Fanatic - Dedication / Stubbornness
+* Monster - Mirror of Villainy / Depravity<br>
+&nbsp; &nbsp;You are an evil person.
 
-You live for a cause.
 
+* Pedagogue - Knowledge / Logorrhea<br>
+&nbsp; &nbsp;You are a teacher.
 
-Gallant - Artistry / Flamboyance
 
-You want to be the center of attention.
+* Penitent - Responsibility / Contrition<br>
+&nbsp; &nbsp;You are consumed with guilt.
 
 
-Judge - Justice / Lack of Vision
+* Perfectionist - Exactitude / Incompleteness<br>
+&nbsp; &nbsp;You need to be the best.
 
-You want to resolve problems.
 
+* Rebel - Individuality / Lack of Direction<br>
+&nbsp; &nbsp;You like to break the rules.
 
-Loner - Self-Reliance / Lack of Empathy
 
-You work best by yourself.
+* Rogue - Valor / Selfishness<br>
+&nbsp; &nbsp;You look out for yourself.
 
 
-Martyr - Sacrifice / Self-Deprecation
+* Survivor - Perseverance / Lack of Trust<br>
+&nbsp; &nbsp;You keep going no matter what.
 
-You devote yourself to helping others.
 
+* Thrill-Seeker - Daring / Recklessness<br>
+&nbsp; &nbsp;You live on the edge.
 
-Masochist - Devotion / Self-Destructiveness
 
-You want to suffer.
+* Traditionalist - Consistency / Complacency<br>
+&nbsp; &nbsp;You support the status quo.
 
 
-Monster - Mirror of Villainy / Depravity
+* Trickster - Empathy / Hypocrisy<br>
+&nbsp; &nbsp;Your life is a comedy.
 
-You are an evil person.
 
-
-Pedagogue - Knowledge / Logorrhea
-
-You are a teacher.
-
-
-Penitent - Responsibility / Contrition
-
-You are consumed with guilt.
-
-
-Perfectionist - Exactitude / Incompleteness
-
-You need to be the best.
-
-
-Rebel - Individuality / Lack of Direction
-
-You like to break the rules.
-
-
-Rogue - Valor / Selfishness
-
-You look out for yourself.
-
-
-Survivor - Perseverance / Lack of Trust
-
-You keep going no matter what.
-
-
-Thrill-Seeker - Daring / Recklessness
-
-You live on the edge.
-
-
-Traditionalist - Consistency / Complacency
-
-You support the status quo.
-
-
-Trickster - Empathy / Hypocrisy
-
-Your life is a comedy.
-
-
-Visionary - Imagination / Pride
-
-You want to remake the future.
+* Visionary - Imagination / Pride<br>
+&nbsp; &nbsp;You want to remake the future.
 <br>
 
 ### Essence
