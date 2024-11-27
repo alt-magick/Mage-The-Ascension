@@ -430,8 +430,6 @@ These are the degrees of power for the Spheres:
 
 5) Miraculous
 
--
-
 
 #### 1) Awareness
 
@@ -470,19 +468,21 @@ Casting Magic
 You can only cast magic up to the level of your sphere. Arete is the number of dice to roll when casting a spell. No Sphere can be higher than your level of Arete. A mage can optionally roll fewer dice to avoid a potential botch.
 
 
-Avatar
+#### Avatar
 
 
 * A Mage’s Avatar is the maximum Quintessence they can store.
 
 
-Quintessence
+
+#### Quintessence
 
 
 * Quintessence is the power source for Magic. Spending Quintessence points reduces the difficulty of a spell, up to your level of Arete. Meditation is required to regain Quintessence for at least an hour at a place of power. The maximum Quintessence a Mage can store is their Avatar score. Quintessence can also be stored in things that are carried by a Mage.
 
 
-Willpower
+
+#### Willpower
 
 
 * One point of willpower generates 1 success
@@ -496,28 +496,33 @@ Willpower
 * Willpower can be regained after role play
 
 
-Difficulty
+
+#### Difficulty
 
 
 * The difficulty for casting magic is the level of the sphere you are using. Add +1 for Vulgar magic, if there are no witnesses. Add another +1 if a Sleeper witnesses it.
 
 
-Bonuses
+
+#### Bonuses
 
 
 * If you have time to do a ritual, Intelligence + Occult can be rolled. Successes are added to your Arete roll up to a +3. If there isn't time for a full ritual, magical tools can add a +1 bonus.
 
 
-Successes
+
+#### Successes
 
 
 * Simple magic requires only one success, two successes are required for more powerful magic, and larger effects can take even more.
 
 
-Botches
+
+#### Botches
 
 
 * If a Mage rolls a failure when casting a spell & they also roll snake eyes on any of their dice then they botch. This is a dangerous situation.
+<br>
 
 ### Spheres
 
@@ -535,15 +540,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Understanding manifests as inspiration and insight, granting effortless access to answers and discoveries beyond conventional understanding. It endows the practitioner with the gift of foreknowledge. The key to unlocking this power lies in the realization that all knowledge already resides within oneself.
 <br>
 
-1) Elevated Mental Attributes
+* 1) Elevated Mental Attributes
 
-2) Predicting Outcomes
+* 2) Predicting Outcomes
 
-3) Seeing the Past
+* 3) Seeing the Past
 
-4) Seeing the Future
+* 4) Seeing the Future
 
-5) Stopping Time
+* 5) Stopping Time
 
 
 #### Feeling
@@ -555,15 +560,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Feeling enables one to empathize and understand others deeply, perceiving their thoughts and emotions without the need for words. It stems from the profound insight into Association, the intrinsic link that binds all living beings together.
 <br>
 
-1) Reading Mindstates
+* 1) Reading Mindstates
 
-2) Bonus to Social Attributes
+* 2) Bonus to Social Attributes
 
-3) Mental Shield
+* 3) Mental Shield
 
-4) Reading Thoughts
+* 4) Reading Thoughts
 
-5) Mental Link
+* 5) Mental Link
 
 
 #### Production
@@ -575,15 +580,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Production empowers a wizard to draw situations and desires into their reality. This ability stems from a profound understanding of Synchronicity, the cosmic principle that everything is interconnected and influences each other. It acknowledges that the power to attract lies within, awaiting manifestation.
 <br>
 
-1) Sensing Opportunity
+* 1) Sensing Opportunity
 
-2) Arranging situations
+* 2) Arranging situations
 
-3) Attracting Wealth
+* 3) Attracting Wealth
 
-4) Produce Small Objects
+* 4) Produce Small Objects
 
-5) Win Lotteries & Elections
+* 5) Win Lotteries & Elections
 
 
 #### Influence
@@ -595,15 +600,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Influence grants a wizard the power to captivate others. Known as Possession, it allows one to enchant and charm, eliciting positive perceptions or even gaining control over anothers thoughts and actions. The essence of this mastery lies in the understanding that ones will can wield dominion over the minds of others.
 <br>
 
-1) Sensing Willpower
+* 1) Sensing Willpower
 
-2) Social Influence
+* 2) Social Influence
 
-3) Hypnotic Suggestion
+* 3) Hypnotic Suggestion
 
-4) Mind Control
+* 4) Mind Control
 
-5) Altering Identities
+* 5) Altering Identities
 
 
 #### Penetration
@@ -615,15 +620,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Penetration delves into the realm of Spiritualism. It unveils the truth that the world is fundamentally composed of spirit, allowing a wizard to transcend physical boundaries and become intangible. Chains and locks lose their hold, dissolving effortlessly under the wizards touch.
 <br>
 
-1) Find Exits
+* 1) Find Exits
 
-2) Open Locks
+* 2) Open Locks
 
-3) Escape From Restraints
+* 3) Escape From Restraints
 
-4) Escape From Prisons
+* 4) Escape From Prisons
 
-5) Becoming Intangible
+* 5) Becoming Intangible
 
 
 #### Control
@@ -635,15 +640,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Control enables a wizard to command powerful forces. Through evocation, the practitioner can manipulate energy and bend it to their will. This understanding arises from recognizing that spiritual entities are themselves embodiments of force and possess the capacity to shape and impact the physical world.
 <br>
 
-1) Quick Reactions
+* 1) Quick Reactions
 
-2) Bonus to Physical Abilities
+* 2) Bonus to Physical Abilities
 
-3) Influencing Physical Outcomes
+* 3) Influencing Physical Outcomes
 
-4) Moving Objects
+* 4) Moving Objects
 
-5) Controlling Natural Forces
+* 5) Controlling Natural Forces
 
 
 #### Restoration
@@ -655,15 +660,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Restoration holds the gift of healing. It grants the ability to alleviate pain, cure diseases, and bring renewal to the afflicted. This power emerges from the understanding of Forgiveness, recognizing that suffering often stems from transgressions. By embracing forgiveness, a wizard becomes a conduit for healing and restoration.
 <br>
 
-1) Sense illness
+* 1) Sense illness
 
-2) Relieve Pain
+* 2) Relieve Pain
 
-3) Protection from Disease
+* 3) Protection from Disease
 
-4) Heal Sickness / Damage
+* 4) Heal Sickness / Damage
 
-5) Resurrection
+* 5) Resurrection
 
 
 #### Vanishing
@@ -675,15 +680,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Vanishing encompasses the art of Misdirection. It allows a wizard to control focus and attention, rendering themselves unseen and secrets concealed. Meticulous study and practice grant the ability to achieve complete invisibility as the wizard manipulates perception and directs attention elsewhere.
 <br>
 
-1) Detect Lies
+* 1) Detect Lies
 
-2) See in The Dark
+* 2) See in The Dark
 
-3) Stealth
+* 3) Stealth
 
-4) Disguise
+* 4) Disguise
 
-5) Invisibility
+* 5) Invisibility
 
 
 #### Travel
@@ -696,15 +701,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 <br>
 
 
-1) Locate Lost Objects
+* 1) Locate Lost Objects
 
-2) Find Directions
+* 2) Find Directions
 
-3) See at a Distance
+* 3) See at a Distance
 
-4) Teleport Objects
+* 4) Teleport Objects
 
-5) Make a Portal
+* 5) Make a Portal
 
 
 #### Transformation
@@ -717,15 +722,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 <br>
 
 
-1) Sense Others Attributes
+* 1) Sense Others Attributes
 
-2) Bonus to Attributes
+* 2) Bonus to Attributes
 
-3) Developing Attributes
+* 3) Developing Attributes
 
-4) Shapeshifting
+* 4) Shapeshifting
 
-5) Transmutation
+* 5) Transmutation
 
 
 #### Destruction
@@ -737,15 +742,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Destruction holds immense power that should be wielded with caution. It encompasses the ability to curse, annihilate, and disrupt the natural order. However, the utilization of this power draws one away from their true path and blurs the distinction between right and wrong.
 <br>
 
-1) Sense Black Magic
+* 1) Sense Black Magic
 
-2) Protection from Curses
+* 2) Protection from Curses
 
-3) Curse Enemies
+* 3) Curse Enemies
 
-4) Cause Physical Damage
+* 4) Cause Physical Damage
 
-5) Kill & Destroy
+* 5) Kill & Destroy
 
 
 #### Revelation
@@ -757,15 +762,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Revelation unveils profound visions and grants enlightenment to the practitioner. It is rooted in the understanding of the symbiotic connection between gods, angels, and humanity. By tapping into this power, a wizard gains access to celestial knowledge, perceiving the intricate tapestry that binds all realms and entities together.
 <br>
 
-1) Sense Spirits
+* 1) Sense Spirits
 
-2) Speak with Spirits
+* 2) Speak with Spirits
 
-3) Banish Spirits
+* 3) Banish Spirits
 
-4) Summon Spirits
+* 4) Summon Spirits
 
-5) Spirit Travel
+* 5) Spirit Travel
 
 ### Paradox & Quiet
 
@@ -932,33 +937,33 @@ If you have your own Coven you can also list it as your Cabal.
 All characters need to have a concept which can be anything you want to make up. However here are some example concepts that you might like to use:
 
 
-Criminal
+* Criminal
 
-Drifter
+* Drifter
 
-Entertainer
+* Entertainer
 
-Intellectual
+* Intellectual
 
-Investigator
+* Investigator
 
-Kid
+* Kid
 
-Night-lifer
+* Night-lifer
 
-Outsider
+* Outsider
 
-Politician
+* Politician
 
-Professional
+* Professional
 
-Reporter
+* Reporter
 
-Socialite
+* Socialite
 
-Soldier
+* Soldier
 
-Worker
+* Worker
 
 ### Nature and Demeanor
 
