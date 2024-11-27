@@ -1,5 +1,6 @@
 Mage: The Ascension
 
+
 Mage: The Ascension is a roleplaying game set in the World of Darkness, a dark, gothic-punk alternative version of our own reality. In this setting, magic is real but hidden from most people's perception. The game revolves around mages - individuals who can reshape reality through the power of will, belief, and understanding.
 
 The Technocracy stands as a powerful organization seeking to control reality through science, technology, and rational thought. They view magic as a dangerous threat to human progress and work systematically to suppress and eliminate supernatural elements.
@@ -18,8 +19,7 @@ For a success in this game, rolling a 7 or 11 with two 6 sided dice has the odds
 
 A typical success in Mage is made by rolling a 8, 9, or 10 on one 10 sided die, which has the odds of 3/10 which is 0.3.
 
-So, with a few other modifications the game mechanics are basically the same. 
-
+So, with a few other modifications the game mechanics are basically the same.
 
 Attributes and Skills
 
@@ -27,7 +27,6 @@ Attributes and Skills
 Characters possess a variety of traits, describing their innate capabilities, trained skills, and even how many wounds they can suffer before dying. Two types of trait are especially important: Attributes and Skills. Each of these traits is rated in dots (●), ranging from 1 to 5, much like the five-star system many critics use to rate movies. For example, a character might have a Dexterity Attribute of ●●● (3 dots) and a Firearms Skill of ●● (2 dots).
 
 Whenever your character performs an action that calls for dice rolls, you most often add the most appropriate Attribute to the most appropriate Skill. When your character shoots a gun, you add his Dexterity to his Firearms for a total number of dice rolls.
-
 
 Modifiers
 
@@ -38,38 +37,31 @@ For example, when shooting a target 30 yards away with his Glock 17 pistol, your
 
 The Storyteller determines whether or not any circumstance imposes dice-roll modifiers and how great those modifiers are.
 
-
 Dice Rolls
 
 
 So, we can say that that the number of times you get to roll the dice is determined like so: Attribute + Skill + modifiers (if any) In general, bonuses are always added before penalties are applied.
-
 
 Rolling the Dice
 
 
 Now that you know what to roll, lets see how to read the results. Each roll uses two dice, and a result of 7, or 11 is considered a success. You might have more than one of these, in which case you have multiple successes. The dice don't just tell you whether your character succeeds or fails it shows you how well he does. If none of your die rolls succeed, your roll fails. Obviously, the more die rolls you have the better your characters chances of success, and the greater your odds of gaining multiple successes.
 
-
 Snake Eyes
 
 
 If one of your rolls turn up snake eyes, it cancels out one success. If you roll snake eyes, and none of you other rolls succeed it is a botch.
 
-
 Second Tries
 
-
 When a roll fails, you can try again with a +1 difficulty modifier.
-
 
 Fighting
 
 
-Combat Fighting is a series of die rolls, until someone surrenders or is rendered unable to fight. The rolls determines whether or not your character hits and how much damage he inflicts on his target. The number of dice rolls is determined as above, but a knife is more deadly than a fist, and a gun is more deadly than all. Each success gained on your attack roll represents a point of damage inflicted against the targets Health trait. If the target has no more Health left, he is unconscious or dead (depending on the type of damage done).
+Combat is a series of die rolls, until someone surrenders or is rendered unable to fight. The rolls determine whether or not your character hits and how much damage he inflicts on his target. The number of dice rolls is determined as above, but a knife is more deadly than a fist, and a gun is more deadly than all. Each success gained on your attack roll represents a point of damage inflicted against the targets Health trait. If the target has no more Health left, he is unconscious or dead (depending on the type of damage done).
 
 There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls, which are subtracted from any attack successes targeted against him.
-
 
 Actions
 
@@ -119,9 +111,7 @@ The number of successes you have is also given a rating from one to five:
 
 5) Phenomenal
 
-
 Traits
-
 
 The attributes your character has are listed here, they are divided into 3 categories:
 
@@ -246,11 +236,11 @@ Paradox - The backlash from magic into insanity
 
 Health - The amount of damage you can take
 
-
 Getting Started
 
 
 Now that you know the basics of the Storytelling System, you can proceed to create your own characters. You’ll be able to judge what sort of traits you’ll need based on their titles (they’re mostly self-explanatory), and know that the more dots you have in a trait the better your character will be when accomplishing tasks with it.
+
 
 Here is a quick overview of how to begin the character creation process:
 
@@ -334,7 +324,6 @@ Resources - Extra Money
 
 Wonder - A Magical talisman or device
 
-
 Combat
 
 
@@ -412,11 +401,11 @@ Each point of damage is marked with a / for bashing damage and an X for lethal d
 
 Finally, your character needs to learn magic!
 
-
-Magic 
+Magic
 
 
 There are 12 Spheres in this system that are divided into coincidental & vulgar magic. The first three levels of each sphere are limited to coincidental effects, and the highest levels of the sphere are divided into two levels of more advanced magic.
+
 
 The Twelve Spheres in alphabetical order are:
 
@@ -467,14 +456,13 @@ The Mage can manipulate and bend the laws of physics.
 
 The Mage can now create impossible miracles.
 
-
 Mechanics
 
 
 Casting Magic
 
 
-You can only cast magic up to the level of your sphere. Arete is the number of dice to roll when casting a spell. No Sphere can be higher than your level of Arete. You can also only spend up to your level of Arete in quintessence on a single spell. A mage can optionally roll fewer dice to avoid a potential botch.
+You can only cast magic up to the level of your sphere. Arete is the number of dice to roll when casting a spell. No Sphere can be higher than your level of Arete. A mage can optionally roll fewer dice to avoid a potential botch.
 
 
 Avatar
@@ -486,7 +474,7 @@ A Mage’s Avatar is the maximum Quintessence they can store.
 Quintessence
 
 
-Quintessence is the power source for Magic. Spending Quintessence reduces the difficulty of a spell, up to a modifier of -3. Meditation is required to regain Quintessence for at least an hour at a place of power. Quintessence can also be stored in things that are carried by a Mage.
+Quintessence is the power source for Magic. Spending Quintessence points reduces the difficulty of a spell, up to your level of Arete. Meditation is required to regain Quintessence for at least an hour at a place of power. The maximum Quintessence a Mage can store is their Avatar score. Quintessence can also be stored in things that are carried by a Mage.
 
 
 Willpower
@@ -506,7 +494,7 @@ Willpower can be regained after role play
 Difficulty
 
 
-The difficulty is the level of the sphere you are using. Add +1 for Vulgar magic, if there are no witnesses. Add another +1 if a Sleeper witnesses it.
+The difficulty for casting magic is the level of the sphere you are using. Add +1 for Vulgar magic, if there are no witnesses. Add another +1 if a Sleeper witnesses it.
 
 
 Bonuses
@@ -526,14 +514,14 @@ Botches
 
 If a Mage rolls a failure when casting a spell & they also roll snake eyes on any of their dice then they botch. This is a dangerous situation.
 
-
 Spheres
 
 
-Spheres in Mage: The Ascension are the way that Mages effect reality, representing different kinds of magic which allow them to perceive and reshape the world.
+Spheres in Mage: The Ascension are the way Mages effect reality. They represent different kinds of magic, which Mages use to perceive and reshape the world.
 
 
 Understanding
+
 
 Power: Wisdom / ESP
 
@@ -772,7 +760,6 @@ Description: The Power of Revelation unveils profound visions and grants enlight
 
 5) Spirit Travel
 
-
 Paradox & Quiet
 
 
@@ -795,7 +782,6 @@ If they have a Paradox level of 11+, the Quiet happens in more severe ways:
 Complete Madness, Obsession, or Violence
 
 Quintessence can be spent to reduce Paradox, but it has to be done before the Insanity of Quiet occurs. If Paradox reaches a level greater than 10 it is released automatically.
-
 
 Occult
 
@@ -893,7 +879,6 @@ Finishing Touches
 
 Here are some finishing touches to add to your character sheet.
 
-
 Traditions
 
 
@@ -922,7 +907,6 @@ Hollow Ones - Goths
 
 
 If you have your own Coven you can also list it as your Cabal.
-
 
 Concept
 
@@ -957,7 +941,6 @@ Socialite
 Soldier
 
 Worker
-
 
 Nature and Demeanor
 
@@ -1114,7 +1097,6 @@ Visionary - Imagination / Pride
 
 You want to remake the future.
 
-
 Essence
 
 
@@ -1129,30 +1111,31 @@ Primordial - Stability
 
 Questing - Purpose
 
-
 Resonance
 
 
 All Mages also have a Resonance. As a Mage uses magic their Resonance changes. Other Awakened can read a Mage's Resonance as well. You start with one dot in one Resonance trait, and add dots as you continue working magic.
 
+
 There are three types of Resonance: Dynamic, Entropic, and Static
+
 
 Dynamic represents change.
 
-Entropic represents destruction. 
+Entropic represents destruction.
 
 And Static represents protection.
-
 
 Purpose
 
 
 In these alternate rules we also have another trait called Purpose. You can fill in the dots anyway you like into these 3 categories:
 
+
 Self, Others, and World.
 
-Representing your primary motivation.
 
+Representing your primary motivation.
 
 Foci
 
@@ -1161,6 +1144,8 @@ Mages tend to have certain tools for using magic. When a Mage has access to thes
 
 
 Art
+
+Astrology
 
 Blood
 
@@ -1171,6 +1156,8 @@ Bones
 Cauldrons
 
 Chalices
+
+Candles
 
 Chanting
 
@@ -1210,6 +1197,8 @@ Internet
 
 Ordeals
 
+Poetry
+
 Pure Water
 
 Purification
@@ -1238,9 +1227,7 @@ Wands
 
 Weapons
 
-
 Examples
-
 
 Also, here are some examples of how to attempt other actions using the abilities and attributes already mentioned:
 
