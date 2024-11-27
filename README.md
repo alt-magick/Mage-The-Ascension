@@ -420,17 +420,6 @@ Control, Destruction, Feeling, Influence, Penetration, Production, Revelation, R
 These are the degrees of power for the Spheres:
 <br>
 
-1) Awareness
-
-2) Sympathetic
-
-3) Coincidental
-
-4) Manipulative
-
-5) Miraculous
-
-
 #### 1) Awareness
 
 * Allows the Mage to sense things with their magic.
@@ -462,10 +451,10 @@ These are the degrees of power for the Spheres:
 ### Mechanics
 
 
-Casting Magic
+#### Casting Magic
 
 
-You can only cast magic up to the level of your sphere. Arete is the number of dice to roll when casting a spell. No Sphere can be higher than your level of Arete. A mage can optionally roll fewer dice to avoid a potential botch.
+* You can only cast magic up to the level of your sphere. Arete is the number of dice to roll when casting a spell. No Sphere can be higher than your level of Arete. A mage can optionally roll fewer dice to avoid a potential botch.
 
 
 #### Avatar
