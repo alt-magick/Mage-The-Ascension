@@ -765,97 +765,85 @@ There are 12 Spheres in this system. Each Sphere connects to one of the 12 signs
 
 Control:
 
-Energy / Telekinesis
-
-(Aries / Emperor) + (Mars / Tower)
+&nbsp;&nbsp;Energy / Telekinesis
+&nbsp;&nbsp;(Aries / Emperor) + (Mars / Tower)
 <br>
 
 
 Transformation:
 
-Developing / Shapeshifting
-
-(Taurus / Hierophant) + (Venus / Empress)
+&nbsp;&nbsp;Developing / Shapeshifting
+&nbsp;&nbsp;(Taurus / Hierophant) + (Venus / Empress)
 <br>
 
 
 Understanding:
 
-Wisdom / ESP
-
-(Libra / Justice) + (Venus / Empress)
+&nbsp;&nbsp;Wisdom / ESP
+&nbsp;&nbsp;(Libra / Justice) + (Venus / Empress)
 <br>
 
 
 Revelation:
 
-Visions / Rapture
-
-(Pisces / High Priestess) + (Neptune / Hanged Man)
+&nbsp;&nbsp;Visions / Rapture
+&nbsp;&nbsp;(Pisces / High Priestess) + (Neptune / Hanged Man)
 <br>
 
 
 Feeling:
 
-Empathy / Telepathy
-
-(Virgo / Hermit) + (Mercury / Magician)
+&nbsp;&nbsp;Empathy / Telepathy
+&nbsp;&nbsp;(Virgo / Hermit) + (Mercury / Magician)
 <br>
 
 
 Influence:
 
-Charisma / Hypnotism
-
-(Leo / Strength) + (Sun / Sun)
+&nbsp;&nbsp;Charisma / Hypnotism
+&nbsp;&nbsp;(Leo / Strength) + (Sun / Sun)
 <br>
 
 
 Penetration:
 
-Escape / Intangibility
-
-(Gemini / Lovers) + (Mercury / Magician)
+&nbsp;&nbsp;Escape / Intangibility
+&nbsp;&nbsp;(Gemini / Lovers) + (Mercury / Magician)
 <br>
 
 
 Travel:
 
-Direction / Teleportation
-
-(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
+&nbsp;&nbsp;Direction / Teleportation
+&nbsp;&nbsp;(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
 <br>
 
 
 Production:
 
-Attraction / Creation
-
-(Capricorn / Devil) + (Saturn / World)
+&nbsp;&nbsp;Attraction / Creation
+&nbsp;&nbsp;(Capricorn / Devil) + (Saturn / World)
 <br>
 
 
 Restoration:
 
-Renewal / Healing
-
-(Aquarius / Star) + (Uranus / Fool)
+&nbsp;&nbsp;Renewal / Healing
+&nbsp;&nbsp;(Aquarius / Star) + (Uranus / Fool)
 <br>
 
 
 Vanishing:
 
-Stealth / Invisibility
-
-(Cancer / Chariot) + (Moon / Moon)
+&nbsp;&nbsp;Stealth / Invisibility
+&nbsp;&nbsp;(Cancer / Chariot) + (Moon / Moon)
 <br>
 
 
 Destruction:
 
-Curses / Annihilation
-
-(Scorpio / Death) + (Pluto / Judgement)
+&nbsp;&nbsp;Curses / Annihilation
+&nbsp;&nbsp;(Scorpio / Death) + (Pluto / Judgement)
 <br>
 
 
