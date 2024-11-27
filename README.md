@@ -225,8 +225,6 @@ Abilities are also divided into 3 categories:
 
 * Science - Engineering, Chemistry, & Physics
 
-<br>
-
 There are also some other very important traits:
 
 
