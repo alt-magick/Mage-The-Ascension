@@ -276,7 +276,7 @@ To increase a Sphere requires 7 freebie points.
 Prioritize the categories with 3 levels of points.
 
 
-Select Attributes (7/5/3)
+#### Select Attributes (7/5/3)
 
 
 Physical: Strength, Dexterity, Stamina
@@ -286,7 +286,7 @@ Social: Charisma, Manipulation, Appearance
 Mental: Perception, Intelligence, Wits
 
 
-Select Abilities (13/9/5)
+#### Select Abilities (13/9/5)
 
 
 Talents: Alertness, Athletics, Awareness, Brawl, Dodge, Expression, Intimidation, Leadership, Streetwise, Subterfuge
@@ -299,7 +299,7 @@ Knowledges: Academics, Computer, Cosmology, Enigmas, Investigation, Law, Linguis
 Additionally, characters also have a number of advantages called Backgrounds.
 
 
-Backgrounds (7):
+#### Backgrounds (7):
 
 
 Allies - Friends who help you
@@ -332,7 +332,7 @@ We will now go over the combat system. It is very simple.
 Combat is broken down into three steps, Initiative, Attack, and Resolution.
 
 
-Stage one - Initiative
+#### Stage one - Initiative
 
 
 During initiative, both players roll Dexterity + Wits. Whoever has more successes gets to go first.
@@ -342,7 +342,7 @@ Each player declares either to attack or defend.
 It is also possible to ambush someone with: Dexterity + Stealth vs Perception + Alertness
 
 
-Stage two - Attack
+#### Stage two - Attack
 
 
 The attacker rolls one of these:
@@ -368,7 +368,7 @@ The successes of the attack roll minus the defense roll equals damage, which is 
 If a weapon is being used the storyteller can increase the modifier for an attack by up to +4. Some guns allow you to shoot multiple times in a turn.
 
 
-Stage three - Resolution
+#### Stage three - Resolution
 
 
 Roll as many times as your Stamina points to eliminate a point of bashing damage for each success.
@@ -378,7 +378,7 @@ If the fighting continues you roll again for initiative.
 Keep track of the damage to your health with this chart:
 
 
-Health
+#### Health
 
 
 1) Bruised -0
@@ -429,30 +429,30 @@ These are the degrees of power for the Spheres:
 -
 
 
-1) Awareness
+#### 1) Awareness
 
 Allows the Mage to sense things with their magic.
 
 
-2) Sympathetic
+#### 2) Sympathetic
 
 
 The Mage can effect things they’re personally connected to.
 
 
-3) Coincidental
+#### 3) Coincidental
 
 
 The Mage can work magic as long as it doesn’t defy physics.
 
 
-4) Manipulative
+#### 4) Manipulative
 
 
 The Mage can manipulate and bend the laws of physics.
 
 
-5) Miraculous
+#### 5) Miraculous
 
 The Mage can now create impossible miracles.
 
@@ -520,7 +520,7 @@ If a Mage rolls a failure when casting a spell & they also roll snake eyes on an
 Spheres in Mage: The Ascension are the way Mages effect reality. They represent different kinds of magic, which Mages use to perceive and reshape the world.
 
 
-Understanding
+#### Understanding
 
 
 Power: Wisdom / ESP
@@ -541,7 +541,7 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 5) Stopping Time
 
 
-Feeling
+#### Feeling
 
 Power: Empathy / Telepathy
 
@@ -561,7 +561,7 @@ Description: The Power of Feeling enables one to empathize and understand others
 5) Mental Link
 
 
-Production
+#### Production
 
 Power: Attraction / Creation
 
@@ -581,7 +581,7 @@ Description: The Power of Production empowers a wizard to draw situations and de
 5) Win Lotteries & Elections
 
 
-Influence
+#### Influence
 
 Power: Charisma / Hypnotism
 
@@ -601,7 +601,7 @@ Description: The Power of Influence grants a wizard the power to captivate other
 5) Altering Identities
 
 
-Penetration
+#### Penetration
 
 Power: Escape / Intangibility
 
@@ -621,7 +621,7 @@ Description: The Power of Penetration delves into the realm of Spiritualism. It 
 5) Becoming Intangible
 
 
-Control
+#### Control
 
 Power: Energy / Telekinesis
 
@@ -641,7 +641,7 @@ Description: The Power of Control enables a wizard to command powerful forces. T
 5) Controlling Natural Forces
 
 
-Restoration
+#### Restoration
 
 Power: Renewal / Healing
 
@@ -661,7 +661,7 @@ Description: The Power of Restoration holds the gift of healing. It grants the a
 5) Resurrection
 
 
-Vanishing
+#### Vanishing
 
 Power: Stealth / Invisibility
 
@@ -681,7 +681,7 @@ Description: The Power of Vanishing encompasses the art of Misdirection. It allo
 5) Invisibility
 
 
-Travel
+#### Travel
 
 Power: Direction / Teleportation
 
@@ -701,7 +701,7 @@ Description: The Power of Travel operates on the understanding that all separati
 5) Make a Portal
 
 
-Transformation
+#### Transformation
 
 Power: Developing / Shapeshifting
 
@@ -721,7 +721,7 @@ Description: The Power of Transformation allows a wizard to assume the form and 
 5) Transmutation
 
 
-Destruction
+#### Destruction
 
 Power: Curses / Annihilation
 
@@ -741,7 +741,7 @@ Description: The Power of Destruction holds immense power that should be wielded
 5) Kill & Destroy
 
 
-Revelation
+#### Revelation
 
 Power: Visions / Rapture
 
