@@ -764,74 +764,74 @@ There are 12 Spheres in this system. Each Sphere connects to one of the 12 signs
 
 
 #### Control:<br>
-&nbsp;&nbsp;Energy / Telekinesis<br>
-&nbsp;&nbsp;(Aries / Emperor) + (Mars / Tower)
+&nbsp;&nbsp;&nbsp;Energy / Telekinesis<br>
+&nbsp;&nbsp;&nbsp;(Aries / Emperor) + (Mars / Tower)
 <br>
 
 
 #### Transformation:<br>
-&nbsp;&nbsp;Developing / Shapeshifting<br>
-&nbsp;&nbsp;(Taurus / Hierophant) + (Venus / Empress)
+&nbsp;&nbsp;&nbsp;Developing / Shapeshifting<br>
+&nbsp;&nbsp;&nbsp;(Taurus / Hierophant) + (Venus / Empress)
 <br>
 
 
 #### Understanding:<br>
-&nbsp;&nbsp;Wisdom / ESP<br>
-&nbsp;&nbsp;(Libra / Justice) + (Venus / Empress)
+&nbsp;&nbsp;&nbsp;Wisdom / ESP<br>
+&nbsp;&nbsp;&nbsp;(Libra / Justice) + (Venus / Empress)
 <br>
 
 
 #### Revelation:<br>
-&nbsp;&nbsp;Visions / Rapture<br>
-&nbsp;&nbsp;(Pisces / High Priestess) + (Neptune / Hanged Man)
+&nbsp;&nbsp;&nbsp;Visions / Rapture<br>
+&nbsp;&nbsp;&nbsp;(Pisces / High Priestess) + (Neptune / Hanged Man)
 <br>
 
 
 #### Feeling:<br>
-&nbsp;&nbsp;Empathy / Telepathy<br>
-&nbsp;&nbsp;(Virgo / Hermit) + (Mercury / Magician)
+&nbsp;&nbsp;&nbsp;Empathy / Telepathy<br>
+&nbsp;&nbsp;&nbsp;(Virgo / Hermit) + (Mercury / Magician)
 <br>
 
 
 #### Influence:<br>
-&nbsp;&nbsp;Charisma / Hypnotism<br>
-&nbsp;&nbsp;(Leo / Strength) + (Sun / Sun)
+&nbsp;&nbsp;&nbsp;Charisma / Hypnotism<br>
+&nbsp;&nbsp;&nbsp;(Leo / Strength) + (Sun / Sun)
 <br>
 
 
 #### Penetration:<br>
-&nbsp;&nbsp;Escape / Intangibility<br>
-&nbsp;&nbsp;(Gemini / Lovers) + (Mercury / Magician)
+&nbsp;&nbsp;&nbsp;Escape / Intangibility<br>
+&nbsp;&nbsp;&nbsp;(Gemini / Lovers) + (Mercury / Magician)
 <br>
 
 
 #### Travel:<br>
-&nbsp;&nbsp;Direction / Teleportation<br>
-&nbsp;&nbsp;(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
+&nbsp;&nbsp;&nbsp;Direction / Teleportation<br>
+&nbsp;&nbsp;&nbsp;(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
 <br>
 
 
 #### Production:<br>
-&nbsp;&nbsp;Attraction / Creation<br>
-&nbsp;&nbsp;(Capricorn / Devil) + (Saturn / World)
+&nbsp;&nbsp;&nbsp;Attraction / Creation<br>
+&nbsp;&nbsp;&nbsp;(Capricorn / Devil) + (Saturn / World)
 <br>
 
 
 #### Restoration:<br>
-&nbsp;&nbsp;Renewal / Healing<br>
-&nbsp;&nbsp;(Aquarius / Star) + (Uranus / Fool)
+&nbsp;&nbsp;&nbsp;Renewal / Healing<br>
+&nbsp;&nbsp;&nbsp;(Aquarius / Star) + (Uranus / Fool)
 <br>
 
 
 #### Vanishing:<br>
-&nbsp;&nbsp;Stealth / Invisibility<br>
-&nbsp;&nbsp;(Cancer / Chariot) + (Moon / Moon)
+&nbsp;&nbsp;&nbsp;Stealth / Invisibility<br>
+&nbsp;&nbsp;&nbsp;(Cancer / Chariot) + (Moon / Moon)
 <br>
 
 
 #### Destruction:<br>
-&nbsp;&nbsp;Curses / Annihilation<br>
-&nbsp;&nbsp;(Scorpio / Death) + (Pluto / Judgement)
+&nbsp;&nbsp;&nbsp;Curses / Annihilation<br>
+&nbsp;&nbsp;&nbsp;(Scorpio / Death) + (Pluto / Judgement)
 <br>
 
 
