@@ -111,12 +111,12 @@ The number of successes you have is also given a rating from one to five:
 
 5) Phenomenal
 
-Traits
+### Traits
 
 The attributes your character has are listed here, they are divided into 3 categories:
 
 
-Physical:
+##### Physical:
 
 
 Strength - Physical Power
@@ -126,7 +126,7 @@ Dexterity - Athleticism
 Stamina - Toughness
 
 
-Social:
+##### Social:
 
 
 Charisma - Charm
@@ -136,7 +136,7 @@ Manipulation - Persuasion
 Appearance - Attractiveness
 
 
-Mental:
+##### Mental:
 
 
 Perception - Insight To Surroundings
@@ -149,7 +149,7 @@ Wits - Intuition & Instincts
 Abilities are also divided into 3 categories:
 
 
-Talents:
+##### Talents:
 
 
 Alertness - Attention to Your Surroundings
@@ -173,7 +173,7 @@ Streetwise - Youre a Part Of The Underworld
 Subterfuge - You Can Hide Your Motives
 
 
-Skills:
+##### Skills:
 
 
 Crafts - Working With Your Hands
@@ -197,7 +197,7 @@ Survival - Living In Difficult Environments
 Technology - Repairing And Working With Machines
 
 
-Knowledges:
+##### Knowledges:
 
 
 Academics - Higher Education In A Field
