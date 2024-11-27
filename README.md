@@ -220,6 +220,7 @@ Occult - Knowledge Of Magic Practices
 
 Science - Engineering, Chemistry, & Physics
 
+<br>
 
 There are also some other very important traits:
 
