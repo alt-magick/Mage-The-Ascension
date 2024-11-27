@@ -763,73 +763,73 @@ This system of magic can connect to occult themes, for interesting role playing.
 There are 12 Spheres in this system. Each Sphere connects to one of the 12 signs of the Zodiac. And each Zodiac sign connects to one of 10 planets in Astrology. The 10 planets and 12 signs connect with the 22 Major Arcana of the Tarot.
 
 
-Control:<br>
+#### Control:<br>
 &nbsp;&nbsp;Energy / Telekinesis<br>
 &nbsp;&nbsp;(Aries / Emperor) + (Mars / Tower)
 <br>
 
 
-Transformation:<br>
+#### Transformation:<br>
 &nbsp;&nbsp;Developing / Shapeshifting<br>
 &nbsp;&nbsp;(Taurus / Hierophant) + (Venus / Empress)
 <br>
 
 
-Understanding:<br>
+#### Understanding:<br>
 &nbsp;&nbsp;Wisdom / ESP<br>
 &nbsp;&nbsp;(Libra / Justice) + (Venus / Empress)
 <br>
 
 
-Revelation:<br>
+#### Revelation:<br>
 &nbsp;&nbsp;Visions / Rapture<br>
 &nbsp;&nbsp;(Pisces / High Priestess) + (Neptune / Hanged Man)
 <br>
 
 
-Feeling:<br>
+#### Feeling:<br>
 &nbsp;&nbsp;Empathy / Telepathy<br>
 &nbsp;&nbsp;(Virgo / Hermit) + (Mercury / Magician)
 <br>
 
 
-Influence:<br>
+#### Influence:<br>
 &nbsp;&nbsp;Charisma / Hypnotism<br>
 &nbsp;&nbsp;(Leo / Strength) + (Sun / Sun)
 <br>
 
 
-Penetration:<br>
+#### Penetration:<br>
 &nbsp;&nbsp;Escape / Intangibility<br>
 &nbsp;&nbsp;(Gemini / Lovers) + (Mercury / Magician)
 <br>
 
 
-Travel:<br>
+#### Travel:<br>
 &nbsp;&nbsp;Direction / Teleportation<br>
 &nbsp;&nbsp;(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
 <br>
 
 
-Production:<br>
+#### Production:<br>
 &nbsp;&nbsp;Attraction / Creation<br>
 &nbsp;&nbsp;(Capricorn / Devil) + (Saturn / World)
 <br>
 
 
-Restoration:<br>
+#### Restoration:<br>
 &nbsp;&nbsp;Renewal / Healing<br>
 &nbsp;&nbsp;(Aquarius / Star) + (Uranus / Fool)
 <br>
 
 
-Vanishing:<br>
+#### Vanishing:<br>
 &nbsp;&nbsp;Stealth / Invisibility<br>
 &nbsp;&nbsp;(Cancer / Chariot) + (Moon / Moon)
 <br>
 
 
-Destruction:<br>
+#### Destruction:<br>
 &nbsp;&nbsp;Curses / Annihilation<br>
 &nbsp;&nbsp;(Scorpio / Death) + (Pluto / Judgement)
 <br>
