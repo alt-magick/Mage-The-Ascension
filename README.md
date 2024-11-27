@@ -279,7 +279,7 @@ To increase a Sphere requires 7 freebie points.
 <br>
 <br>
 
-####Prioritize the categories with 3 levels of points
+#### Prioritize the categories with 3 levels of points
 <br>
 
 #### Select Attributes (7/5/3)
