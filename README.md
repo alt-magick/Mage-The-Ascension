@@ -540,15 +540,15 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 * Description: The Power of Understanding manifests as inspiration and insight, granting effortless access to answers and discoveries beyond conventional understanding. It endows the practitioner with the gift of foreknowledge. The key to unlocking this power lies in the realization that all knowledge already resides within oneself.
 <br>
 
-1 Elevated Mental Attributes
+1) Elevated Mental Attributes
 
-2 Predicting Outcomes
+2) Predicting Outcomes
 
-3 Seeing the Past
+3) Seeing the Past
 
-4 Seeing the Future
+4) Seeing the Future
 
-5 Stopping Time
+5) Stopping Time
 
 
 #### Feeling
