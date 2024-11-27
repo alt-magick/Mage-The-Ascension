@@ -1,4 +1,4 @@
-#Mage: The Ascension
+<b>Mage: The Ascension</b>
 
 
 Mage: The Ascension is a roleplaying game set in the World of Darkness, a dark, gothic-punk alternative version of our own reality. In this setting, magic is real but hidden from most people's perception. The game revolves around mages - individuals who can reshape reality through the power of will, belief, and understanding.
