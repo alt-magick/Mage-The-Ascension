@@ -1,4 +1,4 @@
-# <b>Mage: The Ascension</b>
+# Mage: The Ascension
 
 
 Mage: The Ascension is a roleplaying game set in the World of Darkness, a dark, gothic-punk alternative version of our own reality. In this setting, magic is real but hidden from most people's perception. The game revolves around mages - individuals who can reshape reality through the power of will, belief, and understanding.
@@ -28,7 +28,7 @@ Characters possess a variety of traits, describing their innate capabilities, tr
 
 Whenever your character performs an action that calls for dice rolls, you most often add the most appropriate Attribute to the most appropriate Skill. When your character shoots a gun, you add his Dexterity to his Firearms for a total number of dice rolls.
 
-Modifiers
+### Modifiers
 
 
 Various conditions and circumstances can greatly improve or hinder your characters tasks, represented by bonuses and/or penalties to your dice rolls. On one hand, quality tools might give him a bonus to repair a car. On the other hand, a thunderstorm might cause hazardous driving conditions, levying a penalty on any driving rolls, and a distant target is hard to hit with a gun, represented by range penalties.
@@ -37,33 +37,33 @@ For example, when shooting a target 30 yards away with his Glock 17 pistol, your
 
 The Storyteller determines whether or not any circumstance imposes dice-roll modifiers and how great those modifiers are.
 
-Dice Rolls
+### Dice Rolls
 
 
 So, we can say that that the number of times you get to roll the dice is determined like so: Attribute + Skill + modifiers (if any) In general, bonuses are always added before penalties are applied.
 
-Rolling the Dice
+### Rolling the Dice
 
 
 Now that you know what to roll, lets see how to read the results. Each roll uses two dice, and a result of 7, or 11 is considered a success. You might have more than one of these, in which case you have multiple successes. The dice don't just tell you whether your character succeeds or fails it shows you how well he does. If none of your die rolls succeed, your roll fails. Obviously, the more die rolls you have the better your characters chances of success, and the greater your odds of gaining multiple successes.
 
-Snake Eyes
+### Snake Eyes
 
 
 If one of your rolls turn up snake eyes, it cancels out one success. If you roll snake eyes, and none of you other rolls succeed it is a botch.
 
-Second Tries
+### Second Tries
 
 When a roll fails, you can try again with a +1 difficulty modifier.
 
-Fighting
+### Fighting
 
 
 Combat is a series of die rolls, until someone surrenders or is rendered unable to fight. The rolls determine whether or not your character hits and how much damage he inflicts on his target. The number of dice rolls is determined as above, but a knife is more deadly than a fist, and a gun is more deadly than all. Each success gained on your attack roll represents a point of damage inflicted against the targets Health trait. If the target has no more Health left, he is unconscious or dead (depending on the type of damage done).
 
 There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls, which are subtracted from any attack successes targeted against him.
 
-Actions
+### Actions
 
 
 The number of times you roll for an action is made up of an attribute added to an ability. Each of these are given a rating from 1 to five:
@@ -236,7 +236,7 @@ Paradox - The backlash from magic into insanity
 
 Health - The amount of damage you can take
 
-Getting Started
+### Getting Started
 
 
 Now that you know the basics of the Storytelling System, you can proceed to create your own characters. You’ll be able to judge what sort of traits you’ll need based on their titles (they’re mostly self-explanatory), and know that the more dots you have in a trait the better your character will be when accomplishing tasks with it.
@@ -324,7 +324,7 @@ Resources - Extra Money
 
 Wonder - A Magical talisman or device
 
-Combat
+### Combat
 
 
 We will now go over the combat system. It is very simple.
@@ -401,7 +401,7 @@ Each point of damage is marked with a / for bashing damage and an X for lethal d
 
 Finally, your character needs to learn magic!
 
-Magic
+### Magic
 
 
 There are 12 Spheres in this system that are divided into coincidental & vulgar magic. The first three levels of each sphere are limited to coincidental effects, and the highest levels of the sphere are divided into two levels of more advanced magic.
@@ -456,7 +456,7 @@ The Mage can manipulate and bend the laws of physics.
 
 The Mage can now create impossible miracles.
 
-Mechanics
+### Mechanics
 
 
 Casting Magic
@@ -514,7 +514,7 @@ Botches
 
 If a Mage rolls a failure when casting a spell & they also roll snake eyes on any of their dice then they botch. This is a dangerous situation.
 
-Spheres
+### Spheres
 
 
 Spheres in Mage: The Ascension are the way Mages effect reality. They represent different kinds of magic, which Mages use to perceive and reshape the world.
@@ -760,7 +760,7 @@ Description: The Power of Revelation unveils profound visions and grants enlight
 
 5) Spirit Travel
 
-Paradox & Quiet
+### Paradox & Quiet
 
 
 The official rules say Paradox is caused by Vulgar magic. In these alternative rules Paradox happens when a Mage fails at casting their spells. When a Mage fails a magic roll they gain a Paradox point. A botched roll will then releases that Paradox in the form of a Quiet (Insanity).
@@ -783,7 +783,7 @@ Complete Madness, Obsession, or Violence
 
 Quintessence can be spent to reduce Paradox, but it has to be done before the Insanity of Quiet occurs. If Paradox reaches a level greater than 10 it is released automatically.
 
-Occult
+### Occult
 
 
 This system of magic can connect to occult themes, for interesting role playing.
@@ -875,11 +875,11 @@ Curses / Annihilation
 (Scorpio / Death) + (Pluto / Judgement)
 
 
-Finishing Touches
+### Finishing Touches
 
 Here are some finishing touches to add to your character sheet.
 
-Traditions
+### Traditions
 
 
 There are 9 Traditions representing the different kinds of Mages and their world views. You can pick whichever one you feel resonates with your character:
@@ -908,7 +908,7 @@ Hollow Ones - Goths
 
 If you have your own Coven you can also list it as your Cabal.
 
-Concept
+### Concept
 
 
 All characters need to have a concept which can be anything you want to make up. However here are some example concepts that you might like to use:
@@ -942,7 +942,7 @@ Soldier
 
 Worker
 
-Nature and Demeanor
+### Nature and Demeanor
 
 
 There are two more important categories at the top of the character sheet, called Nature & Demeanor. Nature is your inner character. and Demeanor is what you project into the outside world. Below you can pick one of these for each:
@@ -1097,7 +1097,7 @@ Visionary - Imagination / Pride
 
 You want to remake the future.
 
-Essence
+### Essence
 
 
 Your character's Avatar Essence is also on the character sheet. An Avatar represents a Mage's soul, and the essence represents the drive a mage has at their core. There are four essences you can pick from:
@@ -1111,7 +1111,7 @@ Primordial - Stability
 
 Questing - Purpose
 
-Resonance
+### Resonance
 
 
 All Mages also have a Resonance. As a Mage uses magic their Resonance changes. Other Awakened can read a Mage's Resonance as well. You start with one dot in one Resonance trait, and add dots as you continue working magic.
@@ -1126,7 +1126,7 @@ Entropic represents destruction.
 
 And Static represents protection.
 
-Purpose
+### Purpose
 
 
 In these alternate rules we also have another trait called Purpose. You can fill in the dots anyway you like into these 3 categories:
@@ -1137,7 +1137,7 @@ Self, Others, and World.
 
 Representing your primary motivation.
 
-Foci
+### Foci
 
 
 Mages tend to have certain tools for using magic. When a Mage has access to these tools, they receive a +1 bonus to their magic roll. You can pick at least one at the start of the game. Here is a list of suggestions for you to choose from:
@@ -1227,7 +1227,7 @@ Wands
 
 Weapons
 
-Examples
+### Examples
 
 Also, here are some examples of how to attempt other actions using the abilities and attributes already mentioned:
 
