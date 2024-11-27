@@ -91,19 +91,19 @@ The number of times you roll for an action is made up of an attribute added to a
 That dice pool is then modified by one of these levels:
 <br>
 
-+1) Easy
+&nbsp;&nbsp;+1) Easy
 
-+0) Routine
+&nbsp;&nbsp;+0) Routine
 
--1) Moderate
+&nbsp;&nbsp;-1) Moderate
 
--2) Difficult
+&nbsp;&nbsp;-2) Difficult
 
--3) Challenging
+&nbsp;&nbsp;-3) Challenging
 
--4) Hard
+&nbsp;&nbsp;-4) Hard
 
--5) Exceptional
+&nbsp;&nbsp;-5) Exceptional
 
 <br>
 
