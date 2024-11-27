@@ -917,181 +917,181 @@ All characters need to have a concept which can be anything you want to make up.
 There are two more important categories at the top of the character sheet, called Nature & Demeanor. Nature is your inner character. and Demeanor is what you project into the outside world. Below you can pick one of these for each:
 
 
-* Architect
+#### Architect
 
 Purpose / Obsession<br>
 You desire to leave a mark on the world.
 
 
-* Autocrat
+#### Autocrat
 
 Leadership / Dictatorship<br>
 You want control.
 
 
-* Bon Vivant
+#### Bon Vivant
 
 Love of Life / Hedonism<br>
 You want to live Life.
 
 
-* Bravo
+#### Bravo
 
 Strength / Anger<br>
 You want power.
 
 
-* Caregiver
+#### Caregiver
 
 Compassion / Smothering<br>
 You look out for others.
 
 
-* Celebrant
+#### Celebrant
 
 Passion / Intemperance<br>
 You have a calling
 
 
-* Child
+#### Child
 
 Innocence / Immaturity<br>
 You never grew up.
 
 
-* Competitor
+#### Competitor
 
 Striving / Competitiveness<br>
 Life is a challenge to be won.
 
 
-* Conformist
+#### Conformist
 
 Cooperation / Low-Self Esteem<br>
 You are a follower.
 
 
-* Conniver
+#### Conniver
 
 Clever / Envy<br>
 You are a manipulator
 
 
-* Curmudgeon
+#### Curmudgeon
 
 Critical Eye / Lack of Imagination<br>
 You find the faults in others.
 
 
-* Deviant
+#### Deviant
 
 Shatter Boundaries / Perversion<br>
 You are an outcast.
 
 
-* Director
+#### Director
 
 Organization / Lack of Tolerance<br>
 You want things under control.
 
 
-* Fanatic
+#### Fanatic
 
 Dedication / Stubbornness<br>
 You live for a cause.
 
 
-* Gallant
+#### Gallant
 
 Artistry / Flamboyance<br>
 You want to be the center of attention.
 
 
-* Judge
+#### Judge
 
 Justice / Lack of Vision<br>
 You want to resolve problems.
 
 
-* Loner
+#### Loner
 
 Self-Reliance / Lack of Empathy<br>
 You work best by yourself.
 
 
-* Martyr
+#### Martyr
 
 Sacrifice / Self-Deprecation<br>
 You devote yourself to helping others.
 
 
-* Masochist
+#### Masochist
   
 Devotion / Self-Destructiveness<br>
 You want to suffer.
 
 
-* Monster
+#### Monster
 
 Mirror of Villainy / Depravity<br>
 You are an evil person.
 
 
-* Pedagogue
+#### Pedagogue
 
 Knowledge / Logorrhea<br>
 You are a teacher.
 
 
-* Peniten
+#### Peniten
 
 Responsibility / Contrition<br>
 You are consumed with guilt.
 
 
-* Perfectionist
+#### Perfectionist
 
 Exactitude / Incompleteness<br>
 You need to be the best.
 
 
-* Rebel
+#### Rebel
 
 Individuality / Lack of Direction<br>
 You like to break the rules.
 
 
-* Rogue
+#### Rogue
 
 Valor / Selfishness<br>
 You look out for yourself.
 
 
-* Survivor
+#### Survivor
 
 Perseverance / Lack of Trust<br>
 You keep going no matter what.
 
 
-* Thrill-Seeker
+#### Thrill-Seeker
 
 Daring / Recklessness<br>
 You live on the edge.
 
 
-* Traditionalist
+#### Traditionalist
 
 Consistency / Complacency<br>
 You support the status quo.
 
 
-* Trickster
+#### Trickster
 
 Empathy / Hypocrisy<br>
 Your life is a comedy.
 
 
-* Visionary
+#### Visionary
 
 Imagination / Pride<br>
 You want to remake the future.
