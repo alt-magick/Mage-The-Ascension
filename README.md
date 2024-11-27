@@ -120,7 +120,6 @@ The number of successes you have is also given a rating from one to five:
 4) Excellent
 
 5) Phenomenal
-<br>
 
 ### Traits
 
@@ -1063,7 +1062,6 @@ There are two more important categories at the top of the character sheet, calle
 
 * Visionary - Imagination / Pride<br>
 &nbsp; &nbsp;You want to remake the future.
-<br>
 
 ### Essence
 
@@ -1114,91 +1112,90 @@ Representing your primary motivation.
 Mages tend to have certain tools for using magic. When a Mage has access to these tools, they receive a +1 bonus to their magic roll. You can pick at least one at the start of the game. Here is a list of suggestions for you to choose from:
 
 
-Art
+* Art
 
-Astrology
+* Astrology
 
-Blood
+* Blood
 
-Books
+* Books
 
-Bones
+* Bones
 
-Cauldrons
+* Cauldrons
 
-Chalices
+* Chalices
 
-Candles
+* Candles
 
-Chanting
+* Chanting
 
-Circles
+* Circles
 
-Computers
+* Computers
 
-Crystals
+* Crystals
 
-Dancing
+* Dancing
 
-Devices
+* Devices
 
-Martial Arts
+* Martial Arts
 
-Drugs
+* Drugs
 
-Elements
+* Elements
 
-Feathers
+* Feathers
 
-Fire
+* Fire
 
-Formulas
+* Formulas
 
-Herbs
+* Herbs
 
-Holy Symbols
+* Holy Symbols
 
-Incense
+* Incense
 
-Language
+* Language
 
-Music
+* Music
 
-Internet
+* Internet
 
-Ordeals
+* Ordeals
 
-Poetry
+* Poetry
 
-Pure Water
+* Pure Water
 
-Purification
+* Purification
 
-Ritual Sacrifice
+* Ritual Sacrifice
 
-Runes
+* Runes
 
-Science
+* Science
 
-Sex
+* Sex
 
-Songs
+* Songs
 
-Tarot Cards
+* Tarot Cards
 
-Ouija boards
+* Ouija boards
 
-Tattoos
+* Tattoos
 
-Piercings
+* Piercings
 
-Toys
+* Toys
 
-Wands
+* Wands
 
-Weapons
-<br>
-
+* Weapons
+  
 ### Examples
 
 Also, here are some examples of how to attempt other actions using the abilities and attributes already mentioned:
