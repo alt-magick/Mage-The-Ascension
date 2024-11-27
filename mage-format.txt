@@ -1,4 +1,5 @@
-Mage: The Ascension 
+Mage: The Ascension
+
 
 Mage: The Ascension is a roleplaying
 game set in the World of Darkness, a
@@ -62,8 +63,7 @@ die, which has the odds of 3/10 which
 is 0.3.
 
 So, with a few other modifications the
-game mechanics are basically the same. 
-
+game mechanics are basically the same.
 
 Attributes and Skills
 
@@ -91,7 +91,6 @@ gun, you add his Dexterity to his
 Firearms for a total number of dice
 rolls.
 
-
 Modifiers
 
 
@@ -117,7 +116,6 @@ not any circumstance imposes dice-roll
 modifiers and how great those modifiers
 are.
 
-
 Dice Rolls
 
 
@@ -127,7 +125,6 @@ determined like so: Attribute + Skill +
 modifiers (if any) In general, bonuses
 are always added before penalties are
 applied.
-
 
 Rolling the Dice
 
@@ -147,7 +144,6 @@ the better your characters chances of
 success, and the greater your odds of
 gaining multiple successes.
 
-
 Snake Eyes
 
 
@@ -156,32 +152,29 @@ eyes, it cancels out one success. If
 you roll snake eyes, and none of you
 other rolls succeed it is a botch.
 
-
 Second Tries
-
 
 When a roll fails, you can try again
 with a +1 difficulty modifier.
 
-
 Fighting
 
 
-Combat Fighting is a series of die
-rolls, until someone surrenders or is
-rendered unable to fight. The rolls
-determines whether or not your
-character hits and how much damage he
-inflicts on his target. The number of
-dice rolls is determined as above, but
-a knife is more deadly than a fist, and
-a gun is more deadly than all. Each
-success gained on your attack roll
-represents a point of damage inflicted
-against the targets Health trait. If
-the target has no more Health left, he
-is unconscious or dead (depending on
-the type of damage done).
+Combat is a series of die rolls, until
+someone surrenders or is rendered
+unable to fight. The rolls determine
+whether or not your character hits and
+how much damage he inflicts on his
+target. The number of dice rolls is
+determined as above, but a knife is
+more deadly than a fist, and a gun is
+more deadly than all. Each success
+gained on your attack roll represents a
+point of damage inflicted against the
+targets Health trait. If the target has
+no more Health left, he is unconscious
+or dead (depending on the type of
+damage done).
 
 There are two types of damage: bashing
 (caused by blunt weapons such as fists
@@ -193,7 +186,6 @@ complications involved in combat, such
 as a targets Defense Rolls, which are
 subtracted from any attack successes
 targeted against him.
-
 
 Actions
 
@@ -248,9 +240,7 @@ also given a rating from one to five:
 
 5) Phenomenal
 
-
 Traits
-
 
 The attributes your character has are
 listed here, they are divided into 3
@@ -395,7 +385,6 @@ insanity
 Health - The amount of damage you can
 take
 
-
 Getting Started
 
 
@@ -408,6 +397,7 @@ you’ll need based on their titles
 know that the more dots you have in a
 trait the better your character will be
 when accomplishing tasks with it.
+
 
 Here is a quick overview of how to
 begin the character creation process:
@@ -523,8 +513,7 @@ Resources - Extra Money
 
 Wonder - A Magical talisman or device
 
-
-Combat 
+Combat
 
 
 We will now go over the combat system.
@@ -629,7 +618,6 @@ you can die.
 Finally, your character needs to learn
 magic!
 
-
 Magic
 
 
@@ -640,6 +628,7 @@ each sphere are limited to coincidental
 effects, and the highest levels of the
 sphere are divided into two levels of
 more advanced magic.
+
 
 The Twelve Spheres in alphabetical
 order are:
@@ -701,7 +690,6 @@ laws of physics.
 The Mage can now create impossible
 miracles.
 
-
 Mechanics
 
 
@@ -712,11 +700,8 @@ You can only cast magic up to the level
 of your sphere. Arete is the number of
 dice to roll when casting a spell. No
 Sphere can be higher than your level of
-Arete. You can also only spend up to
-your level of Arete in quintessence on
-a single spell. A mage can optionally
-roll fewer dice to avoid a potential
-botch.
+Arete. A mage can optionally roll fewer
+dice to avoid a potential botch.
 
 
 Avatar
@@ -730,12 +715,14 @@ Quintessence
 
 
 Quintessence is the power source for
-Magic. Spending Quintessence reduces
-the difficulty of a spell, up to a
-modifier of -3. Meditation is required
-to regain Quintessence for at least an
-hour at a place of power. Quintessence
-can also be stored in things that are
+Magic. Spending Quintessence points
+reduces the difficulty of a spell, up
+to your level of Arete. Meditation is
+required to regain Quintessence for at
+least an hour at a place of power. The
+maximum Quintessence a Mage can store
+is their Avatar score. Quintessence can
+also be stored in things that are
 carried by a Mage.
 
 
@@ -759,10 +746,11 @@ play
 Difficulty
 
 
-The difficulty is the level of the
-sphere you are using. Add +1 for Vulgar
-magic, if there are no witnesses. Add
-another +1 if a Sleeper witnesses it.
+The difficulty for casting magic is the
+level of the sphere you are using. Add
++1 for Vulgar magic, if there are no
+witnesses. Add another +1 if a Sleeper
+witnesses it.
 
 
 Bonuses
@@ -793,18 +781,18 @@ a spell & they also roll snake eyes on
 any of their dice then they botch. This
 is a dangerous situation.
 
-
 Spheres
 
 
 Spheres in Mage: The Ascension are the
-way that Mages effect reality,
-representing different kinds of magic
-which allow them to perceive and
-reshape the world.
+way Mages effect reality. They
+represent different kinds of magic,
+which Mages use to perceive and reshape
+the world.
 
 
 Understanding
+
 
 Power: Wisdom / ESP
 
@@ -1160,7 +1148,6 @@ realms and entities together.
 
 5) Spirit Travel
 
-
 Paradox & Quiet
 
 
@@ -1203,7 +1190,6 @@ Paradox, but it has to be done before
 the Insanity of Quiet occurs. If
 Paradox reaches a level greater than 10
 it is released automatically.
-
 
 Occult
 
@@ -1317,7 +1303,6 @@ Finishing Touches
 Here are some finishing touches to add
 to your character sheet.
 
-
 Traditions
 
 
@@ -1353,7 +1338,6 @@ Hollow Ones - Goths
 
 If you have your own Coven you can also
 list it as your Cabal.
-
 
 Concept
 
@@ -1391,7 +1375,6 @@ Socialite
 Soldier
 
 Worker
-
 
 Nature and Demeanor
 
@@ -1569,7 +1552,6 @@ Visionary - Imagination / Pride
 
 You want to remake the future.
 
-
 Essence
 
 
@@ -1589,7 +1571,6 @@ Primordial - Stability
 
 Questing - Purpose
 
-
 Resonance
 
 
@@ -1601,15 +1582,16 @@ with one dot in one Resonance trait,
 and add dots as you continue working
 magic.
 
+
 There are three types of Resonance:
 Dynamic, Entropic, and Static
 
-Dynamic represents change. 
 
-Entropic represents destruction. 
+Dynamic represents change.
+
+Entropic represents destruction.
 
 And Static represents protection.
-
 
 Purpose
 
@@ -1619,10 +1601,11 @@ another trait called Purpose. You can
 fill in the dots anyway you like into
 these 3 categories:
 
+
 Self, Others, and World.
 
-Representing your primary motivation.
 
+Representing your primary motivation.
 
 Foci
 
@@ -1638,6 +1621,8 @@ from:
 
 Art
 
+Astrology
+
 Blood
 
 Books
@@ -1647,6 +1632,8 @@ Bones
 Cauldrons
 
 Chalices
+
+Candles
 
 Chanting
 
@@ -1686,6 +1673,8 @@ Internet
 
 Ordeals
 
+Poetry
+
 Pure Water
 
 Purification
@@ -1714,9 +1703,7 @@ Wands
 
 Weapons
 
-
 Examples
-
 
 Also, here are some examples of how to
 attempt other actions using the
