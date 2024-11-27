@@ -112,7 +112,6 @@ The number of successes you have is also given a rating from one to five:
 4) Excellent
 
 5) Phenomenal
-
 <br>
 
 ### Traits
