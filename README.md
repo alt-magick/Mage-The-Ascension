@@ -284,21 +284,21 @@ Prioritize the categories with 3 levels of points.
 #### Select Attributes (7/5/3)
 
 
-Physical: Strength, Dexterity, Stamina
+* Physical: Strength, Dexterity, Stamina
 
-Social: Charisma, Manipulation, Appearance
+* Social: Charisma, Manipulation, Appearance
 
-Mental: Perception, Intelligence, Wits
+* Mental: Perception, Intelligence, Wits
 <br>
 
 #### Select Abilities (13/9/5)
 
 
-Talents: Alertness, Athletics, Awareness, Brawl, Dodge, Expression, Intimidation, Leadership, Streetwise, Subterfuge
+* Talents: Alertness, Athletics, Awareness, Brawl, Dodge, Expression, Intimidation, Leadership, Streetwise, Subterfuge
 
-Skills: Crafts, Drive, Etiquette, Firearms, Meditation, Melee, Performance, Stealth, Survival, Technology
+* Skills: Crafts, Drive, Etiquette, Firearms, Meditation, Melee, Performance, Stealth, Survival, Technology
 
-Knowledges: Academics, Computer, Cosmology, Enigmas, Investigation, Law, Linguistics, Medicine, Occult, Science
+* Knowledges: Academics, Computer, Cosmology, Enigmas, Investigation, Law, Linguistics, Medicine, Occult, Science
 <br>
 
 Additionally, characters also have a number of advantages called Backgrounds.
@@ -307,27 +307,27 @@ Additionally, characters also have a number of advantages called Backgrounds.
 #### Backgrounds (7):
 
 
-Allies - Friends who help you
+* Allies - Friends who help you
 
-Arcane - You are unnoticed as a Mage
+* Arcane - You are unnoticed as a Mage
 
-Avatar - The Strength of the soul
+* Avatar - The Strength of the soul
 
-Contacts - Information sources
+* Contacts - Information sources
 
-Destiny - A greater purpose
+* Destiny - A greater purpose
 
-Dream - Visions from the unknown
+* Dream - Visions from the unknown
 
-Influence - Pull over the mortal world
+* Influence - Pull over the mortal world
 
-Library - Access to metaphysical knowledge
+* Library - Access to metaphysical knowledge
 
-Node - A place of magical power
+* Node - A place of magical power
 
-Resources - Extra Money
+* Resources - Extra Money
 
-Wonder - A Magical talisman or device
+* Wonder - A Magical talisman or device
 <br>
 
 ### Combat
@@ -473,19 +473,19 @@ Casting Magic
 You can only cast magic up to the level of your sphere. Arete is the number of dice to roll when casting a spell. No Sphere can be higher than your level of Arete. A mage can optionally roll fewer dice to avoid a potential botch.
 
 
-Avatar
+* Avatar
 
 
 A Mage’s Avatar is the maximum Quintessence they can store.
 
 
-Quintessence
+* Quintessence
 
 
 Quintessence is the power source for Magic. Spending Quintessence points reduces the difficulty of a spell, up to your level of Arete. Meditation is required to regain Quintessence for at least an hour at a place of power. The maximum Quintessence a Mage can store is their Avatar score. Quintessence can also be stored in things that are carried by a Mage.
 
 
-Willpower
+* Willpower
 
 
 One point of willpower generates 1 success
@@ -499,25 +499,25 @@ Willpower can ignore penalties from fear & damage
 Willpower can be regained after role play
 
 
-Difficulty
+* Difficulty
 
 
 The difficulty for casting magic is the level of the sphere you are using. Add +1 for Vulgar magic, if there are no witnesses. Add another +1 if a Sleeper witnesses it.
 
 
-Bonuses
+* Bonuses
 
 
 If you have time to do a ritual, Intelligence + Occult can be rolled. Successes are added to your Arete roll up to a +3. If there isn't time for a full ritual, magical tools can add a +1 bonus.
 
 
-Successes
+* Successes
 
 
 Simple magic requires only one success, two successes are required for more powerful magic, and larger effects can take even more.
 
 
-Botches
+* Botches
 
 
 If a Mage rolls a failure when casting a spell & they also roll snake eyes on any of their dice then they botch. This is a dangerous situation.
@@ -531,13 +531,13 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 #### Understanding
 
 
-Power: Wisdom / ESP
+* Power: Wisdom / ESP
 <br>
 
-Knowledge: Realization - Unveiling the inner knowledge within.
+* Knowledge: Realization - Unveiling the inner knowledge within.
 <br>
 
-Description: The Power of Understanding manifests as inspiration and insight, granting effortless access to answers and discoveries beyond conventional understanding. It endows the practitioner with the gift of foreknowledge. The key to unlocking this power lies in the realization that all knowledge already resides within oneself.
+* Description: The Power of Understanding manifests as inspiration and insight, granting effortless access to answers and discoveries beyond conventional understanding. It endows the practitioner with the gift of foreknowledge. The key to unlocking this power lies in the realization that all knowledge already resides within oneself.
 <br>
 
 1) Elevated Mental Attributes
@@ -553,13 +553,13 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 
 #### Feeling
 
-Power: Empathy / Telepathy
+* Power: Empathy / Telepathy
 <br>
 
-Knowledge: Association - Recognizing the interconnectedness of all things.
+* Knowledge: Association - Recognizing the interconnectedness of all things.
 <br>
 
-Description: The Power of Feeling enables one to empathize and understand others deeply, perceiving their thoughts and emotions without the need for words. It stems from the profound insight into Association, the intrinsic link that binds all living beings together.
+* Description: The Power of Feeling enables one to empathize and understand others deeply, perceiving their thoughts and emotions without the need for words. It stems from the profound insight into Association, the intrinsic link that binds all living beings together.
 <br>
 
 1) Reading Mindstates
@@ -575,13 +575,13 @@ Description: The Power of Feeling enables one to empathize and understand others
 
 #### Production
 
-Power: Attraction / Creation
+* Power: Attraction / Creation
 <br>
 
-Knowledge: Synchronicity - Uniting the threads of existence.
+* Knowledge: Synchronicity - Uniting the threads of existence.
 <br>
 
-Description: The Power of Production empowers a wizard to draw situations and desires into their reality. This ability stems from a profound understanding of Synchronicity, the cosmic principle that everything is interconnected and influences each other. It acknowledges that the power to attract lies within, awaiting manifestation.
+* Description: The Power of Production empowers a wizard to draw situations and desires into their reality. This ability stems from a profound understanding of Synchronicity, the cosmic principle that everything is interconnected and influences each other. It acknowledges that the power to attract lies within, awaiting manifestation.
 <br>
 
 1) Sensing Opportunity
@@ -597,13 +597,13 @@ Description: The Power of Production empowers a wizard to draw situations and de
 
 #### Influence
 
-Power: Charisma / Hypnotism
+* Power: Charisma / Hypnotism
 <br>
 
-Knowledge: Possession - Will shaping the realm of the mind.
+* Knowledge: Possession - Will shaping the realm of the mind.
 <br>
 
-Description: The Power of Influence grants a wizard the power to captivate others. Known as Possession, it allows one to enchant and charm, eliciting positive perceptions or even gaining control over anothers thoughts and actions. The essence of this mastery lies in the understanding that ones will can wield dominion over the minds of others.
+* Description: The Power of Influence grants a wizard the power to captivate others. Known as Possession, it allows one to enchant and charm, eliciting positive perceptions or even gaining control over anothers thoughts and actions. The essence of this mastery lies in the understanding that ones will can wield dominion over the minds of others.
 <br>
 
 1) Sensing Willpower
@@ -619,13 +619,13 @@ Description: The Power of Influence grants a wizard the power to captivate other
 
 #### Penetration
 
-Power: Escape / Intangibility
+* Power: Escape / Intangibility
 <br>
 
-Knowledge: Spiritualism - Perceiving the world as a realm of spirit.
+* Knowledge: Spiritualism - Perceiving the world as a realm of spirit.
 <br>
 
-Description: The Power of Penetration delves into the realm of Spiritualism. It unveils the truth that the world is fundamentally composed of spirit, allowing a wizard to transcend physical boundaries and become intangible. Chains and locks lose their hold, dissolving effortlessly under the wizards touch.
+* Description: The Power of Penetration delves into the realm of Spiritualism. It unveils the truth that the world is fundamentally composed of spirit, allowing a wizard to transcend physical boundaries and become intangible. Chains and locks lose their hold, dissolving effortlessly under the wizards touch.
 <br>
 
 1) Find Exits
@@ -641,13 +641,13 @@ Description: The Power of Penetration delves into the realm of Spiritualism. It 
 
 #### Control
 
-Power: Energy / Telekinesis
+* Power: Energy / Telekinesis
 <br>
 
-Knowledge: Evocation - Harnessing the forces of the spiritual realm.
+* Knowledge: Evocation - Harnessing the forces of the spiritual realm.
 <br>
 
-Description: The Power of Control enables a wizard to command powerful forces. Through evocation, the practitioner can manipulate energy and bend it to their will. This understanding arises from recognizing that spiritual entities are themselves embodiments of force and possess the capacity to shape and impact the physical world.
+* Description: The Power of Control enables a wizard to command powerful forces. Through evocation, the practitioner can manipulate energy and bend it to their will. This understanding arises from recognizing that spiritual entities are themselves embodiments of force and possess the capacity to shape and impact the physical world.
 <br>
 
 1) Quick Reactions
@@ -663,13 +663,13 @@ Description: The Power of Control enables a wizard to command powerful forces. T
 
 #### Restoration
 
-Power: Renewal / Healing
+* Power: Renewal / Healing
 <br>
 
-Knowledge: Forgiveness - Liberating from suffering caused by transgressions.
+* Knowledge: Forgiveness - Liberating from suffering caused by transgressions.
 <br>
 
-Description: The Power of Restoration holds the gift of healing. It grants the ability to alleviate pain, cure diseases, and bring renewal to the afflicted. This power emerges from the understanding of Forgiveness, recognizing that suffering often stems from transgressions. By embracing forgiveness, a wizard becomes a conduit for healing and restoration.
+* Description: The Power of Restoration holds the gift of healing. It grants the ability to alleviate pain, cure diseases, and bring renewal to the afflicted. This power emerges from the understanding of Forgiveness, recognizing that suffering often stems from transgressions. By embracing forgiveness, a wizard becomes a conduit for healing and restoration.
 <br>
 
 1) Sense illness
@@ -685,13 +685,13 @@ Description: The Power of Restoration holds the gift of healing. It grants the a
 
 #### Vanishing
 
-Power: Stealth / Invisibility
+* Power: Stealth / Invisibility
 <br>
 
-Knowledge: Misdirection - Manipulating attention and perception.
+* Knowledge: Misdirection - Manipulating attention and perception.
 <br>
 
-Description: The Power of Vanishing encompasses the art of Misdirection. It allows a wizard to control focus and attention, rendering themselves unseen and secrets concealed. Meticulous study and practice grant the ability to achieve complete invisibility as the wizard manipulates perception and directs attention elsewhere.
+* Description: The Power of Vanishing encompasses the art of Misdirection. It allows a wizard to control focus and attention, rendering themselves unseen and secrets concealed. Meticulous study and practice grant the ability to achieve complete invisibility as the wizard manipulates perception and directs attention elsewhere.
 <br>
 
 1) Detect Lies
@@ -707,13 +707,13 @@ Description: The Power of Vanishing encompasses the art of Misdirection. It allo
 
 #### Travel
 
-Power: Direction / Teleportation
+* Power: Direction / Teleportation
 <br>
 
-Knowledge: Unity - Dissolving the illusion of separation.
+* Knowledge: Unity - Dissolving the illusion of separation.
 <br>
 
-Description: The Power of Travel operates on the understanding that all separation is illusory. By harnessing this power, a wizard can navigate without traditional directions and locate objects or places that are lost or hidden. A skilled practitioner can transcend distance, stepping from one location to any desired destination.
+* Description: The Power of Travel operates on the understanding that all separation is illusory. By harnessing this power, a wizard can navigate without traditional directions and locate objects or places that are lost or hidden. A skilled practitioner can transcend distance, stepping from one location to any desired destination.
 <br>
 
 
@@ -730,13 +730,13 @@ Description: The Power of Travel operates on the understanding that all separati
 
 #### Transformation
 
-Power: Developing / Shapeshifting
+* Power: Developing / Shapeshifting
 <br>
 
-Knowledge: Personification - Authoring ones own identity.
+* Knowledge: Personification - Authoring ones own identity.
 <br>
 
-Description: The Power of Transformation allows a wizard to assume the form and essence of another being, whether it be an abstract concept, an animal, or even a deity. The essence of this mastery lies in the understanding that one has the power to create and define their own identity, refusing to be shaped by external forces. The power of transformation can also be used to improve who you already are.
+* Description: The Power of Transformation allows a wizard to assume the form and essence of another being, whether it be an abstract concept, an animal, or even a deity. The essence of this mastery lies in the understanding that one has the power to create and define their own identity, refusing to be shaped by external forces. The power of transformation can also be used to improve who you already are.
 <br>
 
 
@@ -753,13 +753,13 @@ Description: The Power of Transformation allows a wizard to assume the form and 
 
 #### Destruction
 
-Power: Curses / Annihilation
+* Power: Curses / Annihilation
 <br>
 
-Knowledge: Pragmatism - Dissolving the constructs of right and wrong.
+* Knowledge: Pragmatism - Dissolving the constructs of right and wrong.
 <br>
 
-Description: The Power of Destruction holds immense power that should be wielded with caution. It encompasses the ability to curse, annihilate, and disrupt the natural order. However, the utilization of this power draws one away from their true path and blurs the distinction between right and wrong.
+* Description: The Power of Destruction holds immense power that should be wielded with caution. It encompasses the ability to curse, annihilate, and disrupt the natural order. However, the utilization of this power draws one away from their true path and blurs the distinction between right and wrong.
 <br>
 
 1) Sense Black Magic
@@ -775,13 +775,13 @@ Description: The Power of Destruction holds immense power that should be wielded
 
 #### Revelation
 
-Power: Visions / Rapture
+* Power: Visions / Rapture
 <br>
 
-Knowledge: Above as Below - The symbiotic connection between gods, angels, and humanity.
+* Knowledge: Above as Below - The symbiotic connection between gods, angels, and humanity.
 <br>
 
-Description: The Power of Revelation unveils profound visions and grants enlightenment to the practitioner. It is rooted in the understanding of the symbiotic connection between gods, angels, and humanity. By tapping into this power, a wizard gains access to celestial knowledge, perceiving the intricate tapestry that binds all realms and entities together.
+* Description: The Power of Revelation unveils profound visions and grants enlightenment to the practitioner. It is rooted in the understanding of the symbiotic connection between gods, angels, and humanity. By tapping into this power, a wizard gains access to celestial knowledge, perceiving the intricate tapestry that binds all realms and entities together.
 <br>
 
 1) Sense Spirits
@@ -983,47 +983,47 @@ Worker
 There are two more important categories at the top of the character sheet, called Nature & Demeanor. Nature is your inner character. and Demeanor is what you project into the outside world. Below you can pick one of these for each:
 
 
-Architect - Purpose / Obsession
+* Architect - Purpose / Obsession
 
 You desire to leave a mark on the world.
 
 
-Autocrat - Leadership / Dictatorship
+* Autocrat - Leadership / Dictatorship
 
 You want control.
 
 
-Bon Vivant - Love of Life / Hedonism
+* Bon Vivant - Love of Life / Hedonism
 
 You want to live Life.
 
 
-Bravo - Strength / Anger
+* Bravo - Strength / Anger
 
 You want power.
 
 
-Caregiver - Compassion / Smothering
+* Caregiver - Compassion / Smothering
 
 You look out for others.
 
 
-Celebrant - Passion / Intemperance
+* Celebrant - Passion / Intemperance
 
 You have a calling
 
 
-Child - Innocence / Immaturity
+* Child - Innocence / Immaturity
 
 You never grew up.
 
 
-Competitor - Striving / Competitiveness
+* Competitor - Striving / Competitiveness
 
 Life is a challenge to be won.
 
 
-Conformist - Cooperation / Low-Self Esteem
+* Conformist - Cooperation / Low-Self Esteem
 
 You are a follower.
 
