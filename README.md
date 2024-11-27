@@ -446,7 +446,6 @@ These are the degrees of power for the Spheres:
 #### 5) Miraculous
 
 * The Mage can now create impossible miracles.
-<br>
 
 ### Mechanics
 
