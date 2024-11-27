@@ -122,31 +122,31 @@ The attributes your character has are listed here, they are divided into 3 categ
 #### Physical:
 
 
-  Strength - Physical Power
+* Strength - Physical Power
 
-  Dexterity - Athleticism
+* Dexterity - Athleticism
 
-  Stamina - Toughness
+* Stamina - Toughness
 <br>
 
 #### Social:
 
 
-  Charisma - Charm
+* Charisma - Charm
 
-  Manipulation - Persuasion
+* Manipulation - Persuasion
 
-  Appearance - Attractiveness
+* Appearance - Attractiveness
 <br>
 
 #### Mental:
 
 
-  Perception - Insight To Surroundings
+* Perception - Insight To Surroundings
 
-  Intelligence - Pure IQ
+* Intelligence - Pure IQ
 
-  Wits - Intuition & Instincts
+* Wits - Intuition & Instincts
 <br>
 
 Abilities are also divided into 3 categories:
@@ -155,90 +155,90 @@ Abilities are also divided into 3 categories:
 #### Talents:
 
 
-  Alertness - Attention to Your Surroundings
+* Alertness - Attention to Your Surroundings
 
-  Athletics - A Talent With Sports
+* Athletics - A Talent With Sports
 
-  Awareness - You Can Sense The Presence of Magic
+* Awareness - You Can Sense The Presence of Magic
 
-  Brawl - Skill With Unarmed Combat
+* Brawl - Skill With Unarmed Combat
 
-  Dodge - Avoiding Physical Danger
+* Dodge - Avoiding Physical Danger
 
-  Expression - The Art of Communication
+* Expression - The Art of Communication
 
-  Intimidation - Flexing Your Muscles
+* Intimidation - Flexing Your Muscles
 
-  Leadership - You Are Respected
+* Leadership - You Are Respected
 
-  Streetwise - Youre a Part Of The Underworld
+* Streetwise - Youre a Part Of The Underworld
 
-  Subterfuge - You Can Hide Your Motives
+* Subterfuge - You Can Hide Your Motives
 <br>
 
 #### Skills:
 
 
-  Crafts - Working With Your Hands
+* Crafts - Working With Your Hands
 
-  Drive - Handling The Road
+* Drive - Handling The Road
 
-  Etiquette - Managing Social Situations
+* Etiquette - Managing Social Situations
 
-  Firearms - Firing Guns
+* Firearms - Firing Guns
 
-  Meditation - Regenerates Magic
+* Meditation - Regenerates Magic
 
-  Melee - Hand To Hand Weapons
+* Melee - Hand To Hand Weapons
 
-  Performance - Specialized as music etc.
+* Performance - Specialized as music etc.
 
-  Stealth - Hiding From Sight
+* Stealth - Hiding From Sight
 
-  Survival - Living In Difficult Environments
+* Survival - Living In Difficult Environments
 
-  Technology - Repairing And Working With Machines
+* Technology - Repairing And Working With Machines
 <br>
 
 #### Knowledges:
 
 
-  Academics - Higher Education In A Field
+* Academics - Higher Education In A Field
 
-  Computer - From Typing To Hacking
+* Computer - From Typing To Hacking
 
-  Cosmology - Knowledge Of The Spirit World
+* Cosmology - Knowledge Of The Spirit World
 
-  Enigmas - Solving Puzzles Or Riddles
+* Enigmas - Solving Puzzles Or Riddles
 
-  Investigation - Forensics Detective Work
+* Investigation - Forensics Detective Work
 
-  Law - Professional Practice In Law
+* Law - Professional Practice In Law
 
-  Linguistics - Specializing In Other Languages
+* Linguistics - Specializing In Other Languages
 
-  Medicine - First Aid, & Surgery Etc.
+* Medicine - First Aid, & Surgery Etc.
 
-  Occult - Knowledge Of Magic Practices
+* Occult - Knowledge Of Magic Practices
 
-  Science - Engineering, Chemistry, & Physics
+* Science - Engineering, Chemistry, & Physics
 
 <br>
 
 There are also some other very important traits:
 
 
-  Avatar - Your ability to store quintessence
+* Avatar - Your ability to store quintessence
 
-  Arete - Your mastery of magick
+* Arete - Your mastery of magick
 
-  Willpower - Can be used to force success
+* Willpower - Can be used to force success
 
-  Quintessence - The raw power of magic
+* Quintessence - The raw power of magic
 
-  Paradox - The backlash from magic into insanity
+* Paradox - The backlash from magic into insanity
 
-  Health - The amount of damage you can take
+* Health - The amount of damage you can take
 <br>
 
 ### Getting Started
