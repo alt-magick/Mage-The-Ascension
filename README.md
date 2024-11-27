@@ -96,7 +96,9 @@ That dice pool is then modified by one of these levels:
 -4) Hard
 
 -5) Exceptional
+
 <br>
+
 
 The number of successes you have is also given a rating from one to five:
 <br>
@@ -110,7 +112,6 @@ The number of successes you have is also given a rating from one to five:
 4) Excellent
 
 5) Phenomenal
-<br>
 
 ### Traits
 
