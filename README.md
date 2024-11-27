@@ -120,7 +120,8 @@ The number of successes you have is also given a rating from one to five:
 4) Excellent
 
 5) Phenomenal
-
+<br>
+<br>
 ### Traits
 
 The attributes your character has are listed here, they are divided into 3 categories:
@@ -239,7 +240,7 @@ There are also some other very important traits:
 * Paradox - The backlash from magic into insanity
 
 * Health - The amount of damage you can take
-
+<br><br>
 ### Getting Started
 
 Now that you know the basics of the Storytelling System, you can proceed to create your own characters. You’ll be able to judge what sort of traits you’ll need based on their titles (they’re mostly self-explanatory), and know that the more dots you have in a trait the better your character will be when accomplishing tasks with it.
@@ -321,7 +322,7 @@ Additionally, characters also have a number of advantages called Backgrounds.
 * Resources - Extra Money
 
 * Wonder - A Magical talisman or device
-
+<br><br>
 ### Combat
 
 
@@ -399,7 +400,7 @@ Each point of damage is marked with a / for bashing damage and an X for lethal d
 <br>
 
 Finally, your character needs to learn magic!
-
+<br><br>
 ### Magic
 
 
@@ -728,7 +729,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Summon Spirits
 
 5) Spirit Travel
-
+<br><br>
 ### Paradox & Quiet
 
 
@@ -752,7 +753,7 @@ If they have a Paradox level of 11+, the Quiet happens in more severe ways:
 Complete Madness, Obsession, or Violence
 
 Quintessence can be spent to reduce Paradox, but it has to be done before the Insanity of Quiet occurs. If Paradox reaches a level greater than 10 it is released automatically.
-
+<br><br>
 ### Occult
 
 
@@ -836,7 +837,7 @@ There are 12 Spheres in this system. Each Sphere connects to one of the 12 signs
 ### Finishing Touches
 
 Here are some finishing touches to add to your character sheet.
-
+<br><br>
 ### Traditions
 
 
@@ -875,7 +876,7 @@ There are 9 Traditions representing the different kinds of Mages and their world
 
 
 If you have your own Coven you can also list it as your Cabal.
-
+<br><br>
 ### Concept
 
 
@@ -909,7 +910,7 @@ All characters need to have a concept which can be anything you want to make up.
 * Soldier
 
 * Worker
-
+<br><br>
 ### Nature and Demeanor
 
 
@@ -1034,7 +1035,7 @@ There are two more important categories at the top of the character sheet, calle
 
 * Visionary - Imagination / Pride<br>
 &nbsp; &nbsp;You want to remake the future.
-
+<br><br>
 ### Essence
 
 
@@ -1049,7 +1050,7 @@ Your character's Avatar Essence is also on the character sheet. An Avatar repres
 
 * Questing - Purpose
 
-
+<br><br>
 ### Resonance
 
 
@@ -1065,7 +1066,7 @@ There are three types of Resonance: Dynamic, Entropic, and Static
 
 * And Static represents protection.
 
-
+<br><br>
 ### Purpose
 
 
@@ -1077,7 +1078,7 @@ In these alternate rules we also have another trait called Purpose. You can fill
 
 Representing your primary motivation.
 
-
+<br><br>
 ### Foci
 
 
@@ -1167,7 +1168,7 @@ Mages tend to have certain tools for using magic. When a Mage has access to thes
 * Wands
 
 * Weapons
-  
+<br><br>  
 ### Examples
 
 Also, here are some examples of how to attempt other actions using the abilities and attributes already mentioned:
