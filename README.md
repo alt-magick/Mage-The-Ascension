@@ -1041,13 +1041,13 @@ There are two more important categories at the top of the character sheet, calle
 Your character's Avatar Essence is also on the character sheet. An Avatar represents a Mage's soul, and the essence represents the drive a mage has at their core. There are four essences you can pick from:
 
 
-Dynamic - Change
+#### Dynamic - Change
 
-Pattern - Improvement
+#### Pattern - Improvement
 
-Primordial - Stability
+#### Primordial - Stability
 
-Questing - Purpose
+#### Questing - Purpose
 <br>
 
 ### Resonance
@@ -1059,11 +1059,11 @@ All Mages also have a Resonance. As a Mage uses magic their Resonance changes. O
 There are three types of Resonance: Dynamic, Entropic, and Static
 
 
-Dynamic represents change.
+#### Dynamic represents change.
 
-Entropic represents destruction.
+#### Entropic represents destruction.
 
-And Static represents protection.
+#### And Static represents protection.
 <br>
 
 ### Purpose
@@ -1072,7 +1072,7 @@ And Static represents protection.
 In these alternate rules we also have another trait called Purpose. You can fill in the dots anyway you like into these 3 categories:
 
 
-Self, Others, and World.
+#### Self, Others, and World.
 
 
 Representing your primary motivation.
