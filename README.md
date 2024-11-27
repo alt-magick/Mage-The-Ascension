@@ -1,4 +1,4 @@
-# Mage: The Ascension
+# Alternate Mage: The Ascension Rules
 
 
 Mage: The Ascension is a roleplaying game set in the World of Darkness, a dark, gothic-punk alternative version of our own reality. In this setting, magic is real but hidden from most people's perception. The game revolves around mages - individuals who can reshape reality through the power of will, belief, and understanding.
@@ -21,7 +21,7 @@ A typical success in Mage is made by rolling a 8, 9, or 10 on one 10 sided die, 
 
 So, with a few other modifications the game mechanics are basically the same.
 <br>
-
+<br>
 ### Attributes and Skills
 
 
@@ -29,7 +29,7 @@ Characters possess a variety of traits, describing their innate capabilities, tr
 
 Whenever your character performs an action that calls for dice rolls, you most often add the most appropriate Attribute to the most appropriate Skill. When your character shoots a gun, you add his Dexterity to his Firearms for a total number of dice rolls.
 <br>
-
+<br>
 ### Modifiers
 
 
@@ -39,30 +39,30 @@ For example, when shooting a target 30 yards away with his Glock 17 pistol, your
 
 The Storyteller determines whether or not any circumstance imposes dice-roll modifiers and how great those modifiers are.
 <br>
-
+<br>
 ### Dice Rolls
 
 
 So, we can say that that the number of times you get to roll the dice is determined like so: Attribute + Skill + modifiers (if any) In general, bonuses are always added before penalties are applied.
 <br>
-
+<br>
 ### Rolling the Dice
 
 
 Now that you know what to roll, lets see how to read the results. Each roll uses two dice, and a result of 7, or 11 is considered a success. You might have more than one of these, in which case you have multiple successes. The dice don't just tell you whether your character succeeds or fails it shows you how well he does. If none of your die rolls succeed, your roll fails. Obviously, the more die rolls you have the better your characters chances of success, and the greater your odds of gaining multiple successes.
 <br>
-
+<br>
 ### Snake Eyes
 
 
 If one of your rolls turn up snake eyes, it cancels out one success. If you roll snake eyes, and none of you other rolls succeed it is a botch.
 <br>
-
+<br>
 ### Second Tries
 
 When a roll fails, you can try again with a +1 difficulty modifier.
 <br>
-
+<br>
 ### Fighting
 
 
@@ -70,7 +70,7 @@ Combat is a series of die rolls, until someone surrenders or is rendered unable 
 
 There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls, which are subtracted from any attack successes targeted against him.
 <br>
-
+<br>
 ### Actions
 
 
@@ -120,11 +120,11 @@ The number of successes you have is also given a rating from one to five:
 4) Excellent
 
 5) Phenomenal
-
+<br>
+<br>
 ### Traits
 
 The attributes your character has are listed here, they are divided into 3 categories:
-<br>
 <br>
 
 #### Physical:
@@ -135,7 +135,6 @@ The attributes your character has are listed here, they are divided into 3 categ
 * Dexterity - Athleticism
 
 * Stamina - Toughness
-<br>
 
 #### Social:
 
@@ -145,7 +144,6 @@ The attributes your character has are listed here, they are divided into 3 categ
 * Manipulation - Persuasion
 
 * Appearance - Attractiveness
-<br>
 
 #### Mental:
 
@@ -155,7 +153,6 @@ The attributes your character has are listed here, they are divided into 3 categ
 * Intelligence - Pure IQ
 
 * Wits - Intuition & Instincts
-<br>
 
 Abilities are also divided into 3 categories:
 <br>
