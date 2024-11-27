@@ -65,6 +65,7 @@ is 0.3.
 So, with a few other modifications the
 game mechanics are basically the same.
 
+
 Attributes and Skills
 
 
@@ -91,6 +92,7 @@ gun, you add his Dexterity to his
 Firearms for a total number of dice
 rolls.
 
+
 Modifiers
 
 
@@ -116,6 +118,7 @@ not any circumstance imposes dice-roll
 modifiers and how great those modifiers
 are.
 
+
 Dice Rolls
 
 
@@ -125,6 +128,7 @@ determined like so: Attribute + Skill +
 modifiers (if any) In general, bonuses
 are always added before penalties are
 applied.
+
 
 Rolling the Dice
 
@@ -144,6 +148,7 @@ the better your characters chances of
 success, and the greater your odds of
 gaining multiple successes.
 
+
 Snake Eyes
 
 
@@ -156,6 +161,7 @@ Second Tries
 
 When a roll fails, you can try again
 with a +1 difficulty modifier.
+
 
 Fighting
 
@@ -186,6 +192,7 @@ complications involved in combat, such
 as a targets Defense Rolls, which are
 subtracted from any attack successes
 targeted against him.
+
 
 Actions
 
@@ -240,7 +247,9 @@ also given a rating from one to five:
 
 5) Phenomenal
 
+
 Traits
+
 
 The attributes your character has are
 listed here, they are divided into 3
@@ -385,6 +394,7 @@ insanity
 Health - The amount of damage you can
 take
 
+
 Getting Started
 
 
@@ -513,6 +523,7 @@ Resources - Extra Money
 
 Wonder - A Magical talisman or device
 
+
 Combat
 
 
@@ -618,6 +629,7 @@ you can die.
 Finally, your character needs to learn
 magic!
 
+
 Magic
 
 
@@ -689,6 +701,7 @@ laws of physics.
 
 The Mage can now create impossible
 miracles.
+
 
 Mechanics
 
@@ -780,6 +793,7 @@ If a Mage rolls a failure when casting
 a spell & they also roll snake eyes on
 any of their dice then they botch. This
 is a dangerous situation.
+
 
 Spheres
 
@@ -1148,6 +1162,7 @@ realms and entities together.
 
 5) Spirit Travel
 
+
 Paradox & Quiet
 
 
@@ -1190,6 +1205,7 @@ Paradox, but it has to be done before
 the Insanity of Quiet occurs. If
 Paradox reaches a level greater than 10
 it is released automatically.
+
 
 Occult
 
@@ -1303,6 +1319,7 @@ Finishing Touches
 Here are some finishing touches to add
 to your character sheet.
 
+
 Traditions
 
 
@@ -1338,6 +1355,7 @@ Hollow Ones - Goths
 
 If you have your own Coven you can also
 list it as your Cabal.
+
 
 Concept
 
@@ -1375,6 +1393,7 @@ Socialite
 Soldier
 
 Worker
+
 
 Nature and Demeanor
 
@@ -1552,6 +1571,7 @@ Visionary - Imagination / Pride
 
 You want to remake the future.
 
+
 Essence
 
 
@@ -1570,6 +1590,7 @@ Pattern - Improvement
 Primordial - Stability
 
 Questing - Purpose
+
 
 Resonance
 
@@ -1593,6 +1614,7 @@ Entropic represents destruction.
 
 And Static represents protection.
 
+
 Purpose
 
 
@@ -1606,6 +1628,7 @@ Self, Others, and World.
 
 
 Representing your primary motivation.
+
 
 Foci
 
@@ -1703,7 +1726,9 @@ Wands
 
 Weapons
 
+
 Examples
+
 
 Also, here are some examples of how to
 attempt other actions using the
