@@ -120,7 +120,6 @@ The number of successes you have is also given a rating from one to five:
 4) Excellent
 
 5) Phenomenal
-<br>
 
 ### Traits
 
@@ -248,10 +247,8 @@ There are also some other very important traits:
 * Paradox - The backlash from magic into insanity
 
 * Health - The amount of damage you can take
-<br>
 
 ### Getting Started
-
 
 Now that you know the basics of the Storytelling System, you can proceed to create your own characters. You’ll be able to judge what sort of traits you’ll need based on their titles (they’re mostly self-explanatory), and know that the more dots you have in a trait the better your character will be when accomplishing tasks with it.
 
@@ -334,7 +331,6 @@ Additionally, characters also have a number of advantages called Backgrounds.
 * Resources - Extra Money
 
 * Wonder - A Magical talisman or device
-<br>
 
 ### Combat
 
@@ -520,7 +516,6 @@ These are the degrees of power for the Spheres:
 
 
 * If a Mage rolls a failure when casting a spell & they also roll snake eyes on any of their dice then they botch. This is a dangerous situation.
-<br>
 
 ### Spheres
 
@@ -755,7 +750,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Summon Spirits
 
 5) Spirit Travel
-<br>
 
 ### Paradox & Quiet
 
@@ -780,7 +774,6 @@ If they have a Paradox level of 11+, the Quiet happens in more severe ways:
 Complete Madness, Obsession, or Violence
 
 Quintessence can be spent to reduce Paradox, but it has to be done before the Insanity of Quiet occurs. If Paradox reaches a level greater than 10 it is released automatically.
-<br>
 
 ### Occult
 
@@ -889,7 +882,6 @@ Curses / Annihilation
 ### Finishing Touches
 
 Here are some finishing touches to add to your character sheet.
-<br>
 
 ### Traditions
 
@@ -929,7 +921,6 @@ Hollow Ones
 
 
 If you have your own Coven you can also list it as your Cabal.
-<br>
 
 ### Concept
 
@@ -964,7 +955,6 @@ All characters need to have a concept which can be anything you want to make up.
 * Soldier
 
 * Worker
-<br>
 
 ### Nature and Demeanor
 
@@ -972,47 +962,47 @@ All characters need to have a concept which can be anything you want to make up.
 There are two more important categories at the top of the character sheet, called Nature & Demeanor. Nature is your inner character. and Demeanor is what you project into the outside world. Below you can pick one of these for each:
 
 
-* Architect - Purpose / Obsession
+Architect - Purpose / Obsession
 
 You desire to leave a mark on the world.
 
 
-* Autocrat - Leadership / Dictatorship
+Autocrat - Leadership / Dictatorship
 
 You want control.
 
 
-* Bon Vivant - Love of Life / Hedonism
+Bon Vivant - Love of Life / Hedonism
 
 You want to live Life.
 
 
-* Bravo - Strength / Anger
+Bravo - Strength / Anger
 
 You want power.
 
 
-* Caregiver - Compassion / Smothering
+Caregiver - Compassion / Smothering
 
 You look out for others.
 
 
-* Celebrant - Passion / Intemperance
+Celebrant - Passion / Intemperance
 
 You have a calling
 
 
-* Child - Innocence / Immaturity
+Child - Innocence / Immaturity
 
 You never grew up.
 
 
-* Competitor - Striving / Competitiveness
+Competitor - Striving / Competitiveness
 
 Life is a challenge to be won.
 
 
-* Conformist - Cooperation / Low-Self Esteem
+Conformist - Cooperation / Low-Self Esteem
 
 You are a follower.
 
