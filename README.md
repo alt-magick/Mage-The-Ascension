@@ -765,84 +765,84 @@ There are 12 Spheres in this system. Each Sphere connects to one of the 12 signs
 
 Control:
 
-&nbsp;&nbsp;Energy / Telekinesis
+&nbsp;&nbsp;Energy / Telekinesis<br>
 &nbsp;&nbsp;(Aries / Emperor) + (Mars / Tower)
 <br>
 
 
 Transformation:
 
-&nbsp;&nbsp;Developing / Shapeshifting
+&nbsp;&nbsp;Developing / Shapeshifting<br>
 &nbsp;&nbsp;(Taurus / Hierophant) + (Venus / Empress)
 <br>
 
 
 Understanding:
 
-&nbsp;&nbsp;Wisdom / ESP
+&nbsp;&nbsp;Wisdom / ESP<br>
 &nbsp;&nbsp;(Libra / Justice) + (Venus / Empress)
 <br>
 
 
 Revelation:
 
-&nbsp;&nbsp;Visions / Rapture
+&nbsp;&nbsp;Visions / Rapture<br>
 &nbsp;&nbsp;(Pisces / High Priestess) + (Neptune / Hanged Man)
 <br>
 
 
 Feeling:
 
-&nbsp;&nbsp;Empathy / Telepathy
+&nbsp;&nbsp;Empathy / Telepathy<br>
 &nbsp;&nbsp;(Virgo / Hermit) + (Mercury / Magician)
 <br>
 
 
 Influence:
 
-&nbsp;&nbsp;Charisma / Hypnotism
+&nbsp;&nbsp;Charisma / Hypnotism<br>
 &nbsp;&nbsp;(Leo / Strength) + (Sun / Sun)
 <br>
 
 
 Penetration:
 
-&nbsp;&nbsp;Escape / Intangibility
+&nbsp;&nbsp;Escape / Intangibility<br>
 &nbsp;&nbsp;(Gemini / Lovers) + (Mercury / Magician)
 <br>
 
 
 Travel:
 
-&nbsp;&nbsp;Direction / Teleportation
+&nbsp;&nbsp;Direction / Teleportation<br>
 &nbsp;&nbsp;(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
 <br>
 
 
 Production:
 
-&nbsp;&nbsp;Attraction / Creation
+&nbsp;&nbsp;Attraction / Creation<br>
 &nbsp;&nbsp;(Capricorn / Devil) + (Saturn / World)
 <br>
 
 
 Restoration:
 
-&nbsp;&nbsp;Renewal / Healing
+&nbsp;&nbsp;Renewal / Healing<br>
 &nbsp;&nbsp;(Aquarius / Star) + (Uranus / Fool)
 <br>
 
 
 Vanishing:
 
-&nbsp;&nbsp;Stealth / Invisibility
+&nbsp;&nbsp;Stealth / Invisibility<br>
 &nbsp;&nbsp;(Cancer / Chariot) + (Moon / Moon)
 <br>
 
 
 Destruction:
 
-&nbsp;&nbsp;Curses / Annihilation
+&nbsp;&nbsp;Curses / Annihilation<br>
 &nbsp;&nbsp;(Scorpio / Death) + (Pluto / Judgement)
 <br>
 
