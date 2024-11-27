@@ -872,8 +872,8 @@ Here are some finishing touches to add to your character sheet.
 There are 9 Traditions representing the different kinds of Mages and their world views. You can pick whichever one you feel resonates with your character:
 
 
-Akashic Brotherhood
-* Buddhist Warriors
+* Akashic Brotherhood
+&nbsp; &nbsp; &nbsp; Buddhist Warriors
 
 Celestial Chorus
 * Gnostic Priests
