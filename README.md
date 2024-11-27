@@ -122,6 +122,7 @@ The number of successes you have is also given a rating from one to five:
 5) Phenomenal
 <br>
 <br>
+
 ### Traits
 
 The attributes your character has are listed here, they are divided into 3 categories:
