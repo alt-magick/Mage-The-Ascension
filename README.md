@@ -280,20 +280,16 @@ To increase a Sphere requires 7 freebie points.
 <br>
 
 #### Prioritize the categories with 3 levels of points
-<br>
 
 #### Select Attributes (7/5/3)
-
 
 * Physical: Strength, Dexterity, Stamina
 
 * Social: Charisma, Manipulation, Appearance
 
 * Mental: Perception, Intelligence, Wits
-<br>
 
 #### Select Abilities (13/9/5)
-
 
 * Talents: Alertness, Athletics, Awareness, Brawl, Dodge, Expression, Intimidation, Leadership, Streetwise, Subterfuge
 
