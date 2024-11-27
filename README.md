@@ -844,34 +844,34 @@ There are 9 Traditions representing the different kinds of Mages and their world
 
 
 * Akashic Brotherhood<br>
-&nbsp; Buddhist Warriors
+&nbsp;&nbsp; Buddhist Warriors
 
 * Celestial Chorus<br>
-&nbsp; Gnostic Priests
+&nbsp;&nbsp; Gnostic Priests
 
 * Cult of Ecstasy<br>
-&nbsp; Hippies and New Agers
+&nbsp;&nbsp; Hippies and New Agers
 
 * Dreamspeakers<br>
-&nbsp; Shamans
+&nbsp;&nbsp; Shamans
 
 * Euthanatos<br>
-&nbsp; Terrorists and Activists
+&nbsp;&nbsp; Terrorists and Activists
 
 * Order of Hermes<br>
-&nbsp; Ceremonial Magicians
+&nbsp;&nbsp; Ceremonial Magicians
 
 * Sons of Ether<br>
-&nbsp; Rebel Scientists
+&nbsp;&nbsp; Rebel Scientists
 
 * Verbena<br>
-&nbsp; Wiccans
+&nbsp;&nbsp; Wiccans
 
 * Virtual Adepts<br>
-&nbsp; Reality Hackers
+&nbsp;&nbsp; Reality Hackers
 
 * Hollow Ones<br>
-&nbsp; Goths
+&nbsp;&nbsp; Goths
 
 
 If you have your own Coven you can also list it as your Cabal.
