@@ -946,8 +946,7 @@ There are two more important categories at the top of the character sheet, calle
 
 
 * Architect - Purpose / Obsession<br>
-
-&nbsp; You desire to leave a mark on the world.
+&nbsp; &nbsp; You desire to leave a mark on the world.
 
 
 Autocrat - Leadership / Dictatorship
