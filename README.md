@@ -20,6 +20,7 @@ For a success in this game, rolling a 7 or 11 with two 6 sided dice has the odds
 A typical success in Mage is made by rolling a 8, 9, or 10 on one 10 sided die, which has the odds of 3/10 which is 0.3.
 
 So, with a few other modifications the game mechanics are basically the same.
+<br>
 
 ### Attributes and Skills
 
@@ -27,6 +28,7 @@ So, with a few other modifications the game mechanics are basically the same.
 Characters possess a variety of traits, describing their innate capabilities, trained skills, and even how many wounds they can suffer before dying. Two types of trait are especially important: Attributes and Skills. Each of these traits is rated in dots (●), ranging from 1 to 5, much like the five-star system many critics use to rate movies. For example, a character might have a Dexterity Attribute of ●●● (3 dots) and a Firearms Skill of ●● (2 dots).
 
 Whenever your character performs an action that calls for dice rolls, you most often add the most appropriate Attribute to the most appropriate Skill. When your character shoots a gun, you add his Dexterity to his Firearms for a total number of dice rolls.
+<br>
 
 ### Modifiers
 
@@ -36,25 +38,30 @@ Various conditions and circumstances can greatly improve or hinder your characte
 For example, when shooting a target 30 yards away with his Glock 17 pistol, your character suffers a -2 penalty.
 
 The Storyteller determines whether or not any circumstance imposes dice-roll modifiers and how great those modifiers are.
+<br>
 
 ### Dice Rolls
 
 
 So, we can say that that the number of times you get to roll the dice is determined like so: Attribute + Skill + modifiers (if any) In general, bonuses are always added before penalties are applied.
+<br>
 
 ### Rolling the Dice
 
 
 Now that you know what to roll, lets see how to read the results. Each roll uses two dice, and a result of 7, or 11 is considered a success. You might have more than one of these, in which case you have multiple successes. The dice don't just tell you whether your character succeeds or fails it shows you how well he does. If none of your die rolls succeed, your roll fails. Obviously, the more die rolls you have the better your characters chances of success, and the greater your odds of gaining multiple successes.
+<br>
 
 ### Snake Eyes
 
 
 If one of your rolls turn up snake eyes, it cancels out one success. If you roll snake eyes, and none of you other rolls succeed it is a botch.
+<br>
 
 ### Second Tries
 
 When a roll fails, you can try again with a +1 difficulty modifier.
+<br>
 
 ### Fighting
 
@@ -62,6 +69,7 @@ When a roll fails, you can try again with a +1 difficulty modifier.
 Combat is a series of die rolls, until someone surrenders or is rendered unable to fight. The rolls determine whether or not your character hits and how much damage he inflicts on his target. The number of dice rolls is determined as above, but a knife is more deadly than a fist, and a gun is more deadly than all. Each success gained on your attack roll represents a point of damage inflicted against the targets Health trait. If the target has no more Health left, he is unconscious or dead (depending on the type of damage done).
 
 There are two types of damage: bashing (caused by blunt weapons such as fists or clubs; these wounds heal quickly), lethal (caused by sharp weapons such as knives and bullets; these wounds heal slowly). There are a number of complications involved in combat, such as a targets Defense Rolls, which are subtracted from any attack successes targeted against him.
+<br>
 
 ### Actions
 
@@ -112,6 +120,7 @@ The number of successes you have is also given a rating from one to five:
 4) Excellent
 
 5) Phenomenal
+<br>
 
 ### Traits
 
@@ -150,7 +159,7 @@ The attributes your character has are listed here, they are divided into 3 categ
 <br>
 
 Abilities are also divided into 3 categories:
-
+<br>
 
 #### Talents:
 
@@ -288,6 +297,7 @@ To increase a Sphere requires 7 freebie points.
 * Social: Charisma, Manipulation, Appearance
 
 * Mental: Perception, Intelligence, Wits
+<br>
 
 #### Select Abilities (13/9/5)
 
@@ -333,7 +343,7 @@ Additionally, characters also have a number of advantages called Backgrounds.
 We will now go over the combat system. It is very simple.
 
 Combat is broken down into three steps, Initiative, Attack, and Resolution.
-
+<br>
 
 #### Stage one - Initiative
 
@@ -343,7 +353,7 @@ During initiative, both players roll Dexterity + Wits. Whoever has more successe
 Each player declares either to attack or defend.
 
 It is also possible to ambush someone with: Dexterity + Stealth vs Perception + Alertness
-
+<br>
 
 #### Stage two - Attack
 
@@ -369,7 +379,7 @@ Parry: Dexterity + Melee
 The successes of the attack roll minus the defense roll equals damage, which is either Bashing or Lethal.
 
 If a weapon is being used the storyteller can increase the modifier for an attack by up to +4. Some guns allow you to shoot multiple times in a turn.
-
+<br>
 
 #### Stage three - Resolution
 
@@ -380,7 +390,7 @@ If the fighting continues you roll again for initiative.
 <br>
 
 Keep track of the damage to your health with this chart:
-
+<br>
 
 #### Health
 
@@ -537,7 +547,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Seeing the Future
 
 5) Stopping Time
-
+<br>
 
 #### Feeling
 
@@ -556,7 +566,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Reading Thoughts
 
 5) Mental Link
-
+<br>
 
 #### Production
 
@@ -575,7 +585,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Produce Small Objects
 
 5) Win Lotteries & Elections
-
+<br>
 
 #### Influence
 
@@ -594,7 +604,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Mind Control
 
 5) Altering Identities
-
+<br>
 
 #### Penetration
 
@@ -613,7 +623,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Escape From Prisons
 
 5) Becoming Intangible
-
+<br>
 
 #### Control
 
@@ -632,7 +642,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Moving Objects
 
 5) Controlling Natural Forces
-
+<br>
 
 #### Restoration
 
@@ -651,7 +661,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Heal Sickness / Damage
 
 5) Resurrection
-
+<br>
 
 #### Vanishing
 
@@ -670,7 +680,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Disguise
 
 5) Invisibility
-
+<br>
 
 #### Travel
 
@@ -689,7 +699,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Teleport Objects
 
 5) Make a Portal
-
+<br>
 
 #### Transformation
 
@@ -708,7 +718,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Shapeshifting
 
 5) Transmutation
-
+<br>
 
 #### Destruction
 
@@ -727,7 +737,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Cause Physical Damage
 
 5) Kill & Destroy
-
+<br>
 
 #### Revelation
 
@@ -746,6 +756,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Summon Spirits
 
 5) Spirit Travel
+<br>
 
 ### Paradox & Quiet
 
@@ -770,6 +781,7 @@ If they have a Paradox level of 11+, the Quiet happens in more severe ways:
 Complete Madness, Obsession, or Violence
 
 Quintessence can be spent to reduce Paradox, but it has to be done before the Insanity of Quiet occurs. If Paradox reaches a level greater than 10 it is released automatically.
+<br>
 
 ### Occult
 
@@ -784,6 +796,7 @@ Control:
 Energy / Telekinesis
 
 (Aries / Emperor) + (Mars / Tower)
+<br>
 
 
 Transformation:
@@ -791,6 +804,7 @@ Transformation:
 Developing / Shapeshifting
 
 (Taurus / Hierophant) + (Venus / Empress)
+<br>
 
 
 Understanding:
@@ -798,6 +812,7 @@ Understanding:
 Wisdom / ESP
 
 (Libra / Justice) + (Venus / Empress)
+<br>
 
 
 Revelation:
@@ -805,6 +820,7 @@ Revelation:
 Visions / Rapture
 
 (Pisces / High Priestess) + (Neptune / Hanged Man)
+<br>
 
 
 Feeling:
@@ -812,6 +828,7 @@ Feeling:
 Empathy / Telepathy
 
 (Virgo / Hermit) + (Mercury / Magician)
+<br>
 
 
 Influence:
@@ -819,6 +836,7 @@ Influence:
 Charisma / Hypnotism
 
 (Leo / Strength) + (Sun / Sun)
+<br>
 
 
 Penetration:
@@ -826,6 +844,7 @@ Penetration:
 Escape / Intangibility
 
 (Gemini / Lovers) + (Mercury / Magician)
+<br>
 
 
 Travel:
@@ -833,6 +852,7 @@ Travel:
 Direction / Teleportation
 
 (Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
+<br>
 
 
 Production:
@@ -840,6 +860,7 @@ Production:
 Attraction / Creation
 
 (Capricorn / Devil) + (Saturn / World)
+<br>
 
 
 Restoration:
@@ -847,6 +868,7 @@ Restoration:
 Renewal / Healing
 
 (Aquarius / Star) + (Uranus / Fool)
+<br>
 
 
 Vanishing:
@@ -854,6 +876,7 @@ Vanishing:
 Stealth / Invisibility
 
 (Cancer / Chariot) + (Moon / Moon)
+<br>
 
 
 Destruction:
@@ -861,11 +884,13 @@ Destruction:
 Curses / Annihilation
 
 (Scorpio / Death) + (Pluto / Judgement)
+<br>
 
 
 ### Finishing Touches
 
 Here are some finishing touches to add to your character sheet.
+<br>
 
 ### Traditions
 
@@ -905,6 +930,7 @@ Hollow Ones
 
 
 If you have your own Coven you can also list it as your Cabal.
+<br>
 
 ### Concept
 
@@ -939,6 +965,7 @@ All characters need to have a concept which can be anything you want to make up.
 * Soldier
 
 * Worker
+<br>
 
 ### Nature and Demeanor
 
@@ -1094,6 +1121,7 @@ Your life is a comedy.
 Visionary - Imagination / Pride
 
 You want to remake the future.
+<br>
 
 ### Essence
 
@@ -1108,6 +1136,7 @@ Pattern - Improvement
 Primordial - Stability
 
 Questing - Purpose
+<br>
 
 ### Resonance
 
@@ -1123,6 +1152,7 @@ Dynamic represents change.
 Entropic represents destruction.
 
 And Static represents protection.
+<br>
 
 ### Purpose
 
@@ -1134,6 +1164,7 @@ Self, Others, and World.
 
 
 Representing your primary motivation.
+<br>
 
 ### Foci
 
@@ -1224,6 +1255,7 @@ Toys
 Wands
 
 Weapons
+<br>
 
 ### Examples
 
