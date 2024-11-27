@@ -873,7 +873,7 @@ There are 9 Traditions representing the different kinds of Mages and their world
 
 
 * Akashic Brotherhood<br>
-&nbsp; &nbsp; &nbsp; Buddhist Warriors
+&nbsp; Buddhist Warriors
 
 Celestial Chorus
 * Gnostic Priests
