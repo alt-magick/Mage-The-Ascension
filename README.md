@@ -918,151 +918,181 @@ There are two more important categories at the top of the character sheet, calle
 
 
 * Architect
+
 Purpose / Obsession<br>
 &nbsp; &nbsp;You desire to leave a mark on the world.
 
 
 * Autocrat
+
 Leadership / Dictatorship<br>
 &nbsp; &nbsp;You want control.
 
 
 * Bon Vivant
+
 Love of Life / Hedonism<br>
 &nbsp; &nbsp;You want to live Life.
 
 
 * Bravo
+
 Strength / Anger<br>
 &nbsp; &nbsp;You want power.
 
 
 * Caregiver
+
 Compassion / Smothering<br>
 &nbsp; &nbsp;You look out for others.
 
 
 * Celebrant
+
 Passion / Intemperance<br>
 &nbsp; &nbsp;You have a calling
 
 
 * Child
+
 Innocence / Immaturity<br>
 &nbsp; &nbsp;You never grew up.
 
 
 * Competitor
+
 Striving / Competitiveness<br>
 &nbsp; &nbsp;Life is a challenge to be won.
 
 
 * Conformist
+
 Cooperation / Low-Self Esteem<br>
 &nbsp; &nbsp;You are a follower.
 
 
 * Conniver
+
 Clever / Envy<br>
 &nbsp; &nbsp;You are a manipulator
 
 
 * Curmudgeon
+
 Critical Eye / Lack of Imagination<br>
 &nbsp; &nbsp;You find the faults in others.
 
 
 * Deviant
+
 Shatter Boundaries / Perversion<br>
 &nbsp; &nbsp;You are an outcast.
 
 
 * Director
+
 Organization / Lack of Tolerance<br>
 &nbsp; &nbsp;You want things under control.
 
 
 * Fanatic
+
 Dedication / Stubbornness<br>
 &nbsp; &nbsp;You live for a cause.
 
 
 * Gallant
+
 Artistry / Flamboyance<br>
 &nbsp; &nbsp;You want to be the center of attention.
 
 
 * Judge
+
 Justice / Lack of Vision<br>
 &nbsp; &nbsp;You want to resolve problems.
 
 
 * Loner
+
 Self-Reliance / Lack of Empathy<br>
 &nbsp; &nbsp;You work best by yourself.
 
 
 * Martyr
+
 Sacrifice / Self-Deprecation<br>
 &nbsp; &nbsp;You devote yourself to helping others.
 
 
 * Masochist
+  
 Devotion / Self-Destructiveness<br>
 &nbsp; &nbsp;You want to suffer.
 
 
 * Monster
+
 Mirror of Villainy / Depravity<br>
 &nbsp; &nbsp;You are an evil person.
 
 
 * Pedagogue
+
 Knowledge / Logorrhea<br>
 &nbsp; &nbsp;You are a teacher.
 
 
-* Penitent
+* Peniten
+
 Responsibility / Contrition<br>
 &nbsp; &nbsp;You are consumed with guilt.
 
 
 * Perfectionist
+
 Exactitude / Incompleteness<br>
 &nbsp; &nbsp;You need to be the best.
 
 
 * Rebel
+
 Individuality / Lack of Direction<br>
 &nbsp; &nbsp;You like to break the rules.
 
 
 * Rogue
+
 Valor / Selfishness<br>
 &nbsp; &nbsp;You look out for yourself.
 
 
 * Survivor
+
 Perseverance / Lack of Trust<br>
 &nbsp; &nbsp;You keep going no matter what.
 
 
 * Thrill-Seeker
+
 Daring / Recklessness<br>
 &nbsp; &nbsp;You live on the edge.
 
 
 * Traditionalist
+
 Consistency / Complacency<br>
 &nbsp; &nbsp;You support the status quo.
 
 
 * Trickster
+
 Empathy / Hypocrisy<br>
 &nbsp; &nbsp;Your life is a comedy.
 
 
 * Visionary
+
 Imagination / Pride<br>
 &nbsp; &nbsp;You want to remake the future.
 <br><br>
