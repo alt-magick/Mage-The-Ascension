@@ -875,32 +875,32 @@ There are 9 Traditions representing the different kinds of Mages and their world
 * Akashic Brotherhood<br>
 &nbsp; Buddhist Warriors
 
-Celestial Chorus
-* Gnostic Priests
+* Celestial Chorus<br>
+&nbsp; Gnostic Priests
 
-Cult of Ecstasy
-* Hippies and New Agers
+* Cult of Ecstasy<br>
+&nbsp; Hippies and New Agers
 
-Dreamspeakers
-* Shamans
+* Dreamspeakers<br>
+&nbsp; Shamans
 
-Euthanatos
-* Terrorists and Activists
+* Euthanatos<br>
+&nbsp; Terrorists and Activists
 
-Order of Hermes
-* Ceremonial Magicians
+* Order of Hermes<br>
+&nbsp; Ceremonial Magicians
 
-Sons of Ether
-* Rebel Scientists
+* Sons of Ether<br>
+&nbsp; Rebel Scientists
 
-Verbena
-* Wiccans
+* Verbena<br>
+&nbsp; Wiccans
 
-Virtual Adepts
-* Reality Hackers
+* Virtual Adepts<br>
+&nbsp; Reality Hackers
 
-Hollow Ones
-* Goths
+* Hollow Ones<br>
+&nbsp; Goths
 
 
 If you have your own Coven you can also list it as your Cabal.
@@ -945,9 +945,9 @@ All characters need to have a concept which can be anything you want to make up.
 There are two more important categories at the top of the character sheet, called Nature & Demeanor. Nature is your inner character. and Demeanor is what you project into the outside world. Below you can pick one of these for each:
 
 
-Architect - Purpose / Obsession
+* Architect - Purpose / Obsession<br>
 
-You desire to leave a mark on the world.
+&nbsp; You desire to leave a mark on the world.
 
 
 Autocrat - Leadership / Dictatorship
