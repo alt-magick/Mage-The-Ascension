@@ -121,7 +121,6 @@ The number of successes you have is also given a rating from one to five:
 
 5) Phenomenal
 <br>
-<br>
 
 ### Traits
 
@@ -180,7 +179,6 @@ Abilities are also divided into 3 categories:
 * Streetwise - Youre a Part Of The Underworld
 
 * Subterfuge - You Can Hide Your Motives
-<br>
 
 #### Skills:
 
@@ -204,7 +202,6 @@ Abilities are also divided into 3 categories:
 * Survival - Living In Difficult Environments
 
 * Technology - Repairing And Working With Machines
-<br>
 
 #### Knowledges:
 
