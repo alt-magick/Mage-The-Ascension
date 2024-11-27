@@ -78,7 +78,7 @@ The number of times you roll for an action is made up of an attribute added to a
 4) Exceptional
 
 5) World Class
-
+<br>
 
 That dice pool is then modified by one of these levels:
 
@@ -96,7 +96,7 @@ That dice pool is then modified by one of these levels:
 -4) Hard
 
 -5) Exceptional
-
+<br>
 
 The number of successes you have is also given a rating from one to five:
 
@@ -110,6 +110,7 @@ The number of successes you have is also given a rating from one to five:
 4) Excellent
 
 5) Phenomenal
+<br>
 
 ### Traits
 
@@ -124,7 +125,7 @@ Strength - Physical Power
 Dexterity - Athleticism
 
 Stamina - Toughness
-
+<br>
 
 #### Social:
 
@@ -134,7 +135,7 @@ Charisma - Charm
 Manipulation - Persuasion
 
 Appearance - Attractiveness
-
+<br>
 
 #### Mental:
 
@@ -144,7 +145,7 @@ Perception - Insight To Surroundings
 Intelligence - Pure IQ
 
 Wits - Intuition & Instincts
-
+<br>
 
 Abilities are also divided into 3 categories:
 
@@ -171,7 +172,7 @@ Leadership - You Are Respected
 Streetwise - Youre a Part Of The Underworld
 
 Subterfuge - You Can Hide Your Motives
-
+<br>
 
 #### Skills:
 
@@ -195,7 +196,7 @@ Stealth - Hiding From Sight
 Survival - Living In Difficult Environments
 
 Technology - Repairing And Working With Machines
-
+<br>
 
 #### Knowledges:
 
@@ -236,6 +237,7 @@ Quintessence - The raw power of magic
 Paradox - The backlash from magic into insanity
 
 Health - The amount of damage you can take
+<br>
 
 ### Getting Started
 
@@ -257,7 +259,7 @@ You also get 6 dots that can go into your Mage's magical knowledge called Sphere
 Arete starts at 1 and can’t begin higher than 3.
 
 Willpower starts at 5 and can’t begin higher than 7.
-
+<br>
 
 You also get 15 Freebie Points:
 
@@ -272,7 +274,7 @@ To increase Willpower requires 1 freebie point.
 To increase Arete requires 4 freebie points.
 
 To increase a Sphere requires 7 freebie points.
-
+<br>
 
 Prioritize the categories with 3 levels of points.
 
@@ -285,7 +287,7 @@ Physical: Strength, Dexterity, Stamina
 Social: Charisma, Manipulation, Appearance
 
 Mental: Perception, Intelligence, Wits
-
+<br>
 
 #### Select Abilities (13/9/5)
 
@@ -295,7 +297,7 @@ Talents: Alertness, Athletics, Awareness, Brawl, Dodge, Expression, Intimidation
 Skills: Crafts, Drive, Etiquette, Firearms, Meditation, Melee, Performance, Stealth, Survival, Technology
 
 Knowledges: Academics, Computer, Cosmology, Enigmas, Investigation, Law, Linguistics, Medicine, Occult, Science
-
+<br>
 
 Additionally, characters also have a number of advantages called Backgrounds.
 
@@ -324,6 +326,7 @@ Node - A place of magical power
 Resources - Extra Money
 
 Wonder - A Magical talisman or device
+<br>
 
 ### Combat
 
@@ -375,6 +378,7 @@ If a weapon is being used the storyteller can increase the modifier for an attac
 Roll as many times as your Stamina points to eliminate a point of bashing damage for each success.
 
 If the fighting continues you roll again for initiative.
+<br>
 
 Keep track of the damage to your health with this chart:
 
@@ -398,7 +402,7 @@ Keep track of the damage to your health with this chart:
 
 
 Each point of damage is marked with a / for bashing damage and an X for lethal damage. If you acquire 7 bashing damage you are unconscious, further bashing damage can become lethal damage. Either way, you apply a penalty to everything you roll as the damage goes up.If you acquire more than 7 in lethal damage, you can die.
-
+<br>
 
 Finally, your character needs to learn magic!
 
@@ -415,7 +419,7 @@ Control, Destruction, Feeling, Influence, Penetration, Production, Revelation, R
 
 
 These are the degrees of power for the Spheres:
-
+<br>
 
 1) Awareness
 
@@ -456,6 +460,7 @@ The Mage can manipulate and bend the laws of physics.
 #### 5) Miraculous
 
 The Mage can now create impossible miracles.
+<br>
 
 ### Mechanics
 
@@ -525,11 +530,13 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 
 
 Power: Wisdom / ESP
+<br>
 
 Knowledge: Realization - Unveiling the inner knowledge within.
+<br>
 
 Description: The Power of Understanding manifests as inspiration and insight, granting effortless access to answers and discoveries beyond conventional understanding. It endows the practitioner with the gift of foreknowledge. The key to unlocking this power lies in the realization that all knowledge already resides within oneself.
-
+<br>
 
 1) Elevated Mental Attributes
 
@@ -545,11 +552,13 @@ Description: The Power of Understanding manifests as inspiration and insight, gr
 #### Feeling
 
 Power: Empathy / Telepathy
+<br>
 
 Knowledge: Association - Recognizing the interconnectedness of all things.
+<br>
 
 Description: The Power of Feeling enables one to empathize and understand others deeply, perceiving their thoughts and emotions without the need for words. It stems from the profound insight into Association, the intrinsic link that binds all living beings together.
-
+<br>
 
 1) Reading Mindstates
 
@@ -565,11 +574,13 @@ Description: The Power of Feeling enables one to empathize and understand others
 #### Production
 
 Power: Attraction / Creation
+<br>
 
 Knowledge: Synchronicity - Uniting the threads of existence.
+<br>
 
 Description: The Power of Production empowers a wizard to draw situations and desires into their reality. This ability stems from a profound understanding of Synchronicity, the cosmic principle that everything is interconnected and influences each other. It acknowledges that the power to attract lies within, awaiting manifestation.
-
+<br>
 
 1) Sensing Opportunity
 
@@ -585,11 +596,13 @@ Description: The Power of Production empowers a wizard to draw situations and de
 #### Influence
 
 Power: Charisma / Hypnotism
+<br>
 
 Knowledge: Possession - Will shaping the realm of the mind.
+<br>
 
 Description: The Power of Influence grants a wizard the power to captivate others. Known as Possession, it allows one to enchant and charm, eliciting positive perceptions or even gaining control over anothers thoughts and actions. The essence of this mastery lies in the understanding that ones will can wield dominion over the minds of others.
-
+<br>
 
 1) Sensing Willpower
 
@@ -605,11 +618,13 @@ Description: The Power of Influence grants a wizard the power to captivate other
 #### Penetration
 
 Power: Escape / Intangibility
+<br>
 
 Knowledge: Spiritualism - Perceiving the world as a realm of spirit.
+<br>
 
 Description: The Power of Penetration delves into the realm of Spiritualism. It unveils the truth that the world is fundamentally composed of spirit, allowing a wizard to transcend physical boundaries and become intangible. Chains and locks lose their hold, dissolving effortlessly under the wizards touch.
-
+<br>
 
 1) Find Exits
 
@@ -625,11 +640,13 @@ Description: The Power of Penetration delves into the realm of Spiritualism. It 
 #### Control
 
 Power: Energy / Telekinesis
+<br>
 
 Knowledge: Evocation - Harnessing the forces of the spiritual realm.
+<br>
 
 Description: The Power of Control enables a wizard to command powerful forces. Through evocation, the practitioner can manipulate energy and bend it to their will. This understanding arises from recognizing that spiritual entities are themselves embodiments of force and possess the capacity to shape and impact the physical world.
-
+<br>
 
 1) Quick Reactions
 
@@ -645,11 +662,13 @@ Description: The Power of Control enables a wizard to command powerful forces. T
 #### Restoration
 
 Power: Renewal / Healing
+<br>
 
 Knowledge: Forgiveness - Liberating from suffering caused by transgressions.
+<br>
 
 Description: The Power of Restoration holds the gift of healing. It grants the ability to alleviate pain, cure diseases, and bring renewal to the afflicted. This power emerges from the understanding of Forgiveness, recognizing that suffering often stems from transgressions. By embracing forgiveness, a wizard becomes a conduit for healing and restoration.
-
+<br>
 
 1) Sense illness
 
@@ -665,11 +684,13 @@ Description: The Power of Restoration holds the gift of healing. It grants the a
 #### Vanishing
 
 Power: Stealth / Invisibility
+<br>
 
 Knowledge: Misdirection - Manipulating attention and perception.
+<br>
 
 Description: The Power of Vanishing encompasses the art of Misdirection. It allows a wizard to control focus and attention, rendering themselves unseen and secrets concealed. Meticulous study and practice grant the ability to achieve complete invisibility as the wizard manipulates perception and directs attention elsewhere.
-
+<br>
 
 1) Detect Lies
 
@@ -685,10 +706,13 @@ Description: The Power of Vanishing encompasses the art of Misdirection. It allo
 #### Travel
 
 Power: Direction / Teleportation
+<br>
 
 Knowledge: Unity - Dissolving the illusion of separation.
+<br>
 
 Description: The Power of Travel operates on the understanding that all separation is illusory. By harnessing this power, a wizard can navigate without traditional directions and locate objects or places that are lost or hidden. A skilled practitioner can transcend distance, stepping from one location to any desired destination.
+<br>
 
 
 1) Locate Lost Objects
@@ -705,10 +729,13 @@ Description: The Power of Travel operates on the understanding that all separati
 #### Transformation
 
 Power: Developing / Shapeshifting
+<br>
 
 Knowledge: Personification - Authoring ones own identity.
+<br>
 
 Description: The Power of Transformation allows a wizard to assume the form and essence of another being, whether it be an abstract concept, an animal, or even a deity. The essence of this mastery lies in the understanding that one has the power to create and define their own identity, refusing to be shaped by external forces. The power of transformation can also be used to improve who you already are.
+<br>
 
 
 1) Sense Others Attributes
@@ -725,11 +752,13 @@ Description: The Power of Transformation allows a wizard to assume the form and 
 #### Destruction
 
 Power: Curses / Annihilation
+<br>
 
 Knowledge: Pragmatism - Dissolving the constructs of right and wrong.
+<br>
 
 Description: The Power of Destruction holds immense power that should be wielded with caution. It encompasses the ability to curse, annihilate, and disrupt the natural order. However, the utilization of this power draws one away from their true path and blurs the distinction between right and wrong.
-
+<br>
 
 1) Sense Black Magic
 
@@ -745,11 +774,13 @@ Description: The Power of Destruction holds immense power that should be wielded
 #### Revelation
 
 Power: Visions / Rapture
+<br>
 
 Knowledge: Above as Below - The symbiotic connection between gods, angels, and humanity.
+<br>
 
 Description: The Power of Revelation unveils profound visions and grants enlightenment to the practitioner. It is rooted in the understanding of the symbiotic connection between gods, angels, and humanity. By tapping into this power, a wizard gains access to celestial knowledge, perceiving the intricate tapestry that binds all realms and entities together.
-
+<br>
 
 1) Sense Spirits
 
@@ -765,6 +796,7 @@ Description: The Power of Revelation unveils profound visions and grants enlight
 
 
 The official rules say Paradox is caused by Vulgar magic. In these alternative rules Paradox happens when a Mage fails at casting their spells. When a Mage fails a magic roll they gain a Paradox point. A botched roll will then releases that Paradox in the form of a Quiet (Insanity).
+<br>
 
 If a Mage has a Paradox level of 1-3, the Quiet happens in one of three ways:
 
