@@ -67,7 +67,7 @@ There are two types of damage: bashing (caused by blunt weapons such as fists or
 
 
 The number of times you roll for an action is made up of an attribute added to an ability. Each of these are given a rating from 1 to five:
-
+<br>
 
 1) Poor
 
@@ -81,7 +81,7 @@ The number of times you roll for an action is made up of an attribute added to a
 <br>
 
 That dice pool is then modified by one of these levels:
-
+<br>
 
 +1) Easy
 
@@ -99,7 +99,7 @@ That dice pool is then modified by one of these levels:
 <br>
 
 The number of successes you have is also given a rating from one to five:
-
+<br>
 
 1) Marginal
 
