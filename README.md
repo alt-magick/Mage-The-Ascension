@@ -1048,7 +1048,7 @@ Your character's Avatar Essence is also on the character sheet. An Avatar repres
 * Primordial - Stability
 
 * Questing - Purpose
-<br>
+
 
 ### Resonance
 
@@ -1064,7 +1064,7 @@ There are three types of Resonance: Dynamic, Entropic, and Static
 * Entropic represents destruction.
 
 * And Static represents protection.
-<br>
+
 
 ### Purpose
 
@@ -1076,7 +1076,7 @@ In these alternate rules we also have another trait called Purpose. You can fill
 
 
 Representing your primary motivation.
-<br>
+
 
 ### Foci
 
