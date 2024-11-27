@@ -535,7 +535,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Seeing the Future
 
 5) Stopping Time
-<br>
 
 #### Feeling
 
@@ -554,7 +553,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Reading Thoughts
 
 5) Mental Link
-<br>
 
 #### Production
 
@@ -573,7 +571,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Produce Small Objects
 
 5) Win Lotteries & Elections
-<br>
 
 #### Influence
 
@@ -592,7 +589,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Mind Control
 
 5) Altering Identities
-<br>
 
 #### Penetration
 
@@ -611,7 +607,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Escape From Prisons
 
 5) Becoming Intangible
-<br>
 
 #### Control
 
@@ -630,7 +625,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Moving Objects
 
 5) Controlling Natural Forces
-<br>
 
 #### Restoration
 
@@ -649,7 +643,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Heal Sickness / Damage
 
 5) Resurrection
-<br>
 
 #### Vanishing
 
@@ -668,7 +661,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Disguise
 
 5) Invisibility
-<br>
 
 #### Travel
 
@@ -687,7 +679,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Teleport Objects
 
 5) Make a Portal
-<br>
 
 #### Transformation
 
@@ -706,7 +697,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Shapeshifting
 
 5) Transmutation
-<br>
 
 #### Destruction
 
@@ -725,7 +715,6 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 4) Cause Physical Damage
 
 5) Kill & Destroy
-<br>
 
 #### Revelation
 
