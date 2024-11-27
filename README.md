@@ -293,7 +293,6 @@ To increase a Sphere requires 7 freebie points.
 * Skills: Crafts, Drive, Etiquette, Firearms, Meditation, Melee, Performance, Stealth, Survival, Technology
 
 * Knowledges: Academics, Computer, Cosmology, Enigmas, Investigation, Law, Linguistics, Medicine, Occult, Science
-<br>
 
 Additionally, characters also have a number of advantages called Backgrounds.
 
