@@ -599,7 +599,7 @@ Spheres in Mage: The Ascension are the way Mages effect reality. They represent 
 #### Penetration
 
 * Power: Escape / Intangibility
-* 
+  
 * Knowledge: Spiritualism - Perceiving the world as a realm of spirit.
 
 * Description: The Power of Penetration delves into the realm of Spiritualism. It unveils the truth that the world is fundamentally composed of spirit, allowing a wizard to transcend physical boundaries and become intangible. Chains and locks lose their hold, dissolving effortlessly under the wizards touch.
