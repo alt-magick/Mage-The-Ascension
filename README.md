@@ -763,84 +763,84 @@ This system of magic can connect to occult themes, for interesting role playing.
 There are 12 Spheres in this system. Each Sphere connects to one of the 12 signs of the Zodiac. And each Zodiac sign connects to one of 10 planets in Astrology. The 10 planets and 12 signs connect with the 22 Major Arcana of the Tarot.
 
 
-Control:
+* Control:
 
 &nbsp;&nbsp;Energy / Telekinesis<br>
 &nbsp;&nbsp;(Aries / Emperor) + (Mars / Tower)
 <br>
 
 
-Transformation:
+* Transformation:
 
 &nbsp;&nbsp;Developing / Shapeshifting<br>
 &nbsp;&nbsp;(Taurus / Hierophant) + (Venus / Empress)
 <br>
 
 
-Understanding:
+* Understanding:
 
 &nbsp;&nbsp;Wisdom / ESP<br>
 &nbsp;&nbsp;(Libra / Justice) + (Venus / Empress)
 <br>
 
 
-Revelation:
+* Revelation:
 
 &nbsp;&nbsp;Visions / Rapture<br>
 &nbsp;&nbsp;(Pisces / High Priestess) + (Neptune / Hanged Man)
 <br>
 
 
-Feeling:
+* Feeling:
 
 &nbsp;&nbsp;Empathy / Telepathy<br>
 &nbsp;&nbsp;(Virgo / Hermit) + (Mercury / Magician)
 <br>
 
 
-Influence:
+* Influence:
 
 &nbsp;&nbsp;Charisma / Hypnotism<br>
 &nbsp;&nbsp;(Leo / Strength) + (Sun / Sun)
 <br>
 
 
-Penetration:
+* Penetration:
 
 &nbsp;&nbsp;Escape / Intangibility<br>
 &nbsp;&nbsp;(Gemini / Lovers) + (Mercury / Magician)
 <br>
 
 
-Travel:
+* Travel:
 
 &nbsp;&nbsp;Direction / Teleportation<br>
 &nbsp;&nbsp;(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
 <br>
 
 
-Production:
+* Production:
 
 &nbsp;&nbsp;Attraction / Creation<br>
 &nbsp;&nbsp;(Capricorn / Devil) + (Saturn / World)
 <br>
 
 
-Restoration:
+* Restoration:
 
 &nbsp;&nbsp;Renewal / Healing<br>
 &nbsp;&nbsp;(Aquarius / Star) + (Uranus / Fool)
 <br>
 
 
-Vanishing:
+* Vanishing:
 
 &nbsp;&nbsp;Stealth / Invisibility<br>
 &nbsp;&nbsp;(Cancer / Chariot) + (Moon / Moon)
 <br>
 
 
-Destruction:
+* Destruction:
 
 &nbsp;&nbsp;Curses / Annihilation<br>
 &nbsp;&nbsp;(Scorpio / Death) + (Pluto / Judgement)
