@@ -840,7 +840,7 @@ Here are some finishing touches to add to your character sheet.
 ### Traditions
 
 
-There are 12 kinds of Mages representing different world views. You can pick whichever one you feel resonates with your character:
+There are 12 types of Mages representing different world views. You can pick whichever one you feel resonates with your character:
 
 
 #### Akashic Brotherhood<br>
@@ -877,7 +877,7 @@ There are 12 kinds of Mages representing different world views. You can pick whi
 &nbsp;&nbsp; Permanently Insane
 
 #### Nephandi<br>
-&nbsp;&nbsp; Make Demonic Pacts
+&nbsp;&nbsp; Make Pacts With Demons
 
 #### Technocracy<br>
 &nbsp;&nbsp; Agents of Reason 
