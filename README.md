@@ -877,7 +877,7 @@ There are 12 types of Mages representing different world views. You can pick whi
 &nbsp;&nbsp; Permanently Insane
 
 #### Nephandi<br>
-&nbsp;&nbsp; Make Demonic Pacts 
+&nbsp;&nbsp; Made Demonic Pacts 
 
 #### Technocracy<br>
 &nbsp;&nbsp; Agents of Reason 
