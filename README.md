@@ -840,7 +840,7 @@ Here are some finishing touches to add to your character sheet.
 ### Traditions
 
 
-There are 9 Traditions representing the different kinds of Mages and their world views. You can pick whichever one you feel resonates with your character:
+There are 12 kinds of Mages representing different world views. You can pick whichever one you feel resonates with your character:
 
 
 #### Akashic Brotherhood<br>
@@ -873,6 +873,14 @@ There are 9 Traditions representing the different kinds of Mages and their world
 #### Hollow Ones<br>
 &nbsp;&nbsp; Goths
 
+#### Marauders<br>
+&nbsp;&nbsp; Permanently Insane
+
+#### Nephandi<br>
+&nbsp;&nbsp; Make Demonic Pacts
+
+#### Technocracy<br>
+&nbsp;&nbsp; Agents of Reason 
 
 If you have your own Coven you can also list it as your Cabal.
 <br><br>
