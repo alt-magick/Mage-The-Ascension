@@ -1323,11 +1323,10 @@ to your character sheet.
 Traditions
 
 
-There are 9 Traditions representing the
-different kinds of Mages and their
-world views. You can pick whichever one
-you feel resonates with your
-character:
+There are 12 types of Mages
+representing different world views. You
+can pick whichever one you feel
+resonates with your character:
 
 
 Akashic Brotherhood - Buddhist
@@ -1351,6 +1350,12 @@ Verbena - Wiccans
 Virtual Adepts - Reality Hackers
 
 Hollow Ones - Goths
+
+Marauders - Permanently Insane
+
+Nephandi - Make Demonic Pacts
+
+Technocracy - Agents of Reason
 
 
 If you have your own Coven you can also
