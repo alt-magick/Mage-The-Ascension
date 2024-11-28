@@ -881,7 +881,7 @@ There are 12 types of Mages representing different world views. You can pick whi
 
 #### Technocracy<br>
 &nbsp;&nbsp; Agents of Reason 
-<br>
+<br><br>
 
 If you have your own Coven you can also list it as your Cabal.
 <br><br>
