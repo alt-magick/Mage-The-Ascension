@@ -843,34 +843,34 @@ Here are some finishing touches to add to your character sheet.
 There are 9 Traditions representing the different kinds of Mages and their world views. You can pick whichever one you feel resonates with your character:
 
 
-* Akashic Brotherhood<br>
+#### Akashic Brotherhood<br>
 &nbsp;&nbsp; Buddhist Warriors
 
-* Celestial Chorus<br>
+#### Celestial Chorus<br>
 &nbsp;&nbsp; Gnostic Priests
 
-* Cult of Ecstasy<br>
+#### Cult of Ecstasy<br>
 &nbsp;&nbsp; Hippies and New Agers
 
-* Dreamspeakers<br>
+#### Dreamspeakers<br>
 &nbsp;&nbsp; Shamans
 
-* Euthanatos<br>
+#### Euthanatos<br>
 &nbsp;&nbsp; Terrorists and Activists
 
-* Order of Hermes<br>
+#### Order of Hermes<br>
 &nbsp;&nbsp; Ceremonial Magicians
 
-* Sons of Ether<br>
+#### Sons of Ether<br>
 &nbsp;&nbsp; Rebel Scientists
 
-* Verbena<br>
+#### Verbena<br>
 &nbsp;&nbsp; Wiccans
 
-* Virtual Adepts<br>
+#### Virtual Adepts<br>
 &nbsp;&nbsp; Reality Hackers
 
-* Hollow Ones<br>
+#### Hollow Ones<br>
 &nbsp;&nbsp; Goths
 
 
