@@ -157,6 +157,7 @@ eyes, it cancels out one success. If
 you roll snake eyes, and none of you
 other rolls succeed it is a botch.
 
+
 Second Tries
 
 When a roll fails, you can try again
