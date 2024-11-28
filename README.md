@@ -506,7 +506,7 @@ These are the degrees of power for the Spheres:
 
 
 * If a Mage rolls a failure when casting a spell & they also roll snake eyes on any of their dice then they botch. This is a dangerous situation.
-
+<br><br>
 ### Spheres
 
 
