@@ -763,74 +763,73 @@ There are 12 Spheres in this system. Each Sphere connects to one of the 12 signs
 
 
 #### Control:<br>
-&nbsp;&nbsp;&nbsp;Energy / Telekinesis<br>
-&nbsp;&nbsp;&nbsp;(Aries / Emperor) + (Mars / Tower)
+Energy / Telekinesis<br>
+(Aries / Emperor) + (Mars / Tower)
 <br>
 
 
 #### Transformation:<br>
-&nbsp;&nbsp;&nbsp;Developing / Shapeshifting<br>
-&nbsp;&nbsp;&nbsp;(Taurus / Hierophant) + (Venus / Empress)
+Developing / Shapeshifting<br>
+(Taurus / Hierophant) + (Venus / Empress)
 <br>
 
 
 #### Understanding:<br>
-&nbsp;&nbsp;&nbsp;Wisdom / ESP<br>
-&nbsp;&nbsp;&nbsp;(Libra / Justice) + (Venus / Empress)
+Wisdom / ESP<br>
+(Libra / Justice) + (Venus / Empress)
 <br>
 
 
 #### Revelation:<br>
-&nbsp;&nbsp;&nbsp;Visions / Rapture<br>
-&nbsp;&nbsp;&nbsp;(Pisces / High Priestess) + (Neptune / Hanged Man)
+Visions / Rapture<br>
+(Pisces / High Priestess) + (Neptune / Hanged Man)
 <br>
 
 
 #### Feeling:<br>
-&nbsp;&nbsp;&nbsp;Empathy / Telepathy<br>
-&nbsp;&nbsp;&nbsp;(Virgo / Hermit) + (Mercury / Magician)
+Empathy / Telepathy<br>
+(Virgo / Hermit) + (Mercury / Magician)
 <br>
 
 
 #### Influence:<br>
-&nbsp;&nbsp;&nbsp;Charisma / Hypnotism<br>
-&nbsp;&nbsp;&nbsp;(Leo / Strength) + (Sun / Sun)
+Charisma / Hypnotism<br>
+(Leo / Strength) + (Sun / Sun)
 <br>
 
 
 #### Penetration:<br>
-&nbsp;&nbsp;&nbsp;Escape / Intangibility<br>
-&nbsp;&nbsp;&nbsp;(Gemini / Lovers) + (Mercury / Magician)
+Escape / Intangibility<br>
+(Gemini / Lovers) + (Mercury / Magician)
 <br>
 
 
 #### Travel:<br>
-&nbsp;&nbsp;&nbsp;Direction / Teleportation<br>
-&nbsp;&nbsp;&nbsp;(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
+Direction / Teleportation<br>
+(Sagittarius / Temperance) + (Jupiter / Wheel of Fortune)
 <br>
 
 
 #### Production:<br>
-&nbsp;&nbsp;&nbsp;Attraction / Creation<br>
-&nbsp;&nbsp;&nbsp;(Capricorn / Devil) + (Saturn / World)
+Attraction / Creation<br>(Capricorn / Devil) + (Saturn / World)
 <br>
 
 
 #### Restoration:<br>
-&nbsp;&nbsp;&nbsp;Renewal / Healing<br>
-&nbsp;&nbsp;&nbsp;(Aquarius / Star) + (Uranus / Fool)
+Renewal / Healing<br>
+(Aquarius / Star) + (Uranus / Fool)
 <br>
 
 
 #### Vanishing:<br>
-&nbsp;&nbsp;&nbsp;Stealth / Invisibility<br>
-&nbsp;&nbsp;&nbsp;(Cancer / Chariot) + (Moon / Moon)
+Stealth / Invisibility<br>
+(Cancer / Chariot) + (Moon / Moon)
 <br>
 
 
 #### Destruction:<br>
-&nbsp;&nbsp;&nbsp;Curses / Annihilation<br>
-&nbsp;&nbsp;&nbsp;(Scorpio / Death) + (Pluto / Judgement)
+Curses / Annihilation<br>
+(Scorpio / Death) + (Pluto / Judgement)
 <br>
 <br>
 
