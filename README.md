@@ -1,4 +1,4 @@
-A graphical PDF file of this book can be found at: https://drive.google.com/file/d/1ilkJPjLBpD_copnAiApQ9MeJoeYr-cqN/view?usp=drive_link
+A graphical PDF file of this book can be found at: https://drive.google.com/file/d/1yCz5Dg2seNK-7PLEPAMv6iCX_dhMQtDe/view?usp=drive_link
 
 # Alternate Mage: The Ascension Rules
 
