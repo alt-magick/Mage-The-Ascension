@@ -1,3 +1,5 @@
+This page is mirrored at: https://www.v5homebrew.com/wiki/Alternate_Mage_System
+
 A graphical PDF file of this book can be found at: https://drive.google.com/file/d/1yCz5Dg2seNK-7PLEPAMv6iCX_dhMQtDe/view?usp=drive_link
 
 It is also on the Internet Archive: https://archive.org/details/mta_20241204/Mta.pdf
