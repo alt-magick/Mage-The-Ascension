@@ -1,6 +1,8 @@
 A graphical PDF file of this book can be found at: https://drive.google.com/file/d/1yCz5Dg2seNK-7PLEPAMv6iCX_dhMQtDe/view?usp=drive_link
 
-It is also on the Internet Archive:  https://archive.org/details/mta_20241204/Mta.pdf
+It is also on the Internet Archive: https://archive.org/details/mta_20241204/Mta.pdf
+
+And it is also on Scribd: https://www.scribd.com/document/800392071/Mage-The-Ascension
 
 # Alternate Mage: The Ascension Rules
 
