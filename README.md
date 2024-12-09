@@ -1,4 +1,4 @@
-This page is mirrored at: https://www.v5homebrew.com/wiki/Alternate_Mage_System
+This page is mirrored at: https://www.v5homebrew.com/wiki/Mage:_The_Ascension_(Alternate_Rules)
 
 The illustrated Mage: The Ascension PDF of this book can be found at: https://drive.google.com/file/d/1yCz5Dg2seNK-7PLEPAMv6iCX_dhMQtDe/view?usp=drive_link
 
