@@ -6,7 +6,7 @@ It is also on the Internet Archive: https://archive.org/details/mage-the-ascensi
 
 And it is also on Scribd: https://www.scribd.com/document/800392071/Mage-The-Ascension
 
-A print copy of this book is available on Amazon: https://a.co/d/f4dmi1Z
+A print copy of this book is available at Amazon: https://a.co/d/f4dmi1Z
 
 
 # Alternate Mage: The Ascension Rules
