@@ -1,13 +1,5 @@
 This page is mirrored at: https://www.v5homebrew.com/wiki/Mage:_The_Ascension_(Alternate_Rules)
 
-The illustrated Mage: The Ascension PDF of this book can be found at: https://drive.google.com/file/d/1yCz5Dg2seNK-7PLEPAMv6iCX_dhMQtDe/view?usp=drive_link
-
-It is also on the Internet Archive: https://archive.org/details/mage-the-ascension
-
-And it is also on Scribd: https://www.scribd.com/document/800392071/Mage-The-Ascension
-
-A print copy of this book is available at Amazon: https://a.co/d/f4dmi1Z
-
 
 # Alternate Mage: The Ascension Rules
 
