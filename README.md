@@ -473,7 +473,7 @@ These are the degrees of power for the Spheres:
 #### Quintessence
 
 
-* Quintessence is the power source for Magic. Spending Quintessence points reduces the difficulty of a spell, up to your level of Arete. Meditation is required to regain Quintessence for at least an hour at a place of power. The maximum Quintessence a Mage can store is their Avatar score. Quintessence can also be stored in things that are carried by a Mage.
+* Quintessence is the power source for Magic. Spending Quintessence points adds a bonus to the arete roll for a spell. Meditation is required to regain Quintessence for at least an hour at a place of power. The maximum Quintessence a Mage can store is their Avatar score. Quintessence can also be stored in things that are carried by a Mage.
 
 
 
@@ -495,7 +495,7 @@ These are the degrees of power for the Spheres:
 #### Difficulty
 
 
-* The difficulty for casting magic is the level of the sphere you are using. Add +1 for Vulgar magic, if there are no witnesses. Add another +1 if a Sleeper witnesses it.
+* The difficulty for casting magic is determined by the Storyteller. Add +1 for Vulgar magic, if there are no witnesses. Add another +1 if a Sleeper witnesses it.
 
 
 
