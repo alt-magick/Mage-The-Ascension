@@ -1,6 +1,6 @@
 This page is mirrored at: https://www.v5homebrew.com/wiki/Mage:_The_Ascension_(Alternate_Rules)
 
-Download Mage.pdf to read the illustrated book.
+Download Mage.pdf to read the illustrated book: https://github.com/alt-magick/Mage-The-Ascension/blob/main/Mage.pdf
 
 
 # Alternate Mage: The Ascension Rules
