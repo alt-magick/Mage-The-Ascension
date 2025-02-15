@@ -471,7 +471,7 @@ These are the degrees of power for the Spheres:
 #### Quintessence
 
 
-* Quintessence is the power source for Magic. Spending Quintessence points adds a bonus to your Arete roll for a spell. Meditation is required to regain Quintessence for at least an hour at a place of power. The maximum Quintessence a Mage can store is their Avatar score. Quintessence can also be stored in things that are carried by a Mage.
+* Quintessence is the power source for Magic. Spending Quintessence points adds a bonus to your Arete roll for a spell. Meditation is required to regain Quintessence. The maximum Quintessence a Mage can store is their Avatar score. Quintessence can also be stored in things that are carried by a Mage.
 
 
 
