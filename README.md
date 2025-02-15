@@ -6,6 +6,10 @@ To read the illustrated book download Mage.pdf
 
 https://github.com/alt-magick/Mage-The-Ascension/blob/main/Mage.pdf
 
+A character sheet is at:
+
+https://github.com/alt-magick/Mage-The-Ascension/blob/main/alternate-character-sheet.pdf
+
 
 # Alternate Mage: The Ascension Rules
 
