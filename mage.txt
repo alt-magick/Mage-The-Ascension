@@ -258,6 +258,7 @@ Here is a quick overview of how to begin the character creation process:
 
 
 The 3 categories of attributes are divided into 3 levels of points: 7/5/3
+But they all start at 1.
 
 The 3 categories of abilities are also divided into 3 levels of points: 13/9/5
 
