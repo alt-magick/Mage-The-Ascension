@@ -10,6 +10,10 @@ A character sheet is at:
 
 https://github.com/alt-magick/Mage-The-Ascension/blob/main/alternate-character-sheet.pdf
 
+Buy the physical book at Amazon:
+
+https://www.amazon.com/Mage-Ascension-Alternate-Corey-White/dp/B0DPVFZN3C
+
 
 # Alternate Mage: The Ascension Rules
 
