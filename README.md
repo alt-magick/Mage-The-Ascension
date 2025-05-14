@@ -4,7 +4,7 @@ https://www.v5homebrew.com/wiki/Mage:_The_Ascension_(Alternate_Rules)
 
 Read the illustrated PDF at:
 
-https://github.com/alt-magick/Mage-The-Ascension/blob/main/Mage.pdf
+https://drive.google.com/file/d/1kkmLjDGKGPCNbIUpoC_CsZ5C8AybRui-/view?usp=sharing
 
 A character sheet is at:
 
