@@ -2,6 +2,10 @@ This page is mirrored at:
 
 https://www.v5homebrew.com/wiki/Mage:_The_Ascension_(Alternate_Rules)
 
+And can be downloaded from:
+
+https://www.drivethrurpg.com/en/product/484905/alternate-mage-the-ascension-spheres
+
 Read the illustrated PDF at:
 
 https://drive.google.com/file/d/1kkmLjDGKGPCNbIUpoC_CsZ5C8AybRui-/view?usp=sharing
